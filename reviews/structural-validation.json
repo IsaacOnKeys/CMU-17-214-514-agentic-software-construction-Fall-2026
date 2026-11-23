@@ -1,0 +1,18 @@
+{
+  "checked_on": "2026-11-23",
+  "ok": true,
+  "queue_rows": 198,
+  "jit_prompts": 107,
+  "checks": [
+    "198 unique ordered rows; prior-only dependencies form a DAG; required fields/statuses populated",
+    "107 one-to-one JIT files, row/index links, sources, triggers and seven required prompt sections checked",
+    "24 lectures, 13 labs, six assignments, five checkpoints, two midterms/final and per-unit gates represented",
+    "51 scheduled core events retain exact Fall ordering; inserted operational gates do not change their order",
+    "5 explicit provisioning/teardown pairs checked, including independent HW6 service",
+    "Workbook ZIP reopens, Excel table/filter/freeze/status validation exist; 151 local hyperlinks resolve",
+    "129 local Markdown navigation links resolve",
+    "14 source repository SHAs and 751 tracked file hashes unchanged",
+    "21 Fall decks / 1162 pages extracted and inventoried; selected visual review is documented separately"
+  ],
+  "errors": []
+}

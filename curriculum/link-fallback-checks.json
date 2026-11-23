@@ -1,0 +1,58 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab05.md",
+    "checked_on": "2026-11-23",
+    "status": 200,
+    "final_url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab05.md",
+    "ok": true,
+    "content_type": "text/plain; charset=utf-8"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab06.md",
+    "checked_on": "2026-11-23",
+    "status": 200,
+    "final_url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab06.md",
+    "ok": true,
+    "content_type": "text/plain; charset=utf-8"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab07.md",
+    "checked_on": "2026-11-23",
+    "status": 200,
+    "final_url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab07.md",
+    "ok": true,
+    "content_type": "text/plain; charset=utf-8"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab10.md",
+    "checked_on": "2026-11-23",
+    "status": 200,
+    "final_url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab10.md",
+    "ok": true,
+    "content_type": "text/plain; charset=utf-8"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/09-refactoring.pdf",
+    "checked_on": "2026-11-23",
+    "status": 200,
+    "final_url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/09-refactoring.pdf",
+    "ok": true,
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/11-apis-libraries-frameworks.pdf",
+    "checked_on": "2026-11-23",
+    "status": 200,
+    "final_url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/11-apis-libraries-frameworks.pdf",
+    "ok": true,
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/12-evolution-drift-memory.pdf",
+    "checked_on": "2026-11-23",
+    "status": 200,
+    "final_url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/12-evolution-drift-memory.pdf",
+    "ok": true,
+    "content_type": "application/octet-stream"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "title": "Intro, IDEs, Build Systems, CI, Libraries",
+    "url": "https://docs.google.com/presentation/d/1U0qfmIeOkD6BGVgyaty5HmxcbqSBTjT9FT7t8sAxECg/edit?usp=sharing",
+    "path": "course-materials/spring-decks/1U0qfmIeOkD6BGVgyaty5HmxcbqSBTjT9FT7t8sAxECg.pdf",
+    "downloaded": true,
+    "pdf_pages": 68,
+    "sha256": "76a6406759e5a7e91714770b2cda5ea32f7cc311af962c6de86d2aabd8ad2a15"
+  },
+  {
+    "title": "OO basics, Dynamic dispatch, Encapsulation",
+    "url": "https://docs.google.com/presentation/d/1sWLUaXcgR7-qcxlHuKNFYCjtZhXZPVMN64EOto_dTvk/edit?usp=sharing",
+    "path": "course-materials/spring-decks/1sWLUaXcgR7-qcxlHuKNFYCjtZhXZPVMN64EOto_dTvk.pdf",
+    "downloaded": true,
+    "pdf_pages": 67,
+    "sha256": "87938675cf5967c6c0acbdfd48cbe67dfb2e1a741023a44dfcf8e27556fd9468"
+  },
+  {
+    "title": "OO Analysis and UML",
+    "url": "https://docs.google.com/presentation/d/10bsxafe_IYbS811YUQFcbFh1XQsjhCxLODgiY_xosfk/edit?usp=sharing",
+    "path": "course-materials/spring-decks/10bsxafe_IYbS811YUQFcbFh1XQsjhCxLODgiY_xosfk.pdf",
+    "downloaded": true,
+    "pdf_pages": 59,
+    "sha256": "30e239b33b1451e21a40563dc7daeffd89a6cc59a82de5e91383f5637b207c03"
+  },
+  {
+    "title": "Responsibility Assignment",
+    "url": "https://docs.google.com/presentation/d/1TZ4_QRDg3VMI__uvTyfdRXfZPWWeiAXK9E_f-CB3WSg/edit?usp=sharing",
+    "path": "course-materials/spring-decks/1TZ4_QRDg3VMI__uvTyfdRXfZPWWeiAXK9E_f-CB3WSg.pdf",
+    "downloaded": true,
+    "pdf_pages": 77,
+    "sha256": "2212f61f905809e4917399cf197deb6e58664167071da5793a402b7c309e3a2c"
+  },
+  {
+    "title": "Inheritance and Delegation",
+    "url": "https://docs.google.com/presentation/d/1S6J5aaNo8UydPikpECoZbJUJeriBo89RoxYv3GrW_eQ/edit?usp=sharing",
+    "path": "course-materials/spring-decks/1S6J5aaNo8UydPikpECoZbJUJeriBo89RoxYv3GrW_eQ.pdf",
+    "downloaded": true,
+    "pdf_pages": 89,
+    "sha256": "d2470659abb68eb709da7d54a6e6a1d4448b0f94d686cc1cb53d3fabb52bb027"
+  },
+  {
+    "title": "Design Patterns",
+    "url": "https://docs.google.com/presentation/d/1j7jME89cDIFWRaUSsyaeLEmWyN91BoyV7xl1dvkw1Mo/edit?usp=sharing",
+    "path": "course-materials/spring-decks/1j7jME89cDIFWRaUSsyaeLEmWyN91BoyV7xl1dvkw1Mo.pdf",
+    "downloaded": true,
+    "pdf_pages": 56,
+    "sha256": "0828843861e3b6c70e53c9f66aa908278d695c3cce436626ca9858dda1f7fef2"
+  },
+  {
+    "title": "Design Practice",
+    "url": "https://docs.google.com/presentation/d/1n6vHbUJ3KvN2VaApDFWtA_1EqsixtKOXjRj2lD3y7-o/edit?usp=sharing",
+    "path": "course-materials/spring-decks/1n6vHbUJ3KvN2VaApDFWtA_1EqsixtKOXjRj2lD3y7-o.pdf",
+    "downloaded": true,
+    "pdf_pages": 33,
+    "sha256": "5b68f5e9cd707892eb81b24163d9a54538811c63916a6fb672b932f6373537c3"
+  },
+  {
+    "title": "Refactoring and Anti-patterns",
+    "url": "https://docs.google.com/presentation/d/1Bsh5GDdpP364Q4pQ1qfNkCiOjGqr2b0AOO1b61W-gU4/edit?usp=sharing",
+    "path": "course-materials/spring-decks/1Bsh5GDdpP364Q4pQ1qfNkCiOjGqr2b0AOO1b61W-gU4.pdf",
+    "downloaded": true,
+    "pdf_pages": 68,
+    "sha256": "1e698cbb64bee4bc665c3f149d34b081aaf953ac909f14a99ab352018a90c48a"
+  },
+  {
+    "title": "Specifications and Unit Testing, Exceptions",
+    "url": "https://docs.google.com/presentation/d/16oM13phJpG2aRg7BoA8wmk15ajg0wg06MhlNCWo78VU/edit?usp=sharing",
+    "path": "course-materials/spring-decks/16oM13phJpG2aRg7BoA8wmk15ajg0wg06MhlNCWo78VU.pdf",
+    "downloaded": true,
+    "pdf_pages": 82,
+    "sha256": "e223bbb2d0cb4cbcfe5339c9f257076f036cd21b8d45f3ae12113f2ffa020f8a"
+  },
+  {
+    "title": "Test Case Design",
+    "url": "https://docs.google.com/presentation/d/16yBPiNcjhJB9iYQA5b09ViOSllyOWBZBazVu2rnMlIQ/edit?usp=sharing",
+    "path": "course-materials/spring-decks/16yBPiNcjhJB9iYQA5b09ViOSllyOWBZBazVu2rnMlIQ.pdf",
+    "downloaded": true,
+    "pdf_pages": 92,
+    "sha256": "e39325e558b3365eea170c628594a5d4e0b35a6f7a4241ad38d7e3022e04a10c"
+  },
+  {
+    "title": "Testability",
+    "url": "https://docs.google.com/presentation/d/1Mf46KEj-XPN08qRG2xjKrB2wzZrOwlsn4YjkWBBQdnU/edit?usp=sharing",
+    "path": "course-materials/spring-decks/1Mf46KEj-XPN08qRG2xjKrB2wzZrOwlsn4YjkWBBQdnU.pdf",
+    "downloaded": true,
+    "pdf_pages": 62,
+    "sha256": "7b8101bac2cbdfb45c712ab4a7c60418e03644d6ea9acde0685ea3c1ae65c7de"
+  },
+  {
+    "title": "Introduction to Concurrency",
+    "url": "https://docs.google.com/presentation/d/1aFYWJ4QtANM2tWX1GtiIvT9L7rnw22Gbr7lfmLMPCdk/edit?usp=sharing",
+    "path": "course-materials/spring-decks/1aFYWJ4QtANM2tWX1GtiIvT9L7rnw22Gbr7lfmLMPCdk.pdf",
+    "downloaded": true,
+    "pdf_pages": 64,
+    "sha256": "860a847201001d4b1ba83a45a3bd15cc641117fb1d49541b3d78bd34994e37cf"
+  },
+  {
+    "title": "Concurrency and Hazards",
+    "url": "https://docs.google.com/presentation/d/1--BO9HwGLfwnpdttSOSI_kRulmAsNQGzGVDTfGeqlK0/edit?usp=sharing",
+    "path": "course-materials/spring-decks/1--BO9HwGLfwnpdttSOSI_kRulmAsNQGzGVDTfGeqlK0.pdf",
+    "downloaded": true,
+    "pdf_pages": 71,
+    "sha256": "1a3888c52b1d67d759074de1365838426ba9229a0f5b14f9a2e26a70ad381e24"
+  },
+  {
+    "title": "Java Parallelism",
+    "url": "https://docs.google.com/presentation/d/14ASy4UV457jG7Cre1aAngkt_AHGQYT3vWbC0Ezxye2E/edit?usp=sharing",
+    "path": "course-materials/spring-decks/14ASy4UV457jG7Cre1aAngkt_AHGQYT3vWbC0Ezxye2E.pdf",
+    "downloaded": true,
+    "pdf_pages": 37,
+    "sha256": "621040d21bc96789e4b7cc03c7ac73bdf442c0a4856ee46549c37de206361e6f"
+  },
+  {
+    "title": "Concurrency and Asynchrony in TypeScript",
+    "url": "https://docs.google.com/presentation/d/1YUgVurfVymI_vfK3VP-uXVl_7vuBqn1PAGxl588NMTM/edit?usp=sharing",
+    "path": "course-materials/spring-decks/1YUgVurfVymI_vfK3VP-uXVl_7vuBqn1PAGxl588NMTM.pdf",
+    "downloaded": true,
+    "pdf_pages": 70,
+    "sha256": "d2c074df8ada9ba2c392429fb419d5ac66bac7936e8ecc0e7ea20b3daa7f720a"
+  },
+  {
+    "title": "Concurrency and Patterns",
+    "url": "https://docs.google.com/presentation/d/1nkzV0PGuvGJyw83n7n3SlCuZS90lRDIKYHgs5Imwn7A/edit?usp=sharing",
+    "path": "course-materials/spring-decks/1nkzV0PGuvGJyw83n7n3SlCuZS90lRDIKYHgs5Imwn7A.pdf",
+    "downloaded": true,
+    "pdf_pages": 107,
+    "sha256": "ecefd0ca61d0ad5ff2d1f321494f5f2e03717329025a96b3f04f6739b41d9b0f"
+  },
+  {
+    "title": "GUIs",
+    "url": "https://docs.google.com/presentation/d/1Q273J9GnuihOmkbCiiMlPHJrsIA1oyjMhhq-1yexBIY/edit?usp=sharing",
+    "path": "course-materials/spring-decks/1Q273J9GnuihOmkbCiiMlPHJrsIA1oyjMhhq-1yexBIY.pdf",
+    "downloaded": true,
+    "pdf_pages": 75,
+    "sha256": "6c83c53f7d512e81f4b5a819c0677ed33362a37f0a3449bf441c00bd36f7bf81"
+  },
+  {
+    "title": "Libraries and Frameworks",
+    "url": "https://docs.google.com/presentation/d/1JgJLly89jxganL_vthxo0R9HUcbTyea3yPRKjIShbRo/edit?usp=sharing",
+    "path": "course-materials/spring-decks/1JgJLly89jxganL_vthxo0R9HUcbTyea3yPRKjIShbRo.pdf",
+    "downloaded": true,
+    "pdf_pages": 68,
+    "sha256": "19cced15500cc2c0706471a52e8f1fc4666a812aca551d8d5da5e4bfe7822a3a"
+  },
+  {
+    "title": "API Design",
+    "url": "https://docs.google.com/presentation/d/1zp7MZu08Cx9dEm6T-PwnXqgy87UC8-yclEc-942huIM/edit?usp=sharing",
+    "path": "course-materials/spring-decks/1zp7MZu08Cx9dEm6T-PwnXqgy87UC8-yclEc-942huIM.pdf",
+    "downloaded": true,
+    "pdf_pages": 50,
+    "sha256": "43bc1fd856a2681ba5b6db3295b49683fe469a93089842500358c0a619ff99a3"
+  },
+  {
+    "title": "API Design II",
+    "url": "https://docs.google.com/presentation/d/1pS4GDqdAh6LLkPos4NxC2vPGl6MG0bdyB5C_vEYKQUg/edit?usp=sharing",
+    "path": "course-materials/spring-decks/1pS4GDqdAh6LLkPos4NxC2vPGl6MG0bdyB5C_vEYKQUg.pdf",
+    "downloaded": true,
+    "pdf_pages": 50,
+    "sha256": "c1cdf2a0baec0b500e73adfb75d0b9d7fac113dd46e1c8f7f58feec311643252"
+  },
+  {
+    "title": "Supply Chain Security",
+    "url": "https://docs.google.com/presentation/d/1YoOMUDJGqPH7lUai7k1Q3NyLEe2X4vhGVYvr1_hjNAs/edit?usp=sharing",
+    "path": "course-materials/spring-decks/1YoOMUDJGqPH7lUai7k1Q3NyLEe2X4vhGVYvr1_hjNAs.pdf",
+    "downloaded": true,
+    "pdf_pages": 76,
+    "sha256": "83e7cf6a36eb222c32462ece132496a22888338a681ef6ebd0ce163b1f56b7e4"
+  },
+  {
+    "title": "Distributed Systems: Designing for Robustness",
+    "url": "https://docs.google.com/presentation/d/1rdvSOLc-snOvY_Do6kI8Vt4Sryo4CLeYaAgedfIMFO8/edit?usp=sharing",
+    "path": "course-materials/spring-decks/1rdvSOLc-snOvY_Do6kI8Vt4Sryo4CLeYaAgedfIMFO8.pdf",
+    "downloaded": true,
+    "pdf_pages": 84,
+    "sha256": "cd78ad5c42628215486516b7bd5ac04c39f928b40bbbd1651b24932781dd0907"
+  },
+  {
+    "title": "DevOps",
+    "url": "https://docs.google.com/presentation/d/142LnbouZQp9KrKxnd2P1rJStexp7Ho2I5HMo-42kqgY/edit?usp=sharing",
+    "path": "course-materials/spring-decks/142LnbouZQp9KrKxnd2P1rJStexp7Ho2I5HMo-42kqgY.pdf",
+    "downloaded": true,
+    "pdf_pages": 84,
+    "sha256": "d159188932d83b139804efab407ee0ac04c410ffa53fbaae3afa3773d1615e81"
+  },
+  {
+    "title": "Static & Dynamic Analyses",
+    "url": "https://docs.google.com/presentation/d/1iQD9IO6CffsE37eEt9Q1CqGtl5a4blwO72Ljpeeg_o0/edit?usp=sharing",
+    "path": "course-materials/spring-decks/1iQD9IO6CffsE37eEt9Q1CqGtl5a4blwO72Ljpeeg_o0.pdf",
+    "downloaded": true,
+    "pdf_pages": 69,
+    "sha256": "a85ae44e381b72cadef73eec7c77c262ef18f09a27a99a518332bbff5a76ea6b"
+  },
+  {
+    "title": "The Last One: Looking Back & Looking Forward",
+    "url": "https://docs.google.com/presentation/d/1FptLpMefUQRSPE33cJczBuydqAeXq_AhljdFv7yoio8/edit?usp=sharing",
+    "path": "course-materials/spring-decks/1FptLpMefUQRSPE33cJczBuydqAeXq_AhljdFv7yoio8.pdf",
+    "downloaded": true,
+    "pdf_pages": 248,
+    "sha256": "fd43f7b45adc26a37824fa63d713265395ffa52160fea56b60ce4bbf0701bce4"
+  }
+]

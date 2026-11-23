@@ -1,0 +1,1161 @@
+{
+  "checked_on": "2026-11-23",
+  "current_urls": 126,
+  "missing": [],
+  "results": [
+    {
+      "url": "https://arxiv.org/abs/2310.06770",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2310.06770",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://calculator.aws/",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://calculator.aws/",
+      "ok": true,
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://cmu-17-214.github.io/f2026/index.html",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://cmu-17-214.github.io/f2026/index.html",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://cmu-17-214.github.io/s2026/",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://cmu-17-214.github.io/s2026/",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://dev.java/learn/classes-objects/",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://dev.java/learn/classes-objects/",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Status",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status",
+      "ok": true,
+      "content_type": "text/html"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/cli/latest/reference/cloudformation/validate-template.html",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://docs.aws.amazon.com/cli/latest/reference/cloudformation/validate-template.html",
+      "ok": true,
+      "content_type": "text/html"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/cli/latest/reference/sts/get-caller-identity.html",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://docs.aws.amazon.com/cli/latest/reference/sts/get-caller-identity.html",
+      "ok": true,
+      "content_type": "text/html"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html",
+      "ok": true,
+      "content_type": "text/html"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager-getting-started-instance-profile.html",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager-getting-started-instance-profile.html",
+      "ok": true,
+      "content_type": "text/html"
+    },
+    {
+      "url": "https://docs.docker.com/reference/cli/docker/compose/up/",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://docs.docker.com/reference/cli/docker/compose/up/",
+      "ok": true,
+      "content_type": "text/html"
+    },
+    {
+      "url": "https://docs.github.com/en/actions/security-for-github-actions/security-guides/security-hardening-for-github-actions",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://docs.github.com/en/actions/reference/security/secure-use",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1--BO9HwGLfwnpdttSOSI_kRulmAsNQGzGVDTfGeqlK0/edit?usp=sharing",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://docs.google.com/presentation/d/1--BO9HwGLfwnpdttSOSI_kRulmAsNQGzGVDTfGeqlK0/edit?usp=sharing",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/10bsxafe_IYbS811YUQFcbFh1XQsjhCxLODgiY_xosfk/edit?usp=sharing",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://docs.google.com/presentation/d/10bsxafe_IYbS811YUQFcbFh1XQsjhCxLODgiY_xosfk/edit?usp=sharing",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/142LnbouZQp9KrKxnd2P1rJStexp7Ho2I5HMo-42kqgY/edit?usp=sharing",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://docs.google.com/presentation/d/142LnbouZQp9KrKxnd2P1rJStexp7Ho2I5HMo-42kqgY/edit?usp=sharing",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/14ASy4UV457jG7Cre1aAngkt_AHGQYT3vWbC0Ezxye2E/edit?usp=sharing",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://docs.google.com/presentation/d/14ASy4UV457jG7Cre1aAngkt_AHGQYT3vWbC0Ezxye2E/edit?usp=sharing",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/16oM13phJpG2aRg7BoA8wmk15ajg0wg06MhlNCWo78VU/edit?usp=sharing",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://docs.google.com/presentation/d/16oM13phJpG2aRg7BoA8wmk15ajg0wg06MhlNCWo78VU/edit?usp=sharing",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/16yBPiNcjhJB9iYQA5b09ViOSllyOWBZBazVu2rnMlIQ/edit?usp=sharing",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://docs.google.com/presentation/d/16yBPiNcjhJB9iYQA5b09ViOSllyOWBZBazVu2rnMlIQ/edit?usp=sharing",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1Bsh5GDdpP364Q4pQ1qfNkCiOjGqr2b0AOO1b61W-gU4/edit?usp=sharing",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://docs.google.com/presentation/d/1Bsh5GDdpP364Q4pQ1qfNkCiOjGqr2b0AOO1b61W-gU4/edit?usp=sharing",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1FptLpMefUQRSPE33cJczBuydqAeXq_AhljdFv7yoio8/edit?usp=sharing",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://docs.google.com/presentation/d/1FptLpMefUQRSPE33cJczBuydqAeXq_AhljdFv7yoio8/edit?usp=sharing",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1JgJLly89jxganL_vthxo0R9HUcbTyea3yPRKjIShbRo/edit?usp=sharing",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://docs.google.com/presentation/d/1JgJLly89jxganL_vthxo0R9HUcbTyea3yPRKjIShbRo/edit?usp=sharing",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1Mf46KEj-XPN08qRG2xjKrB2wzZrOwlsn4YjkWBBQdnU/edit?usp=sharing",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://docs.google.com/presentation/d/1Mf46KEj-XPN08qRG2xjKrB2wzZrOwlsn4YjkWBBQdnU/edit?usp=sharing",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1Q273J9GnuihOmkbCiiMlPHJrsIA1oyjMhhq-1yexBIY/edit?usp=sharing",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://docs.google.com/presentation/d/1Q273J9GnuihOmkbCiiMlPHJrsIA1oyjMhhq-1yexBIY/edit?usp=sharing",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1S6J5aaNo8UydPikpECoZbJUJeriBo89RoxYv3GrW_eQ/edit?usp=sharing",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://docs.google.com/presentation/d/1S6J5aaNo8UydPikpECoZbJUJeriBo89RoxYv3GrW_eQ/edit?usp=sharing",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8",
+      "first_attempt": {
+        "url": "https://docs.google.com/presentation/d/1S6J5aaNo8UydPikpECoZbJUJeriBo89RoxYv3GrW_eQ/edit?usp=sharing",
+        "checked_on": "2026-11-23",
+        "ok": false,
+        "error": "ReadTimeout"
+      }
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1TZ4_QRDg3VMI__uvTyfdRXfZPWWeiAXK9E_f-CB3WSg/edit?usp=sharing",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://docs.google.com/presentation/d/1TZ4_QRDg3VMI__uvTyfdRXfZPWWeiAXK9E_f-CB3WSg/edit?usp=sharing",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8",
+      "first_attempt": {
+        "url": "https://docs.google.com/presentation/d/1TZ4_QRDg3VMI__uvTyfdRXfZPWWeiAXK9E_f-CB3WSg/edit?usp=sharing",
+        "checked_on": "2026-11-23",
+        "ok": false,
+        "error": "ReadTimeout"
+      }
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1U0qfmIeOkD6BGVgyaty5HmxcbqSBTjT9FT7t8sAxECg/edit?usp=sharing",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://docs.google.com/presentation/d/1U0qfmIeOkD6BGVgyaty5HmxcbqSBTjT9FT7t8sAxECg/edit?usp=sharing",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1YUgVurfVymI_vfK3VP-uXVl_7vuBqn1PAGxl588NMTM/edit?usp=sharing",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://docs.google.com/presentation/d/1YUgVurfVymI_vfK3VP-uXVl_7vuBqn1PAGxl588NMTM/edit?usp=sharing",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1YoOMUDJGqPH7lUai7k1Q3NyLEe2X4vhGVYvr1_hjNAs/edit?usp=sharing",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://docs.google.com/presentation/d/1YoOMUDJGqPH7lUai7k1Q3NyLEe2X4vhGVYvr1_hjNAs/edit?usp=sharing",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1aFYWJ4QtANM2tWX1GtiIvT9L7rnw22Gbr7lfmLMPCdk/edit?usp=sharing",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://docs.google.com/presentation/d/1aFYWJ4QtANM2tWX1GtiIvT9L7rnw22Gbr7lfmLMPCdk/edit?usp=sharing",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1iQD9IO6CffsE37eEt9Q1CqGtl5a4blwO72Ljpeeg_o0/edit?usp=sharing",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://docs.google.com/presentation/d/1iQD9IO6CffsE37eEt9Q1CqGtl5a4blwO72Ljpeeg_o0/edit?usp=sharing",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1j7jME89cDIFWRaUSsyaeLEmWyN91BoyV7xl1dvkw1Mo/edit?usp=sharing",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://docs.google.com/presentation/d/1j7jME89cDIFWRaUSsyaeLEmWyN91BoyV7xl1dvkw1Mo/edit?usp=sharing",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1n6vHbUJ3KvN2VaApDFWtA_1EqsixtKOXjRj2lD3y7-o/edit?usp=sharing",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://docs.google.com/presentation/d/1n6vHbUJ3KvN2VaApDFWtA_1EqsixtKOXjRj2lD3y7-o/edit?usp=sharing",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1nkzV0PGuvGJyw83n7n3SlCuZS90lRDIKYHgs5Imwn7A/edit?usp=sharing",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://docs.google.com/presentation/d/1nkzV0PGuvGJyw83n7n3SlCuZS90lRDIKYHgs5Imwn7A/edit?usp=sharing",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1pS4GDqdAh6LLkPos4NxC2vPGl6MG0bdyB5C_vEYKQUg/edit?usp=sharing",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://docs.google.com/presentation/d/1pS4GDqdAh6LLkPos4NxC2vPGl6MG0bdyB5C_vEYKQUg/edit?usp=sharing",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1rdvSOLc-snOvY_Do6kI8Vt4Sryo4CLeYaAgedfIMFO8/edit?usp=sharing",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://docs.google.com/presentation/d/1rdvSOLc-snOvY_Do6kI8Vt4Sryo4CLeYaAgedfIMFO8/edit?usp=sharing",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1sWLUaXcgR7-qcxlHuKNFYCjtZhXZPVMN64EOto_dTvk/edit?usp=sharing",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://docs.google.com/presentation/d/1sWLUaXcgR7-qcxlHuKNFYCjtZhXZPVMN64EOto_dTvk/edit?usp=sharing",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://docs.google.com/presentation/d/1zp7MZu08Cx9dEm6T-PwnXqgy87UC8-yclEc-942huIM/edit?usp=sharing",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://docs.google.com/presentation/d/1zp7MZu08Cx9dEm6T-PwnXqgy87UC8-yclEc-942huIM/edit?usp=sharing",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://docs.python.org/3/library/venv.html",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://docs.python.org/3/library/venv.html",
+      "ok": true,
+      "content_type": "text/html"
+    },
+    {
+      "url": "https://fast-check.dev/docs/core-blocks/",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://fast-check.dev/docs/core-blocks/",
+      "ok": true,
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/assignments/hw1.md",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/assignments/hw1.md",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/assignments/hw2.md",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/assignments/hw2.md",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/assignments/hw3.md",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/assignments/hw3.md",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8",
+      "first_attempt": {
+        "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/assignments/hw3.md",
+        "checked_on": "2026-11-23",
+        "status": 503,
+        "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/assignments/hw3.md",
+        "ok": false,
+        "content_type": "text/html; charset=utf-8"
+      }
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/assignments/hw4.md",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/assignments/hw4.md",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/assignments/hw5.md",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/assignments/hw5.md",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8",
+      "first_attempt": {
+        "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/assignments/hw5.md",
+        "checked_on": "2026-11-23",
+        "status": 503,
+        "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/assignments/hw5.md",
+        "ok": false,
+        "content_type": "text/html; charset=utf-8"
+      }
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/assignments/hw6.md",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/assignments/hw6.md",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8",
+      "first_attempt": {
+        "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/assignments/hw6.md",
+        "checked_on": "2026-11-23",
+        "status": 503,
+        "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/assignments/hw6.md",
+        "ok": false,
+        "content_type": "text/html; charset=utf-8"
+      }
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/labs.md",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/labs.md",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab01.md",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab01.md",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab02.md",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab02.md",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab03.md",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab03.md",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8",
+      "first_attempt": {
+        "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab03.md",
+        "checked_on": "2026-11-23",
+        "status": 503,
+        "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab03.md",
+        "ok": false,
+        "content_type": "text/html; charset=utf-8"
+      }
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab04.md",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab04.md",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab08.md",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab08.md",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8",
+      "first_attempt": {
+        "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab08.md",
+        "checked_on": "2026-11-23",
+        "status": 503,
+        "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab08.md",
+        "ok": false,
+        "content_type": "text/html; charset=utf-8"
+      }
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab09.md",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab09.md",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab11.md",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab11.md",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab12.md",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab12.md",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/learninggoals.md",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/learninggoals.md",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/policies.md",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/policies.md",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8",
+      "first_attempt": {
+        "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/policies.md",
+        "checked_on": "2026-11-23",
+        "status": 503,
+        "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/policies.md",
+        "ok": false,
+        "content_type": "text/html; charset=utf-8"
+      }
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/01-introduction.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/01-introduction.pdf",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/02-agentic-development.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/02-agentic-development.pdf",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/03-testing-and-testability.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/03-testing-and-testability.pdf",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8",
+      "first_attempt": {
+        "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/03-testing-and-testability.pdf",
+        "checked_on": "2026-11-23",
+        "status": 503,
+        "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/03-testing-and-testability.pdf",
+        "ok": false,
+        "content_type": "text/html; charset=utf-8"
+      }
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/04-test-design-and-coverage.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/04-test-design-and-coverage.pdf",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/05-what-is-design.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/05-what-is-design.pdf",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/06-communicating-designs.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/06-communicating-designs.pdf",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/07-design-for-change.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/07-design-for-change.pdf",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/08-modularity-and-anti-patterns.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/08-modularity-and-anti-patterns.pdf",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/10-design-patterns.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/10-design-patterns.pdf",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8",
+      "first_attempt": {
+        "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/10-design-patterns.pdf",
+        "checked_on": "2026-11-23",
+        "ok": false,
+        "error": "ReadTimeout"
+      }
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/13-agent-architectures.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/13-agent-architectures.pdf",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8",
+      "first_attempt": {
+        "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/13-agent-architectures.pdf",
+        "checked_on": "2026-11-23",
+        "status": 503,
+        "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/13-agent-architectures.pdf",
+        "ok": false,
+        "content_type": "text/html; charset=utf-8"
+      }
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/14-agent-supervision.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/14-agent-supervision.pdf",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/15-software-architecture.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/15-software-architecture.pdf",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/16-data-models-at-scale.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/16-data-models-at-scale.pdf",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8",
+      "first_attempt": {
+        "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/16-data-models-at-scale.pdf",
+        "checked_on": "2026-11-23",
+        "status": 503,
+        "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/16-data-models-at-scale.pdf",
+        "ok": false,
+        "content_type": "text/html; charset=utf-8"
+      }
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/17-concurrency.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/17-concurrency.pdf",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8",
+      "first_attempt": {
+        "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/17-concurrency.pdf",
+        "checked_on": "2026-11-23",
+        "status": 503,
+        "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/17-concurrency.pdf",
+        "ok": false,
+        "content_type": "text/html; charset=utf-8"
+      }
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/18-coordinating-systems.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/18-coordinating-systems.pdf",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/19-containers-and-cloud.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/19-containers-and-cloud.pdf",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/20-devops.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/20-devops.pdf",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8",
+      "first_attempt": {
+        "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/20-devops.pdf",
+        "checked_on": "2026-11-23",
+        "status": 503,
+        "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/20-devops.pdf",
+        "ok": false,
+        "content_type": "text/html; charset=utf-8"
+      }
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/21-verification-pipeline.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/21-verification-pipeline.pdf",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f26-lab01",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f26-lab01",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f26-lab02",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f26-lab02",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f26-lab03",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f26-lab03",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f26-lab04",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f26-lab04",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f26-lab05",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f26-lab05",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8",
+      "first_attempt": {
+        "url": "https://github.com/CMU-17-214/f26-lab05",
+        "checked_on": "2026-11-23",
+        "ok": false,
+        "error": "ReadTimeout"
+      }
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f26-lab06",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f26-lab06",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f26-lab07",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f26-lab07",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8",
+      "first_attempt": {
+        "url": "https://github.com/CMU-17-214/f26-lab07",
+        "checked_on": "2026-11-23",
+        "ok": false,
+        "error": "ReadTimeout"
+      }
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f26-lab08",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f26-lab08",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f26-lab09",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f26-lab09",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f26-lab10",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f26-lab10",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f26-lab11",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f26-lab11",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/f26-lab12",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/f26-lab12",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/s2026",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/s2026",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/CMU-17-214/s2026/blob/a5b0b6a349b8b2282d0d42d6de2879a43d704087/labs/lab07.md",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/CMU-17-214/s2026/blob/a5b0b6a349b8b2282d0d42d6de2879a43d704087/labs/lab07.md",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/gitleaks/gitleaks/releases/tag/v8.30.1",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/gitleaks/gitleaks/releases/tag/v8.30.1",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/gwos/grafana/blob/372cf315d1714a26276e6ab704771453d36779c7/README.md",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/gwos/grafana/blob/372cf315d1714a26276e6ab704771453d36779c7/README.md",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8",
+      "first_attempt": {
+        "url": "https://github.com/gwos/grafana/blob/372cf315d1714a26276e6ab704771453d36779c7/README.md",
+        "checked_on": "2026-11-23",
+        "status": 503,
+        "final_url": "https://github.com/gwos/grafana/blob/372cf315d1714a26276e6ab704771453d36779c7/README.md",
+        "ok": false,
+        "content_type": "text/html; charset=utf-8"
+      }
+    },
+    {
+      "url": "https://github.com/home-assistant/architecture/tree/master/adr",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/home-assistant/architecture/tree/master/adr",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/pytorch/pytorch/blob/main/CLAUDE.md",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://github.com/pytorch/pytorch/blob/main/CLAUDE.md",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8",
+      "first_attempt": {
+        "url": "https://github.com/pytorch/pytorch/blob/main/CLAUDE.md",
+        "checked_on": "2026-11-23",
+        "status": 503,
+        "final_url": "https://github.com/pytorch/pytorch/blob/main/CLAUDE.md",
+        "ok": false,
+        "content_type": "text/html; charset=utf-8"
+      }
+    },
+    {
+      "url": "https://grafana.com/docs/k6/latest/using-k6/thresholds/",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://grafana.com/docs/k6/latest/using-k6/thresholds/",
+      "ok": true,
+      "content_type": "text/html"
+    },
+    {
+      "url": "https://halfelf.org/2016/the-problem-with-renaming/",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://halfelf.org/2016/the-problem-with-renaming/",
+      "ok": true,
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://jqwik.net/docs/1.8.4/user-guide.html",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://jqwik.net/docs/1.8.4/user-guide.html",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://modelcontextprotocol.io/docs/learn/architecture",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://modelcontextprotocol.io/docs/2026-07-28/learn/architecture",
+      "ok": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://opentelemetry.io/docs/concepts/signals/",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://opentelemetry.io/docs/concepts/signals/",
+      "ok": true,
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab05.md",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab05.md",
+      "ok": true,
+      "content_type": "text/plain; charset=utf-8"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab06.md",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab06.md",
+      "ok": true,
+      "content_type": "text/plain; charset=utf-8"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab07.md",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab07.md",
+      "ok": true,
+      "content_type": "text/plain; charset=utf-8"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab10.md",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab10.md",
+      "ok": true,
+      "content_type": "text/plain; charset=utf-8"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/01-introduction.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/01-introduction.pdf",
+      "ok": true,
+      "content_type": "application/octet-stream"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/02-agentic-development.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/02-agentic-development.pdf",
+      "ok": true,
+      "content_type": "application/octet-stream"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/03-testing-and-testability.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/03-testing-and-testability.pdf",
+      "ok": true,
+      "content_type": "application/octet-stream"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/04-test-design-and-coverage.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/04-test-design-and-coverage.pdf",
+      "ok": true,
+      "content_type": "application/octet-stream"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/05-what-is-design.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/05-what-is-design.pdf",
+      "ok": true,
+      "content_type": "application/octet-stream"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/06-communicating-designs.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/06-communicating-designs.pdf",
+      "ok": true,
+      "content_type": "application/octet-stream"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/07-design-for-change.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/07-design-for-change.pdf",
+      "ok": true,
+      "content_type": "application/octet-stream"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/08-modularity-and-anti-patterns.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/08-modularity-and-anti-patterns.pdf",
+      "ok": true,
+      "content_type": "application/octet-stream",
+      "first_attempt": {
+        "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/08-modularity-and-anti-patterns.pdf",
+        "checked_on": "2026-11-23",
+        "ok": false,
+        "error": "ReadTimeout"
+      }
+    },
+    {
+      "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/09-refactoring.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/09-refactoring.pdf",
+      "ok": true,
+      "content_type": "application/octet-stream"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/10-design-patterns.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/10-design-patterns.pdf",
+      "ok": true,
+      "content_type": "application/octet-stream"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/11-apis-libraries-frameworks.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/11-apis-libraries-frameworks.pdf",
+      "ok": true,
+      "content_type": "application/octet-stream"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/12-evolution-drift-memory.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/12-evolution-drift-memory.pdf",
+      "ok": true,
+      "content_type": "application/octet-stream"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/13-agent-architectures.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/13-agent-architectures.pdf",
+      "ok": true,
+      "content_type": "application/octet-stream"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/14-agent-supervision.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/14-agent-supervision.pdf",
+      "ok": true,
+      "content_type": "application/octet-stream",
+      "first_attempt": {
+        "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/14-agent-supervision.pdf",
+        "checked_on": "2026-11-23",
+        "ok": false,
+        "error": "ReadTimeout"
+      }
+    },
+    {
+      "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/15-software-architecture.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/15-software-architecture.pdf",
+      "ok": true,
+      "content_type": "application/octet-stream"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/16-data-models-at-scale.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/16-data-models-at-scale.pdf",
+      "ok": true,
+      "content_type": "application/octet-stream"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/17-concurrency.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/17-concurrency.pdf",
+      "ok": true,
+      "content_type": "application/octet-stream"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/18-coordinating-systems.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/18-coordinating-systems.pdf",
+      "ok": true,
+      "content_type": "application/octet-stream"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/19-containers-and-cloud.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/19-containers-and-cloud.pdf",
+      "ok": true,
+      "content_type": "application/octet-stream"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/20-devops.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/20-devops.pdf",
+      "ok": true,
+      "content_type": "application/octet-stream"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/21-verification-pipeline.pdf",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/21-verification-pipeline.pdf",
+      "ok": true,
+      "content_type": "application/octet-stream"
+    },
+    {
+      "url": "https://slsa.dev/spec/v1.2/threats-overview",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://slsa.dev/spec/v1.2/threats-overview",
+      "ok": true,
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://sre.google/sre-book/monitoring-distributed-systems/",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://sre.google/sre-book/monitoring-distributed-systems/",
+      "ok": true,
+      "content_type": "text/html"
+    },
+    {
+      "url": "https://www.baeldung.com/jacoco",
+      "checked_on": "2026-11-23",
+      "status": 200,
+      "final_url": "https://www.baeldung.com/jacoco",
+      "ok": true,
+      "content_type": "text/html; charset=UTF-8"
+    }
+  ]
+}

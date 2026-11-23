@@ -1,0 +1,303 @@
+[
+  {
+    "file": "01-introduction.pdf",
+    "pages": 48,
+    "text_chars": 16320,
+    "sparse_pages": [
+      5,
+      9,
+      10,
+      16,
+      21,
+      26,
+      29,
+      30,
+      35,
+      38
+    ]
+  },
+  {
+    "file": "02-agentic-development.pdf",
+    "pages": 55,
+    "text_chars": 20010,
+    "sparse_pages": [
+      5,
+      21,
+      22,
+      30,
+      32,
+      38,
+      46,
+      51
+    ]
+  },
+  {
+    "file": "03-testing-and-testability.pdf",
+    "pages": 57,
+    "text_chars": 30134,
+    "sparse_pages": [
+      14,
+      23,
+      39,
+      44
+    ]
+  },
+  {
+    "file": "04-test-design-and-coverage.pdf",
+    "pages": 60,
+    "text_chars": 20769,
+    "sparse_pages": [
+      5,
+      7,
+      9,
+      14,
+      19,
+      29,
+      30,
+      38,
+      43,
+      49,
+      54,
+      58
+    ]
+  },
+  {
+    "file": "05-what-is-design.pdf",
+    "pages": 71,
+    "text_chars": 26320,
+    "sparse_pages": [
+      3,
+      6,
+      15,
+      19,
+      22,
+      25,
+      31,
+      48,
+      52,
+      54,
+      59
+    ]
+  },
+  {
+    "file": "06-communicating-designs.pdf",
+    "pages": 62,
+    "text_chars": 24566,
+    "sparse_pages": [
+      7,
+      14,
+      28,
+      42,
+      51,
+      52
+    ]
+  },
+  {
+    "file": "07-design-for-change.pdf",
+    "pages": 61,
+    "text_chars": 27451,
+    "sparse_pages": [
+      7,
+      12,
+      30,
+      35,
+      36,
+      47,
+      53,
+      57
+    ]
+  },
+  {
+    "file": "08-modularity-and-anti-patterns.pdf",
+    "pages": 61,
+    "text_chars": 28674,
+    "sparse_pages": [
+      6,
+      11,
+      33,
+      38,
+      50,
+      56
+    ]
+  },
+  {
+    "file": "09-refactoring.pdf",
+    "pages": 53,
+    "text_chars": 23485,
+    "sparse_pages": [
+      6,
+      11,
+      18,
+      23,
+      30,
+      34,
+      41
+    ]
+  },
+  {
+    "file": "10-design-patterns.pdf",
+    "pages": 51,
+    "text_chars": 19570,
+    "sparse_pages": [
+      6,
+      11,
+      12,
+      16,
+      20,
+      25,
+      30,
+      35,
+      37,
+      43
+    ]
+  },
+  {
+    "file": "11-apis-libraries-frameworks.pdf",
+    "pages": 58,
+    "text_chars": 31321,
+    "sparse_pages": [
+      5,
+      11,
+      22,
+      27,
+      37,
+      41,
+      46,
+      50
+    ]
+  },
+  {
+    "file": "12-evolution-drift-memory.pdf",
+    "pages": 49,
+    "text_chars": 25060,
+    "sparse_pages": [
+      17,
+      27,
+      33,
+      42
+    ]
+  },
+  {
+    "file": "13-agent-architectures.pdf",
+    "pages": 53,
+    "text_chars": 26349,
+    "sparse_pages": [
+      2,
+      7,
+      12,
+      20,
+      30,
+      37,
+      45
+    ]
+  },
+  {
+    "file": "14-agent-supervision.pdf",
+    "pages": 54,
+    "text_chars": 27228,
+    "sparse_pages": [
+      5,
+      7,
+      9,
+      14,
+      19,
+      26,
+      41,
+      47
+    ]
+  },
+  {
+    "file": "15-software-architecture.pdf",
+    "pages": 51,
+    "text_chars": 24163,
+    "sparse_pages": [
+      5,
+      10,
+      18,
+      22,
+      34,
+      36,
+      39,
+      41,
+      45
+    ]
+  },
+  {
+    "file": "16-data-models-at-scale.pdf",
+    "pages": 55,
+    "text_chars": 29915,
+    "sparse_pages": [
+      6,
+      16,
+      30,
+      37,
+      45
+    ]
+  },
+  {
+    "file": "17-concurrency.pdf",
+    "pages": 51,
+    "text_chars": 27441,
+    "sparse_pages": [
+      6,
+      10,
+      18,
+      34,
+      41
+    ]
+  },
+  {
+    "file": "18-coordinating-systems.pdf",
+    "pages": 50,
+    "text_chars": 26135,
+    "sparse_pages": [
+      2,
+      6,
+      12,
+      21,
+      26,
+      29,
+      34,
+      45
+    ]
+  },
+  {
+    "file": "19-containers-and-cloud.pdf",
+    "pages": 49,
+    "text_chars": 26933,
+    "sparse_pages": [
+      6,
+      12,
+      24,
+      29,
+      33,
+      41
+    ]
+  },
+  {
+    "file": "20-devops.pdf",
+    "pages": 51,
+    "text_chars": 26996,
+    "sparse_pages": [
+      8,
+      14,
+      21,
+      36,
+      45
+    ]
+  },
+  {
+    "file": "21-verification-pipeline.pdf",
+    "pages": 62,
+    "text_chars": 37402,
+    "sparse_pages": [
+      8,
+      23,
+      31,
+      38,
+      46,
+      50,
+      58
+    ]
+  }
+]

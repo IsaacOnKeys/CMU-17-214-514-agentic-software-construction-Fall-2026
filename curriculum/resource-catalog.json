@@ -1,0 +1,590 @@
+[
+  {
+    "id": "FALL-SITE",
+    "name": "Original CMU Fall schedule and policies",
+    "url": "https://cmu-17-214.github.io/f2026/index.html",
+    "use": "Authority; recheck newly published units"
+  },
+  {
+    "id": "FALL-GOALS",
+    "name": "Original Fall learning goals",
+    "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/learninggoals.md",
+    "use": "All objectives"
+  },
+  {
+    "id": "FALL-POLICY",
+    "name": "Original Fall agent policy",
+    "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/policies.md",
+    "use": "Transcript, privacy, supervision"
+  },
+  {
+    "id": "SPRING-SITE",
+    "name": "Original CMU Spring course",
+    "url": "https://cmu-17-214.github.io/s2026/",
+    "use": "Reference only"
+  },
+  {
+    "id": "EXT-http",
+    "name": "MDN: HTTP response status codes",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Status",
+    "use": "Primary external reference; see source-and-gap-register.md"
+  },
+  {
+    "id": "EXT-java",
+    "name": "Java learning: classes and objects",
+    "url": "https://dev.java/learn/classes-objects/",
+    "use": "Primary external reference; see source-and-gap-register.md"
+  },
+  {
+    "id": "EXT-jqwik",
+    "name": "jqwik: properties, generators and shrinking",
+    "url": "https://jqwik.net/docs/1.8.4/user-guide.html",
+    "use": "Primary external reference; see source-and-gap-register.md"
+  },
+  {
+    "id": "EXT-fastcheck",
+    "name": "fast-check: getting started",
+    "url": "https://fast-check.dev/docs/core-blocks/",
+    "use": "Primary external reference; see source-and-gap-register.md"
+  },
+  {
+    "id": "EXT-awsidentity",
+    "name": "AWS CLI: get-caller-identity",
+    "url": "https://docs.aws.amazon.com/cli/latest/reference/sts/get-caller-identity.html",
+    "use": "Primary external reference; see source-and-gap-register.md"
+  },
+  {
+    "id": "EXT-awsssm",
+    "name": "AWS: Session Manager instance permissions",
+    "url": "https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager-getting-started-instance-profile.html",
+    "use": "Primary external reference; see source-and-gap-register.md"
+  },
+  {
+    "id": "EXT-awsbudget",
+    "name": "AWS Budgets: managing costs",
+    "url": "https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html",
+    "use": "Primary external reference; see source-and-gap-register.md"
+  },
+  {
+    "id": "EXT-awscf",
+    "name": "AWS CloudFormation: validate-template",
+    "url": "https://docs.aws.amazon.com/cli/latest/reference/cloudformation/validate-template.html",
+    "use": "Primary external reference; see source-and-gap-register.md"
+  },
+  {
+    "id": "EXT-awsprice",
+    "name": "AWS Pricing Calculator",
+    "url": "https://calculator.aws/",
+    "use": "Primary external reference; see source-and-gap-register.md"
+  },
+  {
+    "id": "EXT-compose",
+    "name": "Docker Compose: service scaling",
+    "url": "https://docs.docker.com/reference/cli/docker/compose/up/",
+    "use": "Primary external reference; see source-and-gap-register.md"
+  },
+  {
+    "id": "EXT-k6",
+    "name": "Grafana k6: thresholds",
+    "url": "https://grafana.com/docs/k6/latest/using-k6/thresholds/",
+    "use": "Primary external reference; see source-and-gap-register.md"
+  },
+  {
+    "id": "EXT-venv",
+    "name": "Python: virtual environments",
+    "url": "https://docs.python.org/3/library/venv.html",
+    "use": "Primary external reference; see source-and-gap-register.md"
+  },
+  {
+    "id": "EXT-mcp",
+    "name": "MCP: architecture and protocol scope",
+    "url": "https://modelcontextprotocol.io/docs/learn/architecture",
+    "use": "Primary external reference; see source-and-gap-register.md"
+  },
+  {
+    "id": "EXT-slsa",
+    "name": "SLSA v1.2: supply-chain threats",
+    "url": "https://slsa.dev/spec/v1.2/threats-overview",
+    "use": "Primary external reference; see source-and-gap-register.md"
+  },
+  {
+    "id": "EXT-sre",
+    "name": "Google SRE Ch.6: Monitoring Distributed Systems",
+    "url": "https://sre.google/sre-book/monitoring-distributed-systems/",
+    "use": "Primary external reference; see source-and-gap-register.md"
+  },
+  {
+    "id": "EXT-otel",
+    "name": "OpenTelemetry: signals",
+    "url": "https://opentelemetry.io/docs/concepts/signals/",
+    "use": "Primary external reference; see source-and-gap-register.md"
+  },
+  {
+    "id": "EXT-gitleaks",
+    "name": "Gitleaks v8.30.1",
+    "url": "https://github.com/gitleaks/gitleaks/releases/tag/v8.30.1",
+    "use": "Primary external reference; see source-and-gap-register.md"
+  },
+  {
+    "id": "EXT-actions",
+    "name": "GitHub Actions: secure use",
+    "url": "https://docs.github.com/en/actions/security-for-github-actions/security-guides/security-hardening-for-github-actions",
+    "use": "Primary external reference; see source-and-gap-register.md"
+  },
+  {
+    "id": "SPR-01",
+    "name": "Intro, IDEs, Build Systems, CI, Libraries",
+    "url": "https://docs.google.com/presentation/d/1U0qfmIeOkD6BGVgyaty5HmxcbqSBTjT9FT7t8sAxECg/edit?usp=sharing",
+    "use": "Original CMU Spring slide deck; targeted support or conditional prerequisite"
+  },
+  {
+    "id": "SPR-02",
+    "name": "OO basics, Dynamic dispatch, Encapsulation",
+    "url": "https://docs.google.com/presentation/d/1sWLUaXcgR7-qcxlHuKNFYCjtZhXZPVMN64EOto_dTvk/edit?usp=sharing",
+    "use": "Original CMU Spring slide deck; targeted support or conditional prerequisite"
+  },
+  {
+    "id": "SPR-03",
+    "name": "OO Analysis and UML",
+    "url": "https://docs.google.com/presentation/d/10bsxafe_IYbS811YUQFcbFh1XQsjhCxLODgiY_xosfk/edit?usp=sharing",
+    "use": "Original CMU Spring slide deck; targeted support or conditional prerequisite"
+  },
+  {
+    "id": "SPR-04",
+    "name": "Responsibility Assignment",
+    "url": "https://docs.google.com/presentation/d/1TZ4_QRDg3VMI__uvTyfdRXfZPWWeiAXK9E_f-CB3WSg/edit?usp=sharing",
+    "use": "Original CMU Spring slide deck; targeted support or conditional prerequisite"
+  },
+  {
+    "id": "SPR-05",
+    "name": "Inheritance and Delegation",
+    "url": "https://docs.google.com/presentation/d/1S6J5aaNo8UydPikpECoZbJUJeriBo89RoxYv3GrW_eQ/edit?usp=sharing",
+    "use": "Original CMU Spring slide deck; targeted support or conditional prerequisite"
+  },
+  {
+    "id": "SPR-06",
+    "name": "Design Patterns",
+    "url": "https://docs.google.com/presentation/d/1j7jME89cDIFWRaUSsyaeLEmWyN91BoyV7xl1dvkw1Mo/edit?usp=sharing",
+    "use": "Original CMU Spring slide deck; targeted support or conditional prerequisite"
+  },
+  {
+    "id": "SPR-07",
+    "name": "Design Practice",
+    "url": "https://docs.google.com/presentation/d/1n6vHbUJ3KvN2VaApDFWtA_1EqsixtKOXjRj2lD3y7-o/edit?usp=sharing",
+    "use": "Original CMU Spring slide deck; targeted support or conditional prerequisite"
+  },
+  {
+    "id": "SPR-08",
+    "name": "Refactoring and Anti-patterns",
+    "url": "https://docs.google.com/presentation/d/1Bsh5GDdpP364Q4pQ1qfNkCiOjGqr2b0AOO1b61W-gU4/edit?usp=sharing",
+    "use": "Original CMU Spring slide deck; targeted support or conditional prerequisite"
+  },
+  {
+    "id": "SPR-09",
+    "name": "Specifications and Unit Testing, Exceptions",
+    "url": "https://docs.google.com/presentation/d/16oM13phJpG2aRg7BoA8wmk15ajg0wg06MhlNCWo78VU/edit?usp=sharing",
+    "use": "Original CMU Spring slide deck; targeted support or conditional prerequisite"
+  },
+  {
+    "id": "SPR-10",
+    "name": "Test Case Design",
+    "url": "https://docs.google.com/presentation/d/16yBPiNcjhJB9iYQA5b09ViOSllyOWBZBazVu2rnMlIQ/edit?usp=sharing",
+    "use": "Original CMU Spring slide deck; targeted support or conditional prerequisite"
+  },
+  {
+    "id": "SPR-11",
+    "name": "Testability",
+    "url": "https://docs.google.com/presentation/d/1Mf46KEj-XPN08qRG2xjKrB2wzZrOwlsn4YjkWBBQdnU/edit?usp=sharing",
+    "use": "Original CMU Spring slide deck; targeted support or conditional prerequisite"
+  },
+  {
+    "id": "SPR-12",
+    "name": "Introduction to Concurrency",
+    "url": "https://docs.google.com/presentation/d/1aFYWJ4QtANM2tWX1GtiIvT9L7rnw22Gbr7lfmLMPCdk/edit?usp=sharing",
+    "use": "Original CMU Spring slide deck; targeted support or conditional prerequisite"
+  },
+  {
+    "id": "SPR-13",
+    "name": "Concurrency and Hazards",
+    "url": "https://docs.google.com/presentation/d/1--BO9HwGLfwnpdttSOSI_kRulmAsNQGzGVDTfGeqlK0/edit?usp=sharing",
+    "use": "Original CMU Spring slide deck; targeted support or conditional prerequisite"
+  },
+  {
+    "id": "SPR-14",
+    "name": "Java Parallelism",
+    "url": "https://docs.google.com/presentation/d/14ASy4UV457jG7Cre1aAngkt_AHGQYT3vWbC0Ezxye2E/edit?usp=sharing",
+    "use": "Original CMU Spring slide deck; targeted support or conditional prerequisite"
+  },
+  {
+    "id": "SPR-15",
+    "name": "Concurrency and Asynchrony in TypeScript",
+    "url": "https://docs.google.com/presentation/d/1YUgVurfVymI_vfK3VP-uXVl_7vuBqn1PAGxl588NMTM/edit?usp=sharing",
+    "use": "Original CMU Spring slide deck; targeted support or conditional prerequisite"
+  },
+  {
+    "id": "SPR-16",
+    "name": "Concurrency and Patterns",
+    "url": "https://docs.google.com/presentation/d/1nkzV0PGuvGJyw83n7n3SlCuZS90lRDIKYHgs5Imwn7A/edit?usp=sharing",
+    "use": "Original CMU Spring slide deck; targeted support or conditional prerequisite"
+  },
+  {
+    "id": "SPR-17",
+    "name": "GUIs",
+    "url": "https://docs.google.com/presentation/d/1Q273J9GnuihOmkbCiiMlPHJrsIA1oyjMhhq-1yexBIY/edit?usp=sharing",
+    "use": "Original CMU Spring slide deck; targeted support or conditional prerequisite"
+  },
+  {
+    "id": "SPR-18",
+    "name": "Libraries and Frameworks",
+    "url": "https://docs.google.com/presentation/d/1JgJLly89jxganL_vthxo0R9HUcbTyea3yPRKjIShbRo/edit?usp=sharing",
+    "use": "Original CMU Spring slide deck; targeted support or conditional prerequisite"
+  },
+  {
+    "id": "SPR-19",
+    "name": "API Design",
+    "url": "https://docs.google.com/presentation/d/1zp7MZu08Cx9dEm6T-PwnXqgy87UC8-yclEc-942huIM/edit?usp=sharing",
+    "use": "Original CMU Spring slide deck; targeted support or conditional prerequisite"
+  },
+  {
+    "id": "SPR-20",
+    "name": "API Design II",
+    "url": "https://docs.google.com/presentation/d/1pS4GDqdAh6LLkPos4NxC2vPGl6MG0bdyB5C_vEYKQUg/edit?usp=sharing",
+    "use": "Original CMU Spring slide deck; targeted support or conditional prerequisite"
+  },
+  {
+    "id": "SPR-21",
+    "name": "Supply Chain Security",
+    "url": "https://docs.google.com/presentation/d/1YoOMUDJGqPH7lUai7k1Q3NyLEe2X4vhGVYvr1_hjNAs/edit?usp=sharing",
+    "use": "Original CMU Spring slide deck; targeted support or conditional prerequisite"
+  },
+  {
+    "id": "SPR-22",
+    "name": "Distributed Systems: Designing for Robustness",
+    "url": "https://docs.google.com/presentation/d/1rdvSOLc-snOvY_Do6kI8Vt4Sryo4CLeYaAgedfIMFO8/edit?usp=sharing",
+    "use": "Original CMU Spring slide deck; targeted support or conditional prerequisite"
+  },
+  {
+    "id": "SPR-23",
+    "name": "DevOps",
+    "url": "https://docs.google.com/presentation/d/142LnbouZQp9KrKxnd2P1rJStexp7Ho2I5HMo-42kqgY/edit?usp=sharing",
+    "use": "Original CMU Spring slide deck; targeted support or conditional prerequisite"
+  },
+  {
+    "id": "SPR-24",
+    "name": "Static & Dynamic Analyses",
+    "url": "https://docs.google.com/presentation/d/1iQD9IO6CffsE37eEt9Q1CqGtl5a4blwO72Ljpeeg_o0/edit?usp=sharing",
+    "use": "Original CMU Spring slide deck; targeted support or conditional prerequisite"
+  },
+  {
+    "id": "SPR-25",
+    "name": "The Last One: Looking Back & Looking Forward",
+    "url": "https://docs.google.com/presentation/d/1FptLpMefUQRSPE33cJczBuydqAeXq_AhljdFv7yoio8/edit?usp=sharing",
+    "use": "Original CMU Spring slide deck; targeted support or conditional prerequisite"
+  },
+  {
+    "id": "FALL-L01",
+    "name": "Course Introduction and Modern Software Engineering",
+    "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/01-introduction.pdf",
+    "use": "Original Fall deck; see lecture-review.md"
+  },
+  {
+    "id": "FALL-L02",
+    "name": "Agentic Development and Design for Verification",
+    "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/02-agentic-development.pdf",
+    "use": "Original Fall deck; see lecture-review.md"
+  },
+  {
+    "id": "FALL-L03",
+    "name": "Testing and Testability",
+    "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/03-testing-and-testability.pdf",
+    "use": "Original Fall deck; see lecture-review.md"
+  },
+  {
+    "id": "FALL-L04",
+    "name": "Test Design and Coverage",
+    "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/04-test-design-and-coverage.pdf",
+    "use": "Original Fall deck; see lecture-review.md"
+  },
+  {
+    "id": "FALL-L05",
+    "name": "What Is a Software System's Design?",
+    "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/05-what-is-design.pdf",
+    "use": "Original Fall deck; see lecture-review.md"
+  },
+  {
+    "id": "FALL-L06",
+    "name": "Communicating and Recording Designs",
+    "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/06-communicating-designs.pdf",
+    "use": "Original Fall deck; see lecture-review.md"
+  },
+  {
+    "id": "FALL-L07",
+    "name": "Design for Change",
+    "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/07-design-for-change.pdf",
+    "use": "Original Fall deck; see lecture-review.md"
+  },
+  {
+    "id": "FALL-L08",
+    "name": "Modularity and Anti-Patterns",
+    "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/08-modularity-and-anti-patterns.pdf",
+    "use": "Original Fall deck; see lecture-review.md"
+  },
+  {
+    "id": "FALL-L09",
+    "name": "Refactoring and Design Improvement",
+    "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/09-refactoring.pdf",
+    "use": "Original Fall deck; see lecture-review.md"
+  },
+  {
+    "id": "FALL-L10",
+    "name": "Design Patterns and Tradeoffs",
+    "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/10-design-patterns.pdf",
+    "use": "Original Fall deck; see lecture-review.md"
+  },
+  {
+    "id": "FALL-L11",
+    "name": "APIs, Libraries, and Frameworks",
+    "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/11-apis-libraries-frameworks.pdf",
+    "use": "Original Fall deck; see lecture-review.md"
+  },
+  {
+    "id": "FALL-L12",
+    "name": "Evolution, Drift, and Decision Archaeology",
+    "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/12-evolution-drift-memory.pdf",
+    "use": "Original Fall deck; see lecture-review.md"
+  },
+  {
+    "id": "FALL-L13",
+    "name": "Agent Architectures",
+    "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/13-agent-architectures.pdf",
+    "use": "Original Fall deck; see lecture-review.md"
+  },
+  {
+    "id": "FALL-L14",
+    "name": "Agent Supervision and Safety",
+    "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/14-agent-supervision.pdf",
+    "use": "Original Fall deck; see lecture-review.md"
+  },
+  {
+    "id": "FALL-L15",
+    "name": "Software Architecture and Subsystem Design",
+    "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/15-software-architecture.pdf",
+    "use": "Original Fall deck; see lecture-review.md"
+  },
+  {
+    "id": "FALL-L16",
+    "name": "Data Models at Scale (deck: State at Scale)",
+    "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/16-data-models-at-scale.pdf",
+    "use": "Original Fall deck; see lecture-review.md"
+  },
+  {
+    "id": "FALL-L17",
+    "name": "Concurrency and Asynchrony",
+    "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/17-concurrency.pdf",
+    "use": "Original Fall deck; see lecture-review.md"
+  },
+  {
+    "id": "FALL-L18",
+    "name": "Coordinating and Communicating Systems",
+    "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/18-coordinating-systems.pdf",
+    "use": "Original Fall deck; see lecture-review.md"
+  },
+  {
+    "id": "FALL-L19",
+    "name": "Containers and the Cloud",
+    "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/19-containers-and-cloud.pdf",
+    "use": "Original Fall deck; see lecture-review.md"
+  },
+  {
+    "id": "FALL-L20",
+    "name": "DevOps",
+    "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/20-devops.pdf",
+    "use": "Original Fall deck; see lecture-review.md"
+  },
+  {
+    "id": "FALL-L21",
+    "name": "Verification in the Pipeline",
+    "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/slides/21-verification-pipeline.pdf",
+    "use": "Original Fall deck; see lecture-review.md"
+  },
+  {
+    "id": "FALL-LAB01",
+    "name": "Course Infrastructure and Your First Supervised Task",
+    "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab01.md",
+    "use": "Original public lab handout"
+  },
+  {
+    "id": "FALL-LAB02",
+    "name": "Testing, Testability, and Auditing a Generated Suite",
+    "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab02.md",
+    "use": "Original public lab handout"
+  },
+  {
+    "id": "FALL-LAB03",
+    "name": "Find the Design Gap",
+    "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab03.md",
+    "use": "Original public lab handout"
+  },
+  {
+    "id": "FALL-LAB04",
+    "name": "Baby AWS Deploy",
+    "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab04.md",
+    "use": "Original public lab handout"
+  },
+  {
+    "id": "FALL-LAB05",
+    "name": "Anti-Pattern Critique of Generated Code",
+    "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab05.md",
+    "use": "Original public lab handout"
+  },
+  {
+    "id": "FALL-LAB06",
+    "name": "API Contract Under Pressure",
+    "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab06.md",
+    "use": "Original public lab handout"
+  },
+  {
+    "id": "FALL-LAB07",
+    "name": "Direct a Refactor",
+    "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab07.md",
+    "use": "Original public lab handout"
+  },
+  {
+    "id": "FALL-LAB08",
+    "name": "Supervise a Repo-Scale Task",
+    "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab08.md",
+    "use": "Original public lab handout"
+  },
+  {
+    "id": "FALL-LAB09",
+    "name": "Boundaries, State, and Copies",
+    "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab09.md",
+    "use": "Original public lab handout"
+  },
+  {
+    "id": "FALL-LAB10",
+    "name": "Find the Race",
+    "url": "https://raw.githubusercontent.com/CMU-17-214/f2026/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab10.md",
+    "use": "Original public lab handout"
+  },
+  {
+    "id": "FALL-LAB11",
+    "name": "Events, Replay, and Refunds",
+    "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab11.md",
+    "use": "Original public lab handout"
+  },
+  {
+    "id": "FALL-LAB12",
+    "name": "Set Up a CI Gate",
+    "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/labs/lab12.md",
+    "use": "Original public lab handout"
+  },
+  {
+    "id": "FALL-HW01",
+    "name": "Bad Slack",
+    "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/assignments/hw1.md",
+    "use": "Original assignment brief; private files audited separately"
+  },
+  {
+    "id": "FALL-HW02",
+    "name": "Better Slack",
+    "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/assignments/hw2.md",
+    "use": "Original assignment brief; private files audited separately"
+  },
+  {
+    "id": "FALL-HW03",
+    "name": "Two Roads",
+    "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/assignments/hw3.md",
+    "use": "Original assignment brief; private files audited separately"
+  },
+  {
+    "id": "FALL-HW04",
+    "name": "Jenkins",
+    "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/assignments/hw4.md",
+    "use": "Original assignment brief; private files audited separately"
+  },
+  {
+    "id": "FALL-HW05",
+    "name": "Scale What You Built",
+    "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/assignments/hw5.md",
+    "use": "Original assignment brief; private files audited separately"
+  },
+  {
+    "id": "FALL-HW06",
+    "name": "Operate What You Built",
+    "url": "https://github.com/CMU-17-214/f2026/blob/3f5235eb6a9c652823cb21167846f978eea66c7e/assignments/hw6.md",
+    "use": "Original assignment brief; private files audited separately"
+  },
+  {
+    "id": "REPO-LAB01",
+    "name": "Original public Lab 01 starter",
+    "url": "https://github.com/CMU-17-214/f26-lab01",
+    "use": "Archived SHA in source-manifest.json; working copy only at JIT trigger"
+  },
+  {
+    "id": "REPO-LAB02",
+    "name": "Original public Lab 02 starter",
+    "url": "https://github.com/CMU-17-214/f26-lab02",
+    "use": "Archived SHA in source-manifest.json; working copy only at JIT trigger"
+  },
+  {
+    "id": "REPO-LAB03",
+    "name": "Original public Lab 03 starter",
+    "url": "https://github.com/CMU-17-214/f26-lab03",
+    "use": "Archived SHA in source-manifest.json; working copy only at JIT trigger"
+  },
+  {
+    "id": "REPO-LAB04",
+    "name": "Original public Lab 04 starter",
+    "url": "https://github.com/CMU-17-214/f26-lab04",
+    "use": "Archived SHA in source-manifest.json; working copy only at JIT trigger"
+  },
+  {
+    "id": "REPO-LAB05",
+    "name": "Original public Lab 05 starter",
+    "url": "https://github.com/CMU-17-214/f26-lab05",
+    "use": "Archived SHA in source-manifest.json; working copy only at JIT trigger"
+  },
+  {
+    "id": "REPO-LAB06",
+    "name": "Original public Lab 06 starter",
+    "url": "https://github.com/CMU-17-214/f26-lab06",
+    "use": "Archived SHA in source-manifest.json; working copy only at JIT trigger"
+  },
+  {
+    "id": "REPO-LAB07",
+    "name": "Original public Lab 07 starter",
+    "url": "https://github.com/CMU-17-214/f26-lab07",
+    "use": "Archived SHA in source-manifest.json; working copy only at JIT trigger"
+  },
+  {
+    "id": "REPO-LAB08",
+    "name": "Original public Lab 08 starter",
+    "url": "https://github.com/CMU-17-214/f26-lab08",
+    "use": "Archived SHA in source-manifest.json; working copy only at JIT trigger"
+  },
+  {
+    "id": "REPO-LAB09",
+    "name": "Original public Lab 09 starter",
+    "url": "https://github.com/CMU-17-214/f26-lab09",
+    "use": "Archived SHA in source-manifest.json; working copy only at JIT trigger"
+  },
+  {
+    "id": "REPO-LAB10",
+    "name": "Original public Lab 10 starter",
+    "url": "https://github.com/CMU-17-214/f26-lab10",
+    "use": "Archived SHA in source-manifest.json; working copy only at JIT trigger"
+  },
+  {
+    "id": "REPO-LAB11",
+    "name": "Original public Lab 11 starter",
+    "url": "https://github.com/CMU-17-214/f26-lab11",
+    "use": "Archived SHA in source-manifest.json; working copy only at JIT trigger"
+  },
+  {
+    "id": "REPO-LAB12",
+    "name": "Original public Lab 12 starter",
+    "url": "https://github.com/CMU-17-214/f26-lab12",
+    "use": "Archived SHA in source-manifest.json; working copy only at JIT trigger"
+  }
+]

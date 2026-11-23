@@ -1,0 +1,485 @@
+[
+  {
+    "lab": "f26-lab01",
+    "pom_dependencies": [
+      [
+        "pom.xml",
+        [
+          [
+            "junit-jupiter",
+            "${junit.version}"
+          ]
+        ]
+      ]
+    ],
+    "npm_manifests": {},
+    "python_manifests": {},
+    "ci": {}
+  },
+  {
+    "lab": "f26-lab02",
+    "pom_dependencies": [
+      [
+        "pom.xml",
+        [
+          [
+            "junit-jupiter",
+            "5.10.2"
+          ],
+          [
+            "jqwik",
+            "1.8.4"
+          ]
+        ]
+      ]
+    ],
+    "npm_manifests": {},
+    "python_manifests": {},
+    "ci": {
+      ".github\\workflows\\ci.yml": "name: CI\n\non:\n  push:\n  pull_request:\n\njobs:\n  test:\n    runs-on: ubuntu-latest\n    steps:\n      - uses: actions/checkout@v4\n      - name: Set up JDK 21\n        uses: actions/setup-java@v4\n        with:\n          distribution: temurin\n          java-version: \"21\"\n          cache: maven\n      - name: Run tests\n        run: mvn -B test\n"
+    }
+  },
+  {
+    "lab": "f26-lab03",
+    "pom_dependencies": [
+      [
+        "pom.xml",
+        [
+          [
+            "junit-jupiter",
+            "5.10.2"
+          ]
+        ]
+      ]
+    ],
+    "npm_manifests": {},
+    "python_manifests": {},
+    "ci": {
+      ".github\\workflows\\ci.yml": "name: CI\n\non:\n  push:\n  pull_request:\n\njobs:\n  test:\n    runs-on: ubuntu-latest\n    steps:\n      - uses: actions/checkout@v4\n      - name: Set up JDK 21\n        uses: actions/setup-java@v4\n        with:\n          distribution: temurin\n          java-version: \"21\"\n          cache: maven\n      - name: Run tests\n        run: mvn -B test\n"
+    }
+  },
+  {
+    "lab": "f26-lab04",
+    "pom_dependencies": [
+      [
+        "service\\pom.xml",
+        [
+          [
+            "junit-jupiter",
+            "5.10.2"
+          ]
+        ]
+      ]
+    ],
+    "npm_manifests": {},
+    "python_manifests": {},
+    "ci": {
+      ".github\\workflows\\ci.yml": "name: CI\n\non:\n  push:\n  pull_request:\n\njobs:\n  test:\n    runs-on: ubuntu-latest\n    steps:\n      - uses: actions/checkout@v4\n      - name: Set up JDK 21\n        uses: actions/setup-java@v4\n        with:\n          distribution: temurin\n          java-version: \"21\"\n          cache: maven\n      - name: Run tests\n        run: mvn -B test\n        working-directory: service\n\n  image:\n    runs-on: ubuntu-latest\n    steps:\n      - uses: actions/checkout@v4\n      - name: Build the container image\n        run: docker build -t lab04-service .\n"
+    }
+  },
+  {
+    "lab": "f26-lab05",
+    "pom_dependencies": [],
+    "npm_manifests": {
+      "package.json": {
+        "name": "reservation-service",
+        "version": "1.0.0",
+        "private": true,
+        "type": "module",
+        "description": "Reservation service module for CMU 17-214/514 Lab 5.",
+        "engines": {
+          "node": ">=20"
+        },
+        "scripts": {
+          "test": "vitest run",
+          "typecheck": "tsc --noEmit"
+        },
+        "devDependencies": {
+          "typescript": "^5",
+          "vitest": "^3"
+        }
+      }
+    },
+    "python_manifests": {},
+    "ci": {
+      ".github\\workflows\\ci.yml": "name: CI\n\non:\n  push:\n  pull_request:\n\njobs:\n  build:\n    runs-on: ubuntu-latest\n    steps:\n      - uses: actions/checkout@v4\n      - uses: actions/setup-node@v4\n        with:\n          node-version: 20\n          cache: npm\n      - run: npm ci\n      - run: npm run typecheck\n      - run: npm test\n"
+    }
+  },
+  {
+    "lab": "f26-lab06",
+    "pom_dependencies": [
+      [
+        "pom.xml",
+        [
+          [
+            "junit-jupiter",
+            "${junit.version}"
+          ],
+          [
+            "lab06-api",
+            "${project.version}"
+          ]
+        ]
+      ],
+      [
+        "api\\pom.xml",
+        [
+          [
+            "junit-jupiter",
+            null
+          ]
+        ]
+      ],
+      [
+        "consumer\\pom.xml",
+        [
+          [
+            "lab06-api",
+            null
+          ],
+          [
+            "junit-jupiter",
+            null
+          ]
+        ]
+      ]
+    ],
+    "npm_manifests": {},
+    "python_manifests": {},
+    "ci": {
+      ".github\\workflows\\ci.yml": "name: CI\n\non:\n  push:\n  pull_request:\n\njobs:\n  test:\n    runs-on: ubuntu-latest\n    steps:\n      - uses: actions/checkout@v4\n      - name: Set up JDK 21\n        uses: actions/setup-java@v4\n        with:\n          distribution: temurin\n          java-version: \"21\"\n          cache: maven\n      - name: Build and test both modules\n        run: mvn -B test\n"
+    }
+  },
+  {
+    "lab": "f26-lab07",
+    "pom_dependencies": [
+      [
+        "pom.xml",
+        [
+          [
+            "junit-jupiter",
+            "${junit.version}"
+          ]
+        ]
+      ]
+    ],
+    "npm_manifests": {},
+    "python_manifests": {},
+    "ci": {
+      ".github\\workflows\\ci.yml": "name: CI\n\non:\n  push:\n  pull_request:\n\njobs:\n  test:\n    runs-on: ubuntu-latest\n    steps:\n      - uses: actions/checkout@v4\n      - name: Set up JDK 21\n        uses: actions/setup-java@v4\n        with:\n          distribution: temurin\n          java-version: \"21\"\n          cache: maven\n      - name: Build and test\n        run: mvn -B test\n"
+    }
+  },
+  {
+    "lab": "f26-lab08",
+    "pom_dependencies": [
+      [
+        "pom.xml",
+        [
+          [
+            "core-domain",
+            "${project.version}"
+          ],
+          [
+            "storage",
+            "${project.version}"
+          ],
+          [
+            "notifications",
+            "${project.version}"
+          ],
+          [
+            "accounts",
+            "${project.version}"
+          ],
+          [
+            "billing",
+            "${project.version}"
+          ],
+          [
+            "junit-jupiter",
+            "${junit.version}"
+          ],
+          [
+            "junit-jupiter",
+            null
+          ]
+        ]
+      ],
+      [
+        "accounts\\pom.xml",
+        [
+          [
+            "core-domain",
+            null
+          ]
+        ]
+      ],
+      [
+        "billing\\pom.xml",
+        [
+          [
+            "core-domain",
+            null
+          ],
+          [
+            "storage",
+            null
+          ]
+        ]
+      ],
+      [
+        "cli\\pom.xml",
+        [
+          [
+            "core-domain",
+            null
+          ],
+          [
+            "storage",
+            null
+          ],
+          [
+            "billing",
+            null
+          ]
+        ]
+      ],
+      [
+        "core-domain\\pom.xml",
+        []
+      ],
+      [
+        "http-api\\pom.xml",
+        [
+          [
+            "core-domain",
+            null
+          ],
+          [
+            "storage",
+            null
+          ],
+          [
+            "notifications",
+            null
+          ],
+          [
+            "accounts",
+            null
+          ]
+        ]
+      ],
+      [
+        "notifications\\pom.xml",
+        [
+          [
+            "core-domain",
+            null
+          ]
+        ]
+      ],
+      [
+        "storage\\pom.xml",
+        [
+          [
+            "core-domain",
+            null
+          ]
+        ]
+      ]
+    ],
+    "npm_manifests": {},
+    "python_manifests": {},
+    "ci": {
+      ".github\\workflows\\ci.yml": "name: CI\n\non:\n  push:\n  pull_request:\n\njobs:\n  java:\n    runs-on: ubuntu-latest\n    steps:\n      - uses: actions/checkout@v4\n      - name: Set up JDK 21\n        uses: actions/setup-java@v4\n        with:\n          distribution: temurin\n          java-version: \"21\"\n          cache: maven\n      - name: Build and test\n        run: mvn -B test\n\n  python:\n    runs-on: ubuntu-latest\n    steps:\n      - uses: actions/checkout@v4\n      - name: Set up Python 3.11\n        uses: actions/setup-python@v5\n        with:\n          python-version: \"3.11\"\n      - name: Install pytest\n        run: python -m pip install --upgrade pip pytest\n      - name: Run the analytics tests\n        working-directory: analytics\n        run: pytest\n"
+    }
+  },
+  {
+    "lab": "f26-lab09",
+    "pom_dependencies": [
+      [
+        "pom.xml",
+        [
+          [
+            "core-domain",
+            "${project.version}"
+          ],
+          [
+            "storage",
+            "${project.version}"
+          ],
+          [
+            "notifications",
+            "${project.version}"
+          ],
+          [
+            "accounts",
+            "${project.version}"
+          ],
+          [
+            "billing",
+            "${project.version}"
+          ],
+          [
+            "junit-jupiter",
+            "${junit.version}"
+          ],
+          [
+            "junit-jupiter",
+            null
+          ]
+        ]
+      ],
+      [
+        "accounts\\pom.xml",
+        [
+          [
+            "core-domain",
+            null
+          ]
+        ]
+      ],
+      [
+        "billing\\pom.xml",
+        [
+          [
+            "core-domain",
+            null
+          ],
+          [
+            "storage",
+            null
+          ]
+        ]
+      ],
+      [
+        "cli\\pom.xml",
+        [
+          [
+            "core-domain",
+            null
+          ],
+          [
+            "storage",
+            null
+          ],
+          [
+            "billing",
+            null
+          ]
+        ]
+      ],
+      [
+        "core-domain\\pom.xml",
+        []
+      ],
+      [
+        "http-api\\pom.xml",
+        [
+          [
+            "core-domain",
+            null
+          ],
+          [
+            "storage",
+            null
+          ],
+          [
+            "notifications",
+            null
+          ],
+          [
+            "accounts",
+            null
+          ]
+        ]
+      ],
+      [
+        "notifications\\pom.xml",
+        [
+          [
+            "core-domain",
+            null
+          ]
+        ]
+      ],
+      [
+        "storage\\pom.xml",
+        [
+          [
+            "core-domain",
+            null
+          ]
+        ]
+      ]
+    ],
+    "npm_manifests": {},
+    "python_manifests": {},
+    "ci": {
+      ".github\\workflows\\ci.yml": "name: CI\n\non:\n  push:\n  pull_request:\n\njobs:\n  java:\n    runs-on: ubuntu-latest\n    steps:\n      - uses: actions/checkout@v4\n      - name: Set up JDK 21\n        uses: actions/setup-java@v4\n        with:\n          distribution: temurin\n          java-version: \"21\"\n          cache: maven\n      - name: Build and test\n        run: mvn -B test\n\n  python:\n    runs-on: ubuntu-latest\n    steps:\n      - uses: actions/checkout@v4\n      - name: Set up Python 3.11\n        uses: actions/setup-python@v5\n        with:\n          python-version: \"3.11\"\n      - name: Install pytest\n        run: python -m pip install --upgrade pip pytest\n      - name: Run the analytics tests\n        working-directory: analytics\n        run: pytest\n"
+    }
+  },
+  {
+    "lab": "f26-lab10",
+    "pom_dependencies": [
+      [
+        "pom.xml",
+        [
+          [
+            "junit-jupiter",
+            "${junit.version}"
+          ]
+        ]
+      ]
+    ],
+    "npm_manifests": {},
+    "python_manifests": {},
+    "ci": {
+      ".github\\workflows\\ci.yml": "name: CI\n\non:\n  push:\n  pull_request:\n\njobs:\n  test:\n    runs-on: ubuntu-latest\n    steps:\n      - uses: actions/checkout@v4\n      - name: Set up JDK 21\n        uses: actions/setup-java@v4\n        with:\n          distribution: temurin\n          java-version: \"21\"\n          cache: maven\n      - name: Build and test\n        run: mvn -B test\n"
+    }
+  },
+  {
+    "lab": "f26-lab11",
+    "pom_dependencies": [],
+    "npm_manifests": {
+      "package.json": {
+        "name": "campus-reservations",
+        "version": "1.0.0",
+        "private": true,
+        "type": "module",
+        "description": "Campus room reservation service for CMU 17-214/514 Lab 11.",
+        "engines": {
+          "node": ">=20"
+        },
+        "scripts": {
+          "test": "vitest run",
+          "typecheck": "tsc --noEmit",
+          "demo:replay": "tsx src/demos/replayDemo.ts",
+          "demo:failure": "tsx src/demos/failureDemo.ts"
+        },
+        "devDependencies": {
+          "@types/node": "^22",
+          "fast-check": "^3",
+          "tsx": "^4",
+          "typescript": "^5",
+          "vitest": "^3"
+        }
+      }
+    },
+    "python_manifests": {},
+    "ci": {
+      ".github\\workflows\\ci.yml": "name: CI\n\non:\n  push:\n  pull_request:\n\njobs:\n  build:\n    runs-on: ubuntu-latest\n    steps:\n      - uses: actions/checkout@v4\n      - uses: actions/setup-node@v4\n        with:\n          node-version: 20\n          cache: npm\n      - run: npm ci\n      - run: npm run typecheck\n      - run: npm test\n"
+    }
+  },
+  {
+    "lab": "f26-lab12",
+    "pom_dependencies": [],
+    "npm_manifests": {},
+    "python_manifests": {
+      "requirements-dev.txt": "pytest==9.1.1\nruff==0.16.2\nmypy==2.3.0\npip-audit==2.10.1\n",
+      "requirements.txt": "babel==2.9.0\n",
+      "pyproject.toml": "[project]\nname = \"campusreserve-refunds\"\nversion = \"1.0.0\"\ndescription = \"Refund policy service for the CampusReserve platform\"\nrequires-python = \">=3.11\"\n\n[tool.pytest.ini_options]\npythonpath = [\".\"]\ntestpaths = [\"tests\"]\n\n[tool.ruff]\nline-length = 100\ntarget-version = \"py311\"\n\n[tool.ruff.lint]\nselect = [\"E4\", \"E7\", \"E9\", \"F\", \"B\"]\n\n[tool.mypy]\npython_version = \"3.11\"\nfiles = [\"refunds\"]\n"
+    },
+    "ci": {}
+  }
+]

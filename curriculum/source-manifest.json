@@ -1,0 +1,3107 @@
+{
+  "checked_on": "2026-11-23",
+  "repositories": [
+    {
+      "path": "course-materials/f2026",
+      "origin": "https://github.com/CMU-17-214/f2026.git",
+      "commit": "3f5235eb6a9c652823cb21167846f978eea66c7e",
+      "files": [
+        {
+          "path": ".assets/style.css",
+          "sha256": "647c2200f2d3abbd92619842e17ea539cc844009e4ea10a3292c5124b59c3dae"
+        },
+        {
+          "path": ".assets/template.html",
+          "sha256": "b6d60d9c06f2abe9fbf572ca0222ea3a8b9b1cd25ff99637e7e8599ed32ddad5"
+        },
+        {
+          "path": ".assets/template_end.html",
+          "sha256": "217d6d284b07adbabb2877b166aa205b1e18fd04e7ffc632901e630343950449"
+        },
+        {
+          "path": ".github/workflows/publish.yml",
+          "sha256": "6e50c26f3bc2dce3719c4fd124d93bc556d66a050366212b1519c5e7c9753b9a"
+        },
+        {
+          "path": ".gitignore",
+          "sha256": "2b1bfc98674d33843d32d0c884188012b3c442ac2b1a66ce5e0a2eb205e59f0f"
+        },
+        {
+          "path": "README.md",
+          "sha256": "7409e6646ecab4c49d7bf912f2e48bf84deb756e783e86b7e69077d06f10b32d"
+        },
+        {
+          "path": "assignments/.gitkeep",
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "path": "assignments/hw1.md",
+          "sha256": "5f660ef9d987bfdff4e83023114f5b8807239c9f32988fbac2d6b363bdfbd6a0"
+        },
+        {
+          "path": "assignments/hw2.md",
+          "sha256": "ce918f40bd00f622ededcd4c3f664868f47a7cb7390921e1dc3f66a10bce412e"
+        },
+        {
+          "path": "assignments/hw3.md",
+          "sha256": "91cbe47c30d46b5f7993d3917223858810e0f1290196662a2523337a9e1eb5e0"
+        },
+        {
+          "path": "assignments/hw4.md",
+          "sha256": "f502da53998c137a2aff9ef0bb58802a8bb973d073ca2e0e93f78ca5aa73b0ba"
+        },
+        {
+          "path": "assignments/hw5.md",
+          "sha256": "922a82d6b54c42ab9395a9d3e6fa0c515fe86afa413b3a5005a81f3114ad1762"
+        },
+        {
+          "path": "assignments/hw6.md",
+          "sha256": "90ea84706296667be0c3e2d084505254e8bd3debf79db9a261d419f091c9ef2e"
+        },
+        {
+          "path": "labs.md",
+          "sha256": "3ef146af755104a2ec5977a763663e7df2ffe607246f89822c8e15d89afc0025"
+        },
+        {
+          "path": "labs/.gitkeep",
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "path": "labs/lab01.md",
+          "sha256": "9ffefcea1cb3efd75e019e0fa43e4bde50651e0d2f7934a0ce5339fe8db93101"
+        },
+        {
+          "path": "labs/lab02.md",
+          "sha256": "091648e379b3cd81a4832b20ea7ca97d5b0c0971f98376d76458e2ecbc47016b"
+        },
+        {
+          "path": "labs/lab03.md",
+          "sha256": "47d8039596bca1d011a7626a4c5b1c2a379e6e971cc04e323aaa171dceda1144"
+        },
+        {
+          "path": "labs/lab04.md",
+          "sha256": "f315fd2fbadec94c8b50a023c845a0e7e34828bf7802367919950d14692f10b9"
+        },
+        {
+          "path": "labs/lab05.md",
+          "sha256": "2de1000a0c7640859418a342159f21bc5e36d9c0b70a4d2f2be837cb5566bc06"
+        },
+        {
+          "path": "labs/lab06.md",
+          "sha256": "a6c974467f4b99a8416a54bde43bf13f10d413ae7f18a75bac321744c9739f44"
+        },
+        {
+          "path": "labs/lab07.md",
+          "sha256": "888c72d869fbb7731ca90f950afe512afccac87e25fffd5380dad5dcd832c339"
+        },
+        {
+          "path": "labs/lab08.md",
+          "sha256": "4c4029d9337161ecf3ab216662ba08c4eb8c52fa96c17c851350d9d92d3f223d"
+        },
+        {
+          "path": "labs/lab09.md",
+          "sha256": "2c3d7667a1882b5261bcc87e22008fe597ae8d961f172d6a9d3ba608b68749d3"
+        },
+        {
+          "path": "labs/lab10.md",
+          "sha256": "67333b87d1404caaad76bcae3da148dee642ec60f399595d8ef51b1116a6ae27"
+        },
+        {
+          "path": "labs/lab11.md",
+          "sha256": "7bf0bc402da5103c5361e7f1a9939397da245b42f9f1d2f23fdc9fa38854bbfb"
+        },
+        {
+          "path": "labs/lab12.md",
+          "sha256": "2bcb739fb378d7382628d754bc3be5774193efc37ca291af9989d97450cd5a99"
+        },
+        {
+          "path": "learninggoals.md",
+          "sha256": "cc42505823a3aeb78ac014667ff25e3f3389b8fb2e50343368c43ba2ada57c4c"
+        },
+        {
+          "path": "policies.md",
+          "sha256": "f974ebe6af36131f5ceb47c91fffec5d8041fb9e3759b660870d51aa8f3a43d1"
+        },
+        {
+          "path": "slides/.gitkeep",
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "path": "slides/01-introduction.pdf",
+          "sha256": "c53a3358ef4f3b5b3f68be9eface8edf16320d56d5af424d34b43906f4df2d06"
+        },
+        {
+          "path": "slides/02-agentic-development.pdf",
+          "sha256": "919e1265264b53615fe75d4bd8cbb98dedaa60a36f2c3c40d02daa088e3f1d1c"
+        },
+        {
+          "path": "slides/03-testing-and-testability.pdf",
+          "sha256": "61b39d8af9ea6ce18cc10e04685956fe5cfad6eabb91af836b5e25e1e894e49c"
+        },
+        {
+          "path": "slides/04-test-design-and-coverage.pdf",
+          "sha256": "24c6b9a5ed5640f95a8cf951dd8175887a9d0f308c40fcf2ad84a74d32163094"
+        },
+        {
+          "path": "slides/05-what-is-design.pdf",
+          "sha256": "41b5164b47a28c66f37dc7eff960a777b19f6a443de795714108b0da1666dcf2"
+        },
+        {
+          "path": "slides/06-communicating-designs.pdf",
+          "sha256": "aa7dde74d1cfebf2229648d391e46171ecd4c76999271687e3dad00601e7d208"
+        },
+        {
+          "path": "slides/07-design-for-change.pdf",
+          "sha256": "53d3d825ca49bcfe5afde3b86e642596d3273c56dfe9140bc14bb09b64dcf8b9"
+        },
+        {
+          "path": "slides/08-modularity-and-anti-patterns.pdf",
+          "sha256": "02122955ed8333ac932b5096da41eec1d35cc9f548566a2649c4ce62ced6e9e2"
+        },
+        {
+          "path": "slides/09-refactoring.pdf",
+          "sha256": "0435599649e56ab8e68df5ecc7cd653d253210077927faf4edd93682c5101a4b"
+        },
+        {
+          "path": "slides/10-design-patterns.pdf",
+          "sha256": "8bd49ecc819be471005cd0599ab6c8cad1268c98752cc9f9bb02663e028baf31"
+        },
+        {
+          "path": "slides/11-apis-libraries-frameworks.pdf",
+          "sha256": "161526122f58328f3be3a8bd55f4a6e0576891bdf1786db3b9554f57b64da1ec"
+        },
+        {
+          "path": "slides/12-evolution-drift-memory.pdf",
+          "sha256": "fa82adcdb66e5c5617f24efd6523feb7dd5b8c115881e21960a047f206fafc15"
+        },
+        {
+          "path": "slides/13-agent-architectures.pdf",
+          "sha256": "306e5af1d9db802ed2cf451e1710667d98e705762fd14dd23d07dcb1f74b68f9"
+        },
+        {
+          "path": "slides/14-agent-supervision.pdf",
+          "sha256": "518aa874aa5a0347b79a768ca635bec87b294bc02b48c06fddebfb958a784f2b"
+        },
+        {
+          "path": "slides/15-software-architecture.pdf",
+          "sha256": "d6a3183c0541ddcb8dffdcdeb13273d29393dc641a042638084c97cfd7023ae9"
+        },
+        {
+          "path": "slides/16-data-models-at-scale.pdf",
+          "sha256": "70e927ec3c6fcd69aa23b0f9f207a1b734798c4db36f9b6a1c09ba70100d6272"
+        },
+        {
+          "path": "slides/17-concurrency.pdf",
+          "sha256": "80d0643af8f33dbbc4b97d0fb3e8a53819c97d364786f7d601b30b2ae475485d"
+        },
+        {
+          "path": "slides/18-coordinating-systems.pdf",
+          "sha256": "3af02871e3d48430a8476b6dd21f91e02b0791e383c109a625029b151144620c"
+        },
+        {
+          "path": "slides/19-containers-and-cloud.pdf",
+          "sha256": "618b6a07f6e203d3b160517183df20082bd55aa16dfc84103a2666340117e51e"
+        },
+        {
+          "path": "slides/20-devops.pdf",
+          "sha256": "b900bc7f8806efe1ce22d3e8b34b5ac181d031672dda26108f268433617fe7dd"
+        },
+        {
+          "path": "slides/21-verification-pipeline.pdf",
+          "sha256": "88accca3d9194a871abfb5703e97db6d221d34439c517654aaa4da58e4d6f814"
+        }
+      ]
+    },
+    {
+      "path": "course-materials/s2026",
+      "origin": "https://github.com/CMU-17-214/s2026.git",
+      "commit": "a5b0b6a349b8b2282d0d42d6de2879a43d704087",
+      "files": [
+        {
+          "path": ".assets/style.css",
+          "sha256": "66e89ca4169313f0338bbf4eb33a2ba917c95801c55f0fd17f429e98abe9e197"
+        },
+        {
+          "path": ".assets/template.html",
+          "sha256": "28c6783ee216a4301825285f086cdf668564d9a9e215aa021cc5412dd952e39a"
+        },
+        {
+          "path": ".assets/template_end.html",
+          "sha256": "217d6d284b07adbabb2877b166aa205b1e18fd04e7ffc632901e630343950449"
+        },
+        {
+          "path": ".github/workflows/publish.yml",
+          "sha256": "a52a58fff76ae04272e7e332ec550731d8d955c291b5662c643d1f44e2de4a40"
+        },
+        {
+          "path": ".gitignore",
+          "sha256": "2b1bfc98674d33843d32d0c884188012b3c442ac2b1a66ce5e0a2eb205e59f0f"
+        },
+        {
+          "path": "README.md",
+          "sha256": "cd2cc741579a7a7c40cbcfa67a724f44b15452355b80bb8bfcf6f2e1849cbcc3"
+        },
+        {
+          "path": "assignments/hw1.md",
+          "sha256": "20edf835309cba5c35af5ca5e3f9c487b0c99b3901a249246e837abbe2e7ce5b"
+        },
+        {
+          "path": "assignments/hw2.md",
+          "sha256": "394d88e350ea6cd6ee257a43b09e009d0b9ba3823080c82564fda4904c115274"
+        },
+        {
+          "path": "assignments/hw3.md",
+          "sha256": "8ed6722d348ead38008fd613bfa1316590aee195a314aed203f40c520265e146"
+        },
+        {
+          "path": "assignments/hw4.md",
+          "sha256": "b3f62ce3da2419544217a60dffdd810745ebe9509d4e922604b09ebceeb60e58"
+        },
+        {
+          "path": "assignments/hw5.md",
+          "sha256": "ac57db850afc9d241bfe63e7c2e3114fbed359f45ea5ec030ba1196229578b84"
+        },
+        {
+          "path": "assignments/hw6.md",
+          "sha256": "c9cedb1bc95f546fd06fcf7206773d19d741dedb88629f501d4919691576b66d"
+        },
+        {
+          "path": "labs.md",
+          "sha256": "5eb24b13ad966bd607b4226f69a3269a21ac7c5ee57458c09084b32415d0c21d"
+        },
+        {
+          "path": "labs/figures/vscode-launchconfig.png",
+          "sha256": "0ac43f1d6907872ce24644e656531d5cca01d7970e4c3480efaab5d31aab4c29"
+        },
+        {
+          "path": "labs/figures/vscode-run.png",
+          "sha256": "c75c783e719770920909c3a41023fe94999abe16d35025247b9d405b3abb65b7"
+        },
+        {
+          "path": "labs/git-basics.md",
+          "sha256": "55144add9e2c85b67bed045e7fe1cb5a016da142659c5b20919051eb8ae2c5cf"
+        },
+        {
+          "path": "labs/images/lab06/lab06_jacoco_report.png",
+          "sha256": "275dde2317f625ea087ab2691aa11fb9f222b30b7083d3c51409141514196d83"
+        },
+        {
+          "path": "labs/images/lab06/lab06_test_example.png",
+          "sha256": "45f767214e95b71f04e3d0c299a18c6ae1f1cb367d0ec68168cc95bdae6f41e0"
+        },
+        {
+          "path": "labs/images/lab06/lab06_test_side_panel.png",
+          "sha256": "487a121534bd3ae76a7b980d34e4ec23f465aee026b336a8fb0fa8b9cb71eca6"
+        },
+        {
+          "path": "labs/images/lab09/lab09_billing.png",
+          "sha256": "03ed078a0d1b84a715279ea45c8d8a3c366a17732d02c6af8f44786727210efb"
+        },
+        {
+          "path": "labs/images/lab09/lab09_project_select.png",
+          "sha256": "65b3b36634097fafb5f682b4bcef2b895fb09d503cf252f46a11da53f2b44771"
+        },
+        {
+          "path": "labs/images/lab09/lab09_view_all_products.png",
+          "sha256": "4148fb7a9cd0a24487e12766e83f83adcf8bd6b9439dca8a2f005145667dacfc"
+        },
+        {
+          "path": "labs/images/lab11/component.png",
+          "sha256": "62c4e3f893e7f977aa8b9fed7d6cf7adde7cc8ca2cdbd1192548ebfe573a3379"
+        },
+        {
+          "path": "labs/images/lab11/jsonFormat.png",
+          "sha256": "7f502c8edc133710dc4620a02b98a33447223d3d5cdb523d9c8d47a15adad964"
+        },
+        {
+          "path": "labs/images/lab11/proxy.png",
+          "sha256": "77682bba7f7e02abf9b223507cee9caee53503cf9e85337fd025e58431b060e5"
+        },
+        {
+          "path": "labs/images/lab11/proxy2.png",
+          "sha256": "ab08e67a6ddd1120db1f7e2a58d54a50eafe080fa16165bddeb479828ca63819"
+        },
+        {
+          "path": "labs/images/lab11/tictactoe.png",
+          "sha256": "d51ebff790508fab7b2640ccb11613adfb03d454016541591e3c1b65002db9dd"
+        },
+        {
+          "path": "labs/lab01.md",
+          "sha256": "016274e3d2d81d18bc0a50400a2de4fa1d33ae423c274c2076d9f903aaedc47d"
+        },
+        {
+          "path": "labs/lab02.md",
+          "sha256": "69fac3a6e7eb2527b670f8cbf9741990a25688555fda7afcf445a3dca58fde95"
+        },
+        {
+          "path": "labs/lab03.md",
+          "sha256": "e8e8d9b0aae3c2d502757f1d13b432744a1cd5eb0e655306623f05096eabe09f"
+        },
+        {
+          "path": "labs/lab04.md",
+          "sha256": "9e86893085363b9b28e6f3387dabbb544242514e977bac704dcca6728200c50e"
+        },
+        {
+          "path": "labs/lab05.md",
+          "sha256": "e92285e6079996d1fa329cc9b292f2a5ebdadf4a7a0530c82e42f5b93a7029c3"
+        },
+        {
+          "path": "labs/lab06.md",
+          "sha256": "2ed041ff03f04acd37f2ba22c411fbca7f6cba2a4d18335c0f48d64c49f8e380"
+        },
+        {
+          "path": "labs/lab07.md",
+          "sha256": "c502704fabb446fed0a36ae7d7330400f4086c81d2df98432fc699ba7aca9c01"
+        },
+        {
+          "path": "labs/lab08.md",
+          "sha256": "b54b494f27970878bb5ffb074f2d1ae5b7233c02cebaab9c4030157729f9cadc"
+        },
+        {
+          "path": "labs/lab09.md",
+          "sha256": "b66ae7387f5a3b22792dd4fcff2005bb08d49a6229127db3d2f7cf09ed0ab242"
+        },
+        {
+          "path": "labs/lab10.md",
+          "sha256": "7c3b7cad5e5e535e6bcf48a05e0afec5f86b26957c01ae4aab71f5da3e7f8263"
+        },
+        {
+          "path": "labs/lab11.md",
+          "sha256": "a68febb78ff9d2e4a075b9d34d38ad3aaed23ca1e64eee582c56df0b110dab81"
+        },
+        {
+          "path": "labs/lab12.md",
+          "sha256": "b40f01abe2e23b79ae34c9365c93cb19c33cbdcdcafd5339567bb83285a14b8b"
+        },
+        {
+          "path": "labs/lab13.md",
+          "sha256": "ac870cd55f05570b8d40fb64dec2d2f9eaada572c797702184e2c81a4eab4022"
+        },
+        {
+          "path": "labs/resources/GPoAD.pdf",
+          "sha256": "46fbd174f0aac2c229155b7760713cbdd2189b659d5037ad8d4b3e542e1f0d6a"
+        },
+        {
+          "path": "learninggoals.html",
+          "sha256": "a03b2c2d4a783b912ef2c98a4c7eec6c3bee7ea27875ff2deb9f41ba28fb164c"
+        },
+        {
+          "path": "previous_labs/lab05.md",
+          "sha256": "9084b3406d44a3798d5e415a30a0c9589bc0c5e3b1765a27c14cbde09b7256ba"
+        },
+        {
+          "path": "previous_labs/lab11.md",
+          "sha256": "b4d7963e055d851d06ad4fbd41663841543f9c1ac955c98fabf476eab1765cde"
+        }
+      ]
+    },
+    {
+      "path": "course-materials/starters/f26-lab01",
+      "origin": "https://github.com/CMU-17-214/f26-lab01.git",
+      "commit": "8dbabf35edfd9c73fbd7d16cdf264ed9384c4be1",
+      "files": [
+        {
+          "path": ".gitignore",
+          "sha256": "65427c3e7531875cde391a624d504b86d061103dba028666b37edf154d308f34"
+        },
+        {
+          "path": "ARCHITECTURE.md",
+          "sha256": "288d17bd3de5075bf1271525454bc5b7e8abab3b9a06c2f4f2c75a5d35ea71a3"
+        },
+        {
+          "path": "README.md",
+          "sha256": "3d372b51e35d06d167b8d884ca7e2fd5b185e7a0fd1f6385eda94e579a1376c9"
+        },
+        {
+          "path": "SETUP.md",
+          "sha256": "6d5c6803f72879efba17b98b4f59d6870a5e031da6eb2f082643c142ac66f06e"
+        },
+        {
+          "path": "TASK.md",
+          "sha256": "81ff38c432eb338403670e665fe915ab7d44e67d76f692f24b72900aea6ccf99"
+        },
+        {
+          "path": "changes/agent-attempt.patch",
+          "sha256": "6760d4efca85b4504155131f18932c500147b56eb2ebe807b92d91c971b885a0"
+        },
+        {
+          "path": "pom.xml",
+          "sha256": "5e63baf15e579961d65f463d4fe7a40be6beceecfa461738b9709b535af111da"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/booking/domain/Booking.java",
+          "sha256": "bd376ef48d0adca7815f5e76d1e78f02db157cf1e9f9cb9439de23878dc3105d"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/booking/domain/Room.java",
+          "sha256": "e540c8e47cd56be5610839f4cc9f53adb2e97c0bc12881d1733a4907dc4e40b4"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/booking/domain/TimeInterval.java",
+          "sha256": "edf2ee57bd99bd993e4e00573c46075368d4cfef5df606c30d720184b244e720"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/booking/domain/User.java",
+          "sha256": "5f3c1bdedf9f5d34437955c366fb928bba7349642d25e32ab92e01d6a431ebce"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/booking/domain/WaitlistEntry.java",
+          "sha256": "b483517731604d738454d156d9580eb4592aae02e93e5777e0b75bcb97771f7d"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/booking/repo/BookingStore.java",
+          "sha256": "68d77e64e2d54a1424efc985861f55520bb198d30a18a28be19bd00edaaed730"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/booking/repo/InMemoryBookingStore.java",
+          "sha256": "09fa5a2bd4f889e6dc7e5fff27d7c8b9c055d5d66153cd80af84e356730f1815"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/booking/service/BookingResult.java",
+          "sha256": "292e569950b531c924eb9665ae1cbcd9fb95e08a5fde93eabe1e621465e2f86e"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/booking/service/BookingService.java",
+          "sha256": "5ca0ac06b3d9b48df0db1a1a9dad1b00b303383c50586c03b989021ef62e56f2"
+        },
+        {
+          "path": "src/test/java/edu/cmu/cs214/booking/domain/TimeIntervalTest.java",
+          "sha256": "cdf521c3d64aa8a03deedc25bde284dd477dba9761d145f09816f641a981dd71"
+        },
+        {
+          "path": "src/test/java/edu/cmu/cs214/booking/service/BookingServiceTest.java",
+          "sha256": "375762d51e7100d60cf7895444343c527f2177ef0cdcce8e3ce5660002434b93"
+        },
+        {
+          "path": "tools/export-transcripts.sh",
+          "sha256": "212ec1abf43cf02b28930dc424e9973593c1b124bd2ff380f82f1cb418cea4a3"
+        }
+      ]
+    },
+    {
+      "path": "course-materials/starters/f26-lab02",
+      "origin": "https://github.com/CMU-17-214/f26-lab02.git",
+      "commit": "69c15896a806b65d534dc427cd756151d35e3fd3",
+      "files": [
+        {
+          "path": ".github/workflows/ci.yml",
+          "sha256": "329218c001b8477728adbebe80fcab76e7a015870ff229f5f02edc0c81aaf6ae"
+        },
+        {
+          "path": ".gitignore",
+          "sha256": "36af3288a8208f9db9cc234c4fe67f55bf355315015b9c263c97054e2e779800"
+        },
+        {
+          "path": "ARCHITECTURE.md",
+          "sha256": "6e3e487460fae034ca7f259acf92dbb9e8f615ad5b95410bf288d416391b3a81"
+        },
+        {
+          "path": "README.md",
+          "sha256": "7897f3319f0a8a54f71022402bbd966fc058a71c8b64ce557c86abfcde6c7e42"
+        },
+        {
+          "path": "SETUP.md",
+          "sha256": "9ac935379c08de67d9cf9a811ec5d4fd71268de9358b6908d98cb2c6f159b143"
+        },
+        {
+          "path": "pom.xml",
+          "sha256": "1ec8bbed5ccee7b9bebdebc57cf7eac5b205c1490d73cd40e884ade5f751b556"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/availability/AvailabilityCalculator.java",
+          "sha256": "38360765e35fe1774ae0a07e02af49b1acebcf5cb37dc6f4fd146d32430a889f"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/availability/TimeInterval.java",
+          "sha256": "4e56e2198ac73df1361e2290a7f60c116bd559cec21d98e2e3591ec835bbf835"
+        },
+        {
+          "path": "src/test/java/edu/cmu/cs214/availability/AvailabilityCalculatorTest.java",
+          "sha256": "5bd78495aeebb2db5ca0f8a5b9749adea7750c9ee6620979e7d5fc0b86b60a2a"
+        },
+        {
+          "path": "src/test/java/edu/cmu/cs214/availability/AvailabilityProperties.java",
+          "sha256": "84b6e78ce1531fa86ca8711d173acd03cb2a1e371061755f57246792fe5fa172"
+        }
+      ]
+    },
+    {
+      "path": "course-materials/starters/f26-lab03",
+      "origin": "https://github.com/CMU-17-214/f26-lab03.git",
+      "commit": "21a33106cf6e6cfbc4ac794bb333f0c97c3099a9",
+      "files": [
+        {
+          "path": ".github/workflows/ci.yml",
+          "sha256": "329218c001b8477728adbebe80fcab76e7a015870ff229f5f02edc0c81aaf6ae"
+        },
+        {
+          "path": ".gitignore",
+          "sha256": "026aec809f9934e65f03e2a999ad3e3f684ead90391531d594519ac3aaeef3d7"
+        },
+        {
+          "path": "CRITIQUE.md",
+          "sha256": "aabcd245a2601541d8a9554bc6cd754184e2ec91653152872798f1b2993b8847"
+        },
+        {
+          "path": "DESIGN.md",
+          "sha256": "db128c79759544b8cc655d63b4fe65a8db9d17e273e38f912835a7d7798fa024"
+        },
+        {
+          "path": "README.md",
+          "sha256": "0fdce09f1cae2db4b6b7e74cd6f029404db4903bccf3708ad023e4038470153e"
+        },
+        {
+          "path": "SETUP.md",
+          "sha256": "0146a07028393bd469c30c73e39c41262298b19c007a529e160f5622cb1da4d8"
+        },
+        {
+          "path": "pom.xml",
+          "sha256": "39382b3cc45304ef27e2d91ce2e995106fbf3a0b795a8bcb8d89d5a9a7182254"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/roomreserve/BookingPolicy.java",
+          "sha256": "bd23642f9d29e8927d9fcb116031238124d12461d9eec8033cd5efc2fb88e0cf"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/roomreserve/InMemoryStore.java",
+          "sha256": "d072644018eb896609603d48034962bdb596dc83066a886cfccbb19401272ba4"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/roomreserve/RequestHandler.java",
+          "sha256": "4391743e6347372e18dfcf4df62959f5e00dabb6a405e36db38042247e178cd0"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/roomreserve/ReservationApp.java",
+          "sha256": "776f2d35bf6a7dbd3426c2b95266e3250d388ab726b0da0e9353bdba5930a0d1"
+        },
+        {
+          "path": "src/test/java/edu/cmu/cs214/roomreserve/RequestHandlerTest.java",
+          "sha256": "a88262f564d6d507c2c3a8dc5d8c7edba31030a7117067571e74094f9c8536d9"
+        }
+      ]
+    },
+    {
+      "path": "course-materials/starters/f26-lab04",
+      "origin": "https://github.com/CMU-17-214/f26-lab04.git",
+      "commit": "a9d8e58b34f581787caa4faf5269cbc8a7040440",
+      "files": [
+        {
+          "path": ".github/workflows/ci.yml",
+          "sha256": "efd68e12afec78eb7a7a8495fed241fa0ebece9ff9f7ff5de43bf2666d56ec39"
+        },
+        {
+          "path": ".gitignore",
+          "sha256": "0859674042d3d92003fa2f647cdc1d95e205f81f60023e29caf0adb6662c0d78"
+        },
+        {
+          "path": "DEPLOYMENT.md",
+          "sha256": "7daea5343df94c9301f54f73cd19dd967b4211c0ef4236d88d50a182eae08b49"
+        },
+        {
+          "path": "Dockerfile",
+          "sha256": "51c056243a44a4def170f878f710132918e11f1e6f1c224721c94363c7c4d9a7"
+        },
+        {
+          "path": "README.md",
+          "sha256": "2caaccf4c0bc13311500f5cf85640356da48874e5e29c53d97163b83bf4f7229"
+        },
+        {
+          "path": "SETUP.md",
+          "sha256": "3819b4370b2a49ebc80f40ce614e23b04486c0e8b65773681b431e64e022c5c8"
+        },
+        {
+          "path": "infra/params-healthy.json",
+          "sha256": "b8ba675d5eb41f384dfd6105936200f274a861715b36ab73f2ec5435e7c49425"
+        },
+        {
+          "path": "infra/params-scenario2.json",
+          "sha256": "db30e9083988bd4e4089014ab9aa32b1b5167b45fba4b4dfa6f8a5fad6c1a655"
+        },
+        {
+          "path": "infra/template.yaml",
+          "sha256": "2bafd12bfd96b8535e7dc26eae49cf50d1c148c9aa72097d133a6d60f79f4087"
+        },
+        {
+          "path": "run.sh",
+          "sha256": "fccd15a74e614e64bbecc87321a35246a17e6aa897d22596b03b5610b7cf3983"
+        },
+        {
+          "path": "service/pom.xml",
+          "sha256": "bbe640b364e4db60acece47771622201d22d4b07681adae04ab3a64a8dc473af"
+        },
+        {
+          "path": "service/src/main/java/edu/cmu/cs214/lab04/ServiceMain.java",
+          "sha256": "019c610235807c6347dc4b5420f49dab7da68a99f0dc4337e30deb425b54402c"
+        },
+        {
+          "path": "service/src/test/java/edu/cmu/cs214/lab04/ServiceMainTest.java",
+          "sha256": "40e4e68f17edc3349933d94916892787fa04e0463b6146e156bfcc5913ad3cf2"
+        }
+      ]
+    },
+    {
+      "path": "course-materials/starters/f26-lab05",
+      "origin": "https://github.com/CMU-17-214/f26-lab05.git",
+      "commit": "3ad93758e799c43c42a310872a80a6dbcca407a2",
+      "files": [
+        {
+          "path": ".github/workflows/ci.yml",
+          "sha256": "6c9f74ef74b60fba1ea96723dd8eb592f5d56053d37d2ede40211f7bacb45d83"
+        },
+        {
+          "path": ".gitignore",
+          "sha256": "57aa075d495bfa421f1507ab9cc4d95a28ad96b6ebb9bc104161ec951f77dc2d"
+        },
+        {
+          "path": "README.md",
+          "sha256": "2ef8910f475862756a5a3ccbbc5d122010c2b2efd6a07804100b95623ad1cbdd"
+        },
+        {
+          "path": "SETUP.md",
+          "sha256": "c3e0e80eeecaa5fd2e72667eada6efe0225f7242634ef1074f3ab870e7a05a27"
+        },
+        {
+          "path": "SMELLS.md",
+          "sha256": "fc84b6df13042383e7abd1392d9a8f2ab7349dc8f1356f1913b93094cbe1a646"
+        },
+        {
+          "path": "package-lock.json",
+          "sha256": "c74a613cf3ff26c46e2355ef6b925ce75ce551ff247031c287645540be607904"
+        },
+        {
+          "path": "package.json",
+          "sha256": "810289943ec5c5642599534d2a722d31571c7d853d25d465b2e36de009fbacbd"
+        },
+        {
+          "path": "src/availability.ts",
+          "sha256": "53b978b3d1da2443e689182463b76e8d4ea2b43644dcfedf262915283f313e34"
+        },
+        {
+          "path": "src/cache/cacheConfig.ts",
+          "sha256": "978fad3989f079079f452c26ec8b9d99ab210ce6fb5b68b86de5312497decc40"
+        },
+        {
+          "path": "src/cache/queryCache.ts",
+          "sha256": "f074d7558d08337a54574bc2fab12c9c9658de1dd7dbb4a6941419d829e01a90"
+        },
+        {
+          "path": "src/notifications/channel.ts",
+          "sha256": "21dde8e53d5ec94cd68c5969606ef867eb75188aa8a5d44beada72f41b128d63"
+        },
+        {
+          "path": "src/notifications/emailChannel.ts",
+          "sha256": "e9e936d514fe178e584178692915e93b3cd20d86b5c6416f801e4251ee2c67c2"
+        },
+        {
+          "path": "src/notifications/notifierFactory.ts",
+          "sha256": "8408c3046f07d4fef3da5941d5d774d960308aaa091673661fdcf66fc3d2aa37"
+        },
+        {
+          "path": "src/reportGenerator.ts",
+          "sha256": "b2138dc894a941505b32cce87304957aa840f44e34adc63de830da602e1b6786"
+        },
+        {
+          "path": "src/reservationManager.ts",
+          "sha256": "dcf7a5f9e806a25e547fd6d007701610f9041aa81d378e027670bb92e222b865"
+        },
+        {
+          "path": "src/storage/inMemoryStorageProvider.ts",
+          "sha256": "cedbb7bbad2782ea6e5cb38b103c35fc8f170e54ee1561c97d88138d5e7deb8e"
+        },
+        {
+          "path": "src/storage/storageProvider.ts",
+          "sha256": "362c0d6ed6fe0ab487f9cea71d47f65fe6dfbdb2bd127d933ccd20c934064be8"
+        },
+        {
+          "path": "src/types.ts",
+          "sha256": "77f4cf89805c9d2f5aa63f40800f806e15034572cdd6d120fe98ea84958f5b5a"
+        },
+        {
+          "path": "src/validation.ts",
+          "sha256": "3bc2c77c88db3a8e391b32da8c83bb0f33cca1fbb82c7efcfc14cdb0497d4fdb"
+        },
+        {
+          "path": "tests/booking.test.ts",
+          "sha256": "9771a44e4c1b5871b0d8f96b8c9a5af8650af6d70eb1152dd27cda13c38c1766"
+        },
+        {
+          "path": "tests/fixtures.ts",
+          "sha256": "226c740482ec83e6748c52c4deb4bb5c70e9a715438a6ec8d4168b17214f7082"
+        },
+        {
+          "path": "tests/reporting.test.ts",
+          "sha256": "6fdf9b440b9ca614ccf74769d984a0c2f6bb7910de41ed0861307502269e44d0"
+        },
+        {
+          "path": "tests/validation.test.ts",
+          "sha256": "a03e466e5a9c5f8980093f8ec607fac7df5dc63eac23770ff15dede77ac14926"
+        },
+        {
+          "path": "tsconfig.json",
+          "sha256": "0d68235ffba96db246e21d7e91dc32c5238d1d2856ec6ad32b51585a3b89e922"
+        }
+      ]
+    },
+    {
+      "path": "course-materials/starters/f26-lab06",
+      "origin": "https://github.com/CMU-17-214/f26-lab06.git",
+      "commit": "25229568fc9ef8e9f1837222dafc1e898f071e0c",
+      "files": [
+        {
+          "path": ".github/workflows/ci.yml",
+          "sha256": "8d51bba73d7977e813431a03aa047d706c80e57baa1356bb360950b7b52196e7"
+        },
+        {
+          "path": ".gitignore",
+          "sha256": "3bd22ed1ae5796cccb16cfaf8b0bd3d85a5203556f7e5b73191a8e20cc1fdd08"
+        },
+        {
+          "path": "CONTRACT.md",
+          "sha256": "55604098a011e6cd4f1c478205ca4f7d2905c54985584fed638ea13abde23c88"
+        },
+        {
+          "path": "README.md",
+          "sha256": "c33a111bba72e7a6a71580fe5b6fe048c95b908c98ca3ce7083767777bf28a8d"
+        },
+        {
+          "path": "SETUP.md",
+          "sha256": "3373342f7798fd47dfd8c09190aacdb2f4e245d3281b728491c59ed15f5c742c"
+        },
+        {
+          "path": "api/pom.xml",
+          "sha256": "ea7d43dec59631de11196b52a30156fa079de962849de559f27f2e67edc62f78"
+        },
+        {
+          "path": "api/src/main/java/edu/cmu/cs214/booking/Booking.java",
+          "sha256": "7f366380b27b77222fb5566bcce9b739bdffc7480fa160d45fccd1b00d375ee3"
+        },
+        {
+          "path": "api/src/main/java/edu/cmu/cs214/booking/BookingApi.java",
+          "sha256": "6e0b0e7f460609d7646da787fde83c7351c11387fdab39f0cbdbc518761b40e1"
+        },
+        {
+          "path": "api/src/main/java/edu/cmu/cs214/booking/BookingStatus.java",
+          "sha256": "fdf5ca791e1dc30f6066429abca4241f78704b84d9b4b70ff78d478f6db0f9d6"
+        },
+        {
+          "path": "api/src/main/java/edu/cmu/cs214/booking/InMemoryBookingService.java",
+          "sha256": "9cbd0f81e5e98ea77821c3fc48f1fee8b712e525d5e2c2e48cc467c4db7645a8"
+        },
+        {
+          "path": "api/src/test/java/edu/cmu/cs214/booking/InMemoryBookingServiceTest.java",
+          "sha256": "acb554568527df2515d1212ad0fc560efd238c783c0040b79a2050574c79cbda"
+        },
+        {
+          "path": "consumer/pom.xml",
+          "sha256": "dce35e3bb50bc7e1b93123544e3a2d2378107ab15bd4c8cbb2b357d4cffa0bc8"
+        },
+        {
+          "path": "consumer/src/main/java/edu/cmu/cs214/frontdesk/FrontDesk.java",
+          "sha256": "6b9a4990a1d4505ef4e39088d0acfc87e46befe8b5f50e7046dfd8ee24377c95"
+        },
+        {
+          "path": "consumer/src/test/java/edu/cmu/cs214/frontdesk/FrontDeskTest.java",
+          "sha256": "c5638e6fad42d394b7e8b58fc77c65aae28732fad83764b686d7b3b9826399ad"
+        },
+        {
+          "path": "pom.xml",
+          "sha256": "ce9558257fff1852ac6111454bacd2431bd6515b0c05997acc6a7875d68d2752"
+        }
+      ]
+    },
+    {
+      "path": "course-materials/starters/f26-lab07",
+      "origin": "https://github.com/CMU-17-214/f26-lab07.git",
+      "commit": "cedea51d1b57b62c6759ce5d1070a52bab642559",
+      "files": [
+        {
+          "path": ".github/workflows/ci.yml",
+          "sha256": "27c0108cce78c84989c7b8b42ed9406cd9133986fb08bd1a1bdf241c4e68fd3e"
+        },
+        {
+          "path": ".gitignore",
+          "sha256": "0a4c60cb51cef1bf0d04e679c813a2aba10435819719215a52cf02d0cc10b933"
+        },
+        {
+          "path": "README.md",
+          "sha256": "b841468b0c8b2fe3b3b5a3448a16c512be51ffe9f6a2b7c3b3903ad190ce79f7"
+        },
+        {
+          "path": "REFACTOR.md",
+          "sha256": "ad44001c966d4df5421df31f77f73972d611939ceee273064fb59c0366abd3cb"
+        },
+        {
+          "path": "SETUP.md",
+          "sha256": "8359ddae5b625fa95fca79749dc86aa4b9fdd08d0edc07ee46df27fbc8833907"
+        },
+        {
+          "path": "pom.xml",
+          "sha256": "99f174c2a1254a1364d6c052665dd8b8221cdbe2379c109807c56ad6430458e4"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/scheduling/domain/Booking.java",
+          "sha256": "3c8e5247a09791b919c98a2f8665850bc0836ecfc09ad26e2a207693939b16a8"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/scheduling/domain/BookingOutcome.java",
+          "sha256": "62610795f0d387310fbf7a68ffe4dbbdd6136adcc7c5d4b3018677ff86018f51"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/scheduling/domain/BookingRequest.java",
+          "sha256": "2998f4e930b49a2280bcc0875851f83f3f61bd57e86870944e6d1b26f3cb4778"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/scheduling/domain/BookingStore.java",
+          "sha256": "abffeb5a7e8b072c4c2a967e96e7fba4a7660903469ba6c5593632b47e0f58f8"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/scheduling/domain/BookingType.java",
+          "sha256": "d40aa009ff8c9e3435b7bee920a886a24e8307065b3a52e832db10ee7956cf3a"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/scheduling/domain/Member.java",
+          "sha256": "f435a32635cb24547bab6f021122637c0c32fdef8dfa04bdba603c3beb93822a"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/scheduling/domain/MembershipTier.java",
+          "sha256": "39059688284e9631fb3202723c3f4ef228700baff31258c328bb0d44a2251554"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/scheduling/domain/Room.java",
+          "sha256": "99c63b236fbd6edad9d45f29ae848f1a8683747104a823bd9a021f6555d23485"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/scheduling/domain/TimeSlot.java",
+          "sha256": "746080fda543a435b283666cc1e6eac182f5607094e72cd89b04b6fe5190df76"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/scheduling/notify/EmailNotificationStrategy.java",
+          "sha256": "1873b24747f9c9fe88944aa1a3121b957aec5a7553870766197126c85887fe7a"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/scheduling/notify/NotificationHub.java",
+          "sha256": "15c0a7f488fd9f1087e574155afb5323f6d026c2dd1e3ea2e8d374f00ced5e82"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/scheduling/notify/NotificationMessage.java",
+          "sha256": "3743d305dc5bd1ba6b658a8ee111759d10848bd67b648d1f05541797faa0f68b"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/scheduling/notify/NotificationStrategy.java",
+          "sha256": "31a555f0b9f25806e26d814842a7e709ab947743d42ccb6851da9e34ae484313"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/scheduling/notify/NotificationSubscriber.java",
+          "sha256": "b4c4d0ba1f11a00ce11df0069e197ae2e2b7ead71ef87419bfbb7518a4a29d79"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/scheduling/notify/NotifierFactory.java",
+          "sha256": "04fde7ccf5079944e248a4743e00231e5cb76729abe3829e22915f7f5c76dfa3"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/scheduling/notify/Outbox.java",
+          "sha256": "4a531c1b7771df7dfb2dde8767a4eb906b5df372b1ae893b79dc884a257d35b5"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/scheduling/notify/OutboxSubscriber.java",
+          "sha256": "6da4ce6a6951d7f0592e64834ff44df23c4c8c670cd83544dff4e3be97d39e6e"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/scheduling/pricing/PriceCalculator.java",
+          "sha256": "20f9b1ed2f2a5d73aeb28a7085241f4ddca32dfdc26a55ce635099fff5ae1f81"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/scheduling/reporting/OccupancySummary.java",
+          "sha256": "7ca15bf1d0670b39e0074ef93b17d3c2f537ccbed838603b729938e73395caee"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/scheduling/reporting/ReportService.java",
+          "sha256": "8fa853affade60cf03fd499eb4d10378f0d9ecb000f30ad3d8374221704b0d12"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/scheduling/reporting/RevenueSummary.java",
+          "sha256": "fe45c27b04fbdaab744b2b5030b6943d9f9d4a9bd741ca8967e1c9a4adac6f4f"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/scheduling/workflow/BookingWorkflow.java",
+          "sha256": "557d7a22c792da9b36f2424b348a2dde5b803804d15ba4c6e574b7c7a1b4e798"
+        },
+        {
+          "path": "src/test/java/edu/cmu/cs214/scheduling/notify/NotificationHubTest.java",
+          "sha256": "415b0ecab71b5634963de322b3da2fa394bba6368f145dae0354b04d47c76c88"
+        },
+        {
+          "path": "src/test/java/edu/cmu/cs214/scheduling/pricing/PriceCalculatorTest.java",
+          "sha256": "3538b3ff359b88b8c55febcac9ac0b5b4c24dd10c0d5faf8c7ecc402a75c2b79"
+        },
+        {
+          "path": "src/test/java/edu/cmu/cs214/scheduling/reporting/ReportServiceTest.java",
+          "sha256": "7b63374340323e54246aacf4650fbc7e0536a643b7a27ac729b9e3d07cf73b4c"
+        },
+        {
+          "path": "src/test/java/edu/cmu/cs214/scheduling/workflow/BookingWorkflowTest.java",
+          "sha256": "a6922e4fe762922738e04bf81dacc6e7aca44c0c682e656b2681833d3a67680d"
+        }
+      ]
+    },
+    {
+      "path": "course-materials/starters/f26-lab08",
+      "origin": "https://github.com/CMU-17-214/f26-lab08.git",
+      "commit": "3a9923df38ead8896a88a34227390cc8cdb3e776",
+      "files": [
+        {
+          "path": ".github/workflows/ci.yml",
+          "sha256": "06cae55153b2cab832d5bc4d8c8ce99fbbf946cf99829161e9a9251a7856dc72"
+        },
+        {
+          "path": ".gitignore",
+          "sha256": "af1519b93e546c4879423a3fd62c81c1cd226edca5d06af7003580984726ff34"
+        },
+        {
+          "path": "AGENTS.md",
+          "sha256": "c67305bf003eb4d9c014910db10530588d3d641bc8965e9a0190dde2302fde52"
+        },
+        {
+          "path": "ARCHITECTURE.md",
+          "sha256": "8e13d80bfe8773a0635ceb527ed6d6e55dedcb77cf97b74670a30fcf63c87a2c"
+        },
+        {
+          "path": "CHANGE-REQUEST.md",
+          "sha256": "f5b22c55f45c3d1284df0c3834b715feb5edb9291e1301e18149b6d571679d72"
+        },
+        {
+          "path": "CLAUDE.md",
+          "sha256": "d631d88045f74623d568adfb4783b72e3d1b732330d749bc6c72e6648d4581d3"
+        },
+        {
+          "path": "PLAN.md",
+          "sha256": "a763838f13e7514b1756968e49480b9dd906bc23d3e441fe11887be8ccbc7b0c"
+        },
+        {
+          "path": "README.md",
+          "sha256": "420a2698c1b4c09c7bd8dce23a00ae0a3120c4cf0de37a9614046662cf9c89d6"
+        },
+        {
+          "path": "SETUP.md",
+          "sha256": "3837583d6d2abffc1724206b97bb1839e6c8b695db9343e2340f51ff9ad350a6"
+        },
+        {
+          "path": "accounts/pom.xml",
+          "sha256": "1ec4e948b3322a26b53764cbf14fc2157d6ad3401ebb6ebd98ecc600152fcdd3"
+        },
+        {
+          "path": "accounts/src/main/java/edu/cmu/cs214/campusreserve/accounts/AccessDeniedException.java",
+          "sha256": "b5f5b4792814ebcc1ed85738a5343fab857c38aef27446f8367f4933dc7bd398"
+        },
+        {
+          "path": "accounts/src/main/java/edu/cmu/cs214/campusreserve/accounts/Account.java",
+          "sha256": "edf73396e8654489bbb5d60f152f7d952ad249ae543532b00c8304805b203a23"
+        },
+        {
+          "path": "accounts/src/main/java/edu/cmu/cs214/campusreserve/accounts/AccountDirectory.java",
+          "sha256": "03e50fba9949d5a5c83693edfce2e1736e1b90d1d0af8ba528726ecd258ae67e"
+        },
+        {
+          "path": "accounts/src/main/java/edu/cmu/cs214/campusreserve/accounts/AccountRules.java",
+          "sha256": "fbd76a794014f4270d0cf4a346bedcce4242d5232742312357f12c850d9f5c72"
+        },
+        {
+          "path": "accounts/src/main/java/edu/cmu/cs214/campusreserve/accounts/AuthResult.java",
+          "sha256": "66086bfb34203f6e61f815e6313671c1f5600ad1de35207119e02f5df662c47c"
+        },
+        {
+          "path": "accounts/src/main/java/edu/cmu/cs214/campusreserve/accounts/AuthorizationService.java",
+          "sha256": "b3917db24911947bbba3600782befe73185ed169087b20e1810cf402ccbc833a"
+        },
+        {
+          "path": "accounts/src/main/java/edu/cmu/cs214/campusreserve/accounts/DenialReason.java",
+          "sha256": "164ae9f26d55af851480db6a7de4d20471e0cb6a16f84c4273a22552869aaa2a"
+        },
+        {
+          "path": "accounts/src/main/java/edu/cmu/cs214/campusreserve/accounts/Role.java",
+          "sha256": "0db721b478653ef7384451c2ee23e38b75e9d42bd1f78fc871c330264a85249b"
+        },
+        {
+          "path": "accounts/src/main/java/edu/cmu/cs214/campusreserve/accounts/SessionSummary.java",
+          "sha256": "fd88885d7c89c6886be0873fdf02d14b07fa838aec61b3642e59880abb02c5db"
+        },
+        {
+          "path": "accounts/src/main/java/edu/cmu/cs214/campusreserve/accounts/Token.java",
+          "sha256": "9ad4984ba6deb49d84036754fd3af6090ee8686c0d696cb569b6764b0b03d326"
+        },
+        {
+          "path": "accounts/src/main/java/edu/cmu/cs214/campusreserve/accounts/TokenMinter.java",
+          "sha256": "9bf68755f5cf3ccb1278204ed7a329a98f43bbe7819d5d0a5b1503fa7e479d58"
+        },
+        {
+          "path": "accounts/src/main/java/edu/cmu/cs214/campusreserve/accounts/TokenService.java",
+          "sha256": "f762b0dcd1495954b19e4605bef31795f435a367aa4a8df5a35dc162f726d251"
+        },
+        {
+          "path": "accounts/src/main/java/edu/cmu/cs214/campusreserve/accounts/package-info.java",
+          "sha256": "0b30e2ea14f62ffc084e807d13ad5a80e7f0102646b5254ccdbe40af69cae2bd"
+        },
+        {
+          "path": "accounts/src/test/java/edu/cmu/cs214/campusreserve/accounts/ServicesTest.java",
+          "sha256": "60e57a85ad44fca5a0b9500d1aaa297baf3ac0b3f5a6456b8f3e8319806162d6"
+        },
+        {
+          "path": "accounts/src/test/java/edu/cmu/cs214/campusreserve/accounts/ValueTypesTest.java",
+          "sha256": "cfc08e3165d1a8a51abc90f4c32cef306569e63d578ed56e5c199f54d7eadec4"
+        },
+        {
+          "path": "accounts/src/test/java/edu/cmu/cs214/campusreserve/accounts/support/RecordingUserStore.java",
+          "sha256": "2f92c5ea79ea3028a6f43e845baa84194c2170ff89412a4880af8d8b827bfa3b"
+        },
+        {
+          "path": "accounts/src/test/java/edu/cmu/cs214/campusreserve/accounts/support/TestClock.java",
+          "sha256": "f1ea27feaab76c550ff745d550a5c3b0208ce16835cb1939a120dc590ec69c7f"
+        },
+        {
+          "path": "analytics/campusreserve_analytics/__init__.py",
+          "sha256": "bed90c8501fb497cabeec40d820aeaa311adf1ef1cb634fe753b1f0b619fefe0"
+        },
+        {
+          "path": "analytics/campusreserve_analytics/__main__.py",
+          "sha256": "330355e5c864653c3e1624e4dcc0014ca50e7780d75bd60360d3807701cde5c1"
+        },
+        {
+          "path": "analytics/campusreserve_analytics/cli.py",
+          "sha256": "c78157839f11c69e11c382e630dae5efdee1db5969f26836caaabb50e8538875"
+        },
+        {
+          "path": "analytics/campusreserve_analytics/events.py",
+          "sha256": "a949874916e1dabeece1266639e21c0959970332f3b0555c11828b800187e83d"
+        },
+        {
+          "path": "analytics/campusreserve_analytics/render.py",
+          "sha256": "dc80144a88b6072b8117c3627b3c6d97176bc8c1f6b198412125616e91c861ec"
+        },
+        {
+          "path": "analytics/campusreserve_analytics/revenue.py",
+          "sha256": "3e97a61bb67c8caa3f0c6890508c247b053ea32fd070168cc3f284852ba2ed50"
+        },
+        {
+          "path": "analytics/campusreserve_analytics/utilization.py",
+          "sha256": "2f3b746b07c10358bea1d037392f16b13803c7ca61697a764181cf60ea27585d"
+        },
+        {
+          "path": "analytics/campusreserve_analytics/windows.py",
+          "sha256": "7a8582e8693454693f27341c8f9ef2da29f7e913afce723579fea7c7903bc274"
+        },
+        {
+          "path": "analytics/pyproject.toml",
+          "sha256": "52b0fd757f0f3e2cc450c8395c973337b56c6d2e433a0d5bb5a2b5198bf64f2c"
+        },
+        {
+          "path": "analytics/tests/__init__.py",
+          "sha256": "9dbc4bf992a7f17dbc9fc1f2c64d62823557f923593658c7682655c9a3b35d91"
+        },
+        {
+          "path": "analytics/tests/conftest.py",
+          "sha256": "31e4c79f337c6b0f8e1fa3f8967b9f5e223bdf470440db282e813ef03516a562"
+        },
+        {
+          "path": "analytics/tests/fixtures/events-empty.jsonl",
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "path": "analytics/tests/fixtures/events-malformed.jsonl",
+          "sha256": "c50aa201feed66ce52ccd1ff1e14768c616754edc910c8a8504423c961516b60"
+        },
+        {
+          "path": "analytics/tests/fixtures/events-small.jsonl",
+          "sha256": "7ac868e191922d351577aa237beb2e9614ad3c2dfc6964b53ea801d64bf45517"
+        },
+        {
+          "path": "analytics/tests/fixtures/events-week.jsonl",
+          "sha256": "58cf6417a335a2cc16ffe4ad4eedf9064b75ad4d5bb6e72f941fc4c6fa7aa59b"
+        },
+        {
+          "path": "analytics/tests/test_cli.py",
+          "sha256": "edd461e1e25cc669718cc0a017c962fbf785f4ed6fdd6b982304a06c9b89ed4a"
+        },
+        {
+          "path": "analytics/tests/test_events.py",
+          "sha256": "03c4cf1eeef131480566d275ecc0c4335fd18e089067144ccb644f54d7929dc6"
+        },
+        {
+          "path": "analytics/tests/test_render.py",
+          "sha256": "34660a2e2e111b888ba0c065519135a8100a8784384b2d9d5dbc0e4f4fadc546"
+        },
+        {
+          "path": "analytics/tests/test_revenue.py",
+          "sha256": "2915100db4283fd5c72e1454771de7164ebe1df1bb7a9d79ca504c7e6fdf4d1d"
+        },
+        {
+          "path": "analytics/tests/test_utilization.py",
+          "sha256": "c6092ceaa9049d031857b8f23015688a397b6ed1fd99bac1600c3ba8d5e4703c"
+        },
+        {
+          "path": "analytics/tests/test_windows.py",
+          "sha256": "56faef4689d510d10194d158271aef56783e9eb66de18e96789b1676b8b9dbd7"
+        },
+        {
+          "path": "billing/pom.xml",
+          "sha256": "6521e2fea6c5fd4f16d43c50806fb2271dc90537c6c6c69a86b82bf1a3c868f1"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/BillingFailure.java",
+          "sha256": "d115075aaf450e6189f537e1a7b82fd7882b77ebc332a2c6ae6d02ca0620f7d4"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/InMemoryInvoiceStore.java",
+          "sha256": "e9ba302e780c442df2bc3ebef882f6b0498f65576a25e378f834ea61af7ecdc9"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/Invoice.java",
+          "sha256": "6a25e925a466302236a596ac14294e1a722376673fc30e584b5cb478c58663dc"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/InvoiceOutcome.java",
+          "sha256": "f729c56fc5df3b6f017aed7cb31b251ab7701dd4f8342ce7b773752c89f674fb"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/InvoiceService.java",
+          "sha256": "07c8a1d5efe18aecfd9e34fc27d382b4979912eceebca427a0aad7b6dc0837fa"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/InvoiceStatus.java",
+          "sha256": "9788dbbd38d4d8bb8528ebd4c8695cd7006107120602095c99b88116a8c9b539"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/LineItem.java",
+          "sha256": "306ac779955bd55cdb8ec21c7846fff5ae348b9067706b2a8f3e0b5ed2433550"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/Money.java",
+          "sha256": "1979c5ec82aa3f87e3980a5e681d83a11189886c6b1bd03c2f97f87669adde6c"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/PriceCalculator.java",
+          "sha256": "53d95c86c2fa91d5d09dff3913f463cf4d4743a6c0234367e1989a38b7df9219"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/PriceContext.java",
+          "sha256": "cb599320d68411ea7cec3045a69ac8cacf359433aa04fb4dfdc6602e562dbc94"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/PriceQuote.java",
+          "sha256": "815a15f34b66b116df854a9dd74092557519014604c8c43de6d6e9896315cb06"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/PriceRule.java",
+          "sha256": "ddfcf27b848caebebd8e44560b7387126f1f5aa7847cf7361325a25022abc404"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/RateCard.java",
+          "sha256": "a0f30ada94cd3d002c29369b088c6475ae53b965a605424777ef85bbb65d0a8e"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/rules/BaseChargeRule.java",
+          "sha256": "3ceb091feefade60b899e8a191fbb6c7a70b7826d4c586c5107f82b690914015"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/rules/LargeGroupSurchargeRule.java",
+          "sha256": "8f8679622e1bb58d25fa0147ac7f2d57871cf2268227733744d48f291046deee"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/rules/LongBookingDiscountRule.java",
+          "sha256": "908cde98b0fab56bc6c2639f74bcf00f2af396bc715b36f0149d17d6f3d2618b"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/rules/MinimumChargeRule.java",
+          "sha256": "7c97a8e98b0115a191fbace90c5b163c6e53e98779b0f3cb3a63b1af20b89b25"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/rules/PeakHourSurchargeRule.java",
+          "sha256": "3179736439a78012d1a6923e252892b8ffd9262013ea6b5867f8680802af941f"
+        },
+        {
+          "path": "billing/src/test/java/edu/cmu/cs214/campusreserve/billing/InvoiceServiceTest.java",
+          "sha256": "1c7814707e0862220ffbe18d9189e5b00e961d552b488f28ed771445bd9e62fc"
+        },
+        {
+          "path": "billing/src/test/java/edu/cmu/cs214/campusreserve/billing/PricingTest.java",
+          "sha256": "f027042092982ce37f93bf194978187c88033f1227b5bde539c3aafc15783df5"
+        },
+        {
+          "path": "billing/src/test/java/edu/cmu/cs214/campusreserve/billing/support/BillingFixtures.java",
+          "sha256": "4321450b022ad3ca93aceb0992b70653ee927557c23b8a9ec5d884d1b36a0b2f"
+        },
+        {
+          "path": "billing/src/test/java/edu/cmu/cs214/campusreserve/billing/support/TestClock.java",
+          "sha256": "4eb99227e8046ae58a72b7e190e0ffa366a8220ab14464f3ccafd54ed1f09c8c"
+        },
+        {
+          "path": "cli/pom.xml",
+          "sha256": "45c081d712df48fe84f579d9a53fe31b1fb8f1268cbcae6528ccd5d8d791e2d3"
+        },
+        {
+          "path": "cli/src/main/java/edu/cmu/cs214/campusreserve/cli/Arguments.java",
+          "sha256": "e9477f5e6085f9599c945c8e9335f3e9934b7e15d430f1839493229557527536"
+        },
+        {
+          "path": "cli/src/main/java/edu/cmu/cs214/campusreserve/cli/CampusReserveCli.java",
+          "sha256": "e645706483d1b6b4d67ec9aa706fd196be36d712c48d6c5e5fbba5bf5febc596"
+        },
+        {
+          "path": "cli/src/main/java/edu/cmu/cs214/campusreserve/cli/CliContext.java",
+          "sha256": "f8e8c82a4f6536f29e2ebe65d3cdb4156ed6f09d0520c723b05e91002037246e"
+        },
+        {
+          "path": "cli/src/main/java/edu/cmu/cs214/campusreserve/cli/Command.java",
+          "sha256": "2a48dbd8019faa3fe0e3f6260e331f277d7764d1cddc378038ef17110ba9d5c2"
+        },
+        {
+          "path": "cli/src/main/java/edu/cmu/cs214/campusreserve/cli/CommandRegistry.java",
+          "sha256": "2d2414d57340a587e1d0526e51cfec433019144f571a554bb65e53fa57cdfe5e"
+        },
+        {
+          "path": "cli/src/main/java/edu/cmu/cs214/campusreserve/cli/Console.java",
+          "sha256": "2ac6fcfd0198e71bcb0ae23c400a923ecd0915533d6ba25975157abae110a163"
+        },
+        {
+          "path": "cli/src/main/java/edu/cmu/cs214/campusreserve/cli/DemoData.java",
+          "sha256": "bc28118fc3663934c91395b7629cbc583b8ac9337daff17426eb0da521604c06"
+        },
+        {
+          "path": "cli/src/main/java/edu/cmu/cs214/campusreserve/cli/Format.java",
+          "sha256": "1930cbbefa26671e1966af0b2e8ef17f10c916f520d1f43a848fb650f97aa395"
+        },
+        {
+          "path": "cli/src/main/java/edu/cmu/cs214/campusreserve/cli/TableFormatter.java",
+          "sha256": "670a25c5a8f3bff9891dce2b48c49e4c27ef2be80073ecead8c397b01310872a"
+        },
+        {
+          "path": "cli/src/main/java/edu/cmu/cs214/campusreserve/cli/UsageException.java",
+          "sha256": "58c4e21eae25a8a4e32962296fd004e4cfaaebd6743fa832f8c854a8f096d51c"
+        },
+        {
+          "path": "cli/src/main/java/edu/cmu/cs214/campusreserve/cli/commands/BaseCommand.java",
+          "sha256": "e7b188d296249841598f2f586e0ec7f90a3451baba25875a394e82373ac6a29b"
+        },
+        {
+          "path": "cli/src/main/java/edu/cmu/cs214/campusreserve/cli/commands/BillingCommands.java",
+          "sha256": "5b3facff2dc681ff7b606441cdcb3586129b980a584e51a261c90f3fecd953bb"
+        },
+        {
+          "path": "cli/src/main/java/edu/cmu/cs214/campusreserve/cli/commands/BookingCommands.java",
+          "sha256": "7fed3edcf67ad00be36249f8e299ae52779ad664edc4fdff3fa342c4cb2be403"
+        },
+        {
+          "path": "cli/src/main/java/edu/cmu/cs214/campusreserve/cli/commands/CatalogCommands.java",
+          "sha256": "b79148cc9a5b776d32a14a4fc298f52acb81d04eb472525d69a8a5cfc4709c17"
+        },
+        {
+          "path": "cli/src/main/java/edu/cmu/cs214/campusreserve/cli/commands/ExportEventsCommand.java",
+          "sha256": "e139cfa7acb2262e780e52a4d01975bda64582afaeca5ef96a8b9dc5b14ae95f"
+        },
+        {
+          "path": "cli/src/test/java/edu/cmu/cs214/campusreserve/cli/ArgumentsTest.java",
+          "sha256": "41ae00a38f4ce10ef8dd3bfb512745fb2f34fa0f4e33fcae756ca77ae5eda7aa"
+        },
+        {
+          "path": "cli/src/test/java/edu/cmu/cs214/campusreserve/cli/CommandsTest.java",
+          "sha256": "754ec04edc44990eb2f2899336a764f42bfe218a1085b5f363db9e41e057921e"
+        },
+        {
+          "path": "cli/src/test/java/edu/cmu/cs214/campusreserve/cli/ExportEventsCommandTest.java",
+          "sha256": "5e952fe7bcdee1c77a27557d377958d25137e6ef0bf3862f1a91796d3944d010"
+        },
+        {
+          "path": "cli/src/test/java/edu/cmu/cs214/campusreserve/cli/support/CliHarness.java",
+          "sha256": "35b4863fa795854b13aa978d8905ad8188e729d4615599d61c801e3e25b4149e"
+        },
+        {
+          "path": "cli/src/test/java/edu/cmu/cs214/campusreserve/cli/support/TestClock.java",
+          "sha256": "a001e912f45e9b31886ec690b4c288e4ebbeef16b8ac4e41a0b1c8793ffdb74b"
+        },
+        {
+          "path": "core-domain/pom.xml",
+          "sha256": "39fe334558b4c0c9436269048ef3013438c93bd759aa7cfc0fd5e39a2dbe161c"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/domain/Booking.java",
+          "sha256": "c252eecbb41d12e890884ce6c92b2f5ed523d6421832f257a5fb51872936d10f"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/domain/BookingOutcome.java",
+          "sha256": "363cd1070377d762f02596a4c036d029eb4a5b02602b0b613f7afb8479498e3b"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/domain/BookingRequest.java",
+          "sha256": "0c97efbf90a5d45516816f535d35ed018a18ffa42072b774851ba0871b691c78"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/domain/BookingStatus.java",
+          "sha256": "25237262aefa1d8f4fd9215eabd86458b56330f5f61d11b0671f3fa5417e5a40"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/domain/CancellationResult.java",
+          "sha256": "1f7c09deb7c8cb4856e763957d280371581bea1206341caf10445617ab84e3bb"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/domain/Identifiers.java",
+          "sha256": "a972c0167fa88a3e39aad5b6e7ee6eba4231b2bcdff47e0fc6bb49ab27dd1940"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/domain/RejectionReason.java",
+          "sha256": "f4d8076d227fd1ff8f95604d3ba838111278858025c6883b44080f2ecd5daf13"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/domain/Room.java",
+          "sha256": "230d79777cb10ef3e8ba180b37ca4d93364d30428f862898e1852152e554ae8c"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/domain/RoomKind.java",
+          "sha256": "5af0d662f65bb5a9642fee151e206d7ba68564e98f4f33a1d3421f0bba50052a"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/domain/TimeInterval.java",
+          "sha256": "918224145985b8366f45d0e788d600c9a0ef03466fad40a6a8e1ac11ea04799e"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/domain/User.java",
+          "sha256": "36b33d216656c18fda97ea869b9fba67e6362a0a97945f3121a7d691bf1eac73"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/domain/WaitlistEntry.java",
+          "sha256": "bf3e04bb9af940b8bf1f107849c58f263aac772c8eaa6960c1edb012a8a128e9"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/events/BookingCancelledEvent.java",
+          "sha256": "aac071ac981b0d00125ac47d9fc79d870af91981431532e320b5d8b175a0b56e"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/events/BookingCreatedEvent.java",
+          "sha256": "ebb11dfcc8c754678612d19123cb5796ce7b39dae9c178132821b53e9267c79b"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/events/DomainEvent.java",
+          "sha256": "d76dff46782880c7bdc0a910a7978728c88b4a8e0e24f28f271e22b6891fcec0"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/events/WaitlistPromotedEvent.java",
+          "sha256": "835850341094cc1b9ec91c9dcc573e92bd2c127ed77fbcd7cfb977696c67e3ba"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/policy/BookingPolicy.java",
+          "sha256": "4cf4a4edcaa53703b8698aad94695415c877bd33185c1c4e088c23af9d171c40"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/policy/BookingRules.java",
+          "sha256": "2d9a65a73dd9fe1b883c15d8bcf993efa09c94592a92a137d8a6c73002e8ca62"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/policy/ConflictChecker.java",
+          "sha256": "b226dde1bc51099c2955949a1e63d3bca7123bf760af79b745a5a78e7228479f"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/ports/BookingStore.java",
+          "sha256": "72f9fddac991012e4daf1f1a3866bc7dd7665eec05fbfbcd03a3f072a664201c"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/ports/EventPublisher.java",
+          "sha256": "4caadb141af1f6c55a0c4d7466234fe78f3361a00b442f9ea9960ece2385c258"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/ports/IdGenerator.java",
+          "sha256": "eabd8d9881141143ccfaeadc40c64a11e43c9d1aa127764e3ee205c9b2b4a93d"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/ports/RoomStore.java",
+          "sha256": "c83ea0c47149c7295ecf17594a6522016c3a5f7be449c339a0fc0c3da22fac4f"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/ports/UserStore.java",
+          "sha256": "e573e6cf14483b13d2422bccc9cd81ffb6c9a2d14a6fa403fd0fa73883ca07fe"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/ports/WaitlistStore.java",
+          "sha256": "232637f8fdd34bb16b217b7d4f54eea0f46fd686df9829fd86fe5bbc419cb7ba"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/service/AvailabilityService.java",
+          "sha256": "ceb50e802f56d9d5e159a6ed7032e6fd20d3fa1bbd77ad28a6ea8e8483931159"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/service/BookingService.java",
+          "sha256": "367b194176a3767baf42bbe96d8b77c2dc31c7cc486c33923558ad433ff43c76"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/service/RoomCatalog.java",
+          "sha256": "7e63ad01b6cc0355969d8d8656040661212fe41d5322bbb324247adabd3eb181"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/service/RoomSearchCriteria.java",
+          "sha256": "65fe95c5614a1dd38682864d96ec7bc8da37b872e3c7631c181fa0bad8ab3d08"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/service/UserRegistry.java",
+          "sha256": "dca6a5ee876e2e9b2ed2e9f89a74baa850f37f881545d399205b25114a3b134e"
+        },
+        {
+          "path": "core-domain/src/test/java/edu/cmu/cs214/campusreserve/core/domain/EntityTest.java",
+          "sha256": "4d77dba50a53c3760ee5f59ec4d54838469a4e52747d7517f07b9508151adca6"
+        },
+        {
+          "path": "core-domain/src/test/java/edu/cmu/cs214/campusreserve/core/domain/TimeIntervalTest.java",
+          "sha256": "00c8951c16637806f033bd996c4c47dbc416011c37143981a1f4f6cb13117c04"
+        },
+        {
+          "path": "core-domain/src/test/java/edu/cmu/cs214/campusreserve/core/policy/BookingPolicyTest.java",
+          "sha256": "90b1b15bdefcf132bfa372402f9c21ee8ab57774ccf8fae3b361654b32e342e3"
+        },
+        {
+          "path": "core-domain/src/test/java/edu/cmu/cs214/campusreserve/core/policy/BookingRulesTest.java",
+          "sha256": "813902fd2aefff033c3e00748c5cfd11cea17c76fa57e252b803aca6634d575a"
+        },
+        {
+          "path": "core-domain/src/test/java/edu/cmu/cs214/campusreserve/core/policy/ConflictCheckerTest.java",
+          "sha256": "8be136794f2c112f295cfed4a9e9a50d3fdf93aeb28ccf0181b1e99f06c9671c"
+        },
+        {
+          "path": "core-domain/src/test/java/edu/cmu/cs214/campusreserve/core/service/AvailabilityServiceTest.java",
+          "sha256": "b8af8a865c602c6f07e1db3528eab01ec016a3a1c3ea8a26f378ef2a4a339921"
+        },
+        {
+          "path": "core-domain/src/test/java/edu/cmu/cs214/campusreserve/core/service/BookingServiceCancelTest.java",
+          "sha256": "246a7bc77f5b807d7f9966841e5b3b23a4314f8cc23550a270a640487056ec47"
+        },
+        {
+          "path": "core-domain/src/test/java/edu/cmu/cs214/campusreserve/core/service/BookingServiceCreateTest.java",
+          "sha256": "53f76aa4c9dc712e464e0680f26121a2351c844e1ba0eeda734b1942f1afb3f5"
+        },
+        {
+          "path": "core-domain/src/test/java/edu/cmu/cs214/campusreserve/core/service/BookingServiceTestBase.java",
+          "sha256": "22d6c1d6675ad8fd9faaa56d18cd7b16c304adfd39e277643dd94d8950bad4ee"
+        },
+        {
+          "path": "core-domain/src/test/java/edu/cmu/cs214/campusreserve/core/service/BookingServiceWaitlistTest.java",
+          "sha256": "ba6535c28755acc883305f5cf9df53f1426c0be16ec07660ec0961b76c799cf3"
+        },
+        {
+          "path": "core-domain/src/test/java/edu/cmu/cs214/campusreserve/core/service/CatalogAndRegistryTest.java",
+          "sha256": "5ace14df1a9bcc3af13c213a88a544d38145371911ee625bda5b886711dffab8"
+        },
+        {
+          "path": "core-domain/src/test/java/edu/cmu/cs214/campusreserve/core/support/Fixtures.java",
+          "sha256": "ca662469cb41e6924cfec8a153939e24e77323fdcd774b74288a73928c80a688"
+        },
+        {
+          "path": "core-domain/src/test/java/edu/cmu/cs214/campusreserve/core/support/InMemoryStores.java",
+          "sha256": "b4115ce76ec03513bcbea805967f16d6bcbc400f416aa0d98402917eb2ca6915"
+        },
+        {
+          "path": "core-domain/src/test/java/edu/cmu/cs214/campusreserve/core/support/RecordingPublisher.java",
+          "sha256": "0e171e6f54cd2b5f69330082e87fd0c6be8b65b2de631b699b84231e329639dc"
+        },
+        {
+          "path": "core-domain/src/test/java/edu/cmu/cs214/campusreserve/core/support/TestClock.java",
+          "sha256": "7f20ba18117a553bf9274ce758391b647d14dc54e7a7ec2c6f63570476068bf5"
+        },
+        {
+          "path": "guardrails/README.md",
+          "sha256": "2af482a995b3e5e77413565f59315cb863bfb37ed77a87b932bd10bd3cd41f64"
+        },
+        {
+          "path": "guardrails/lockdown.sh",
+          "sha256": "187e74c212bcd67350de3b9bda18dc4b57ec76ab2a79e652359a369686bca344"
+        },
+        {
+          "path": "guardrails/protect.py",
+          "sha256": "30966e90869157a5a85d0006a8847b919178c51c1ac5843d916836683eb808cc"
+        },
+        {
+          "path": "guardrails/protected-trees.txt",
+          "sha256": "7762276539e6b8bc913f0dec982187ac6824241ac06cfb1dd7063e188cb904de"
+        },
+        {
+          "path": "guardrails/settings-snippet.json",
+          "sha256": "3c52c235d4c571f8fa07493408a821e89edff2ffaa49406a1188705079f8dab5"
+        },
+        {
+          "path": "guardrails/unlock.sh",
+          "sha256": "7c2797c3a87128a4967c20311cd7a008f01d8446e106f7f1c4cd593a4708567c"
+        },
+        {
+          "path": "http-api/pom.xml",
+          "sha256": "940d83a5c96de2c80d319049d4d3a12d9db0c1fd549998d0eee9269b6be0c365"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/AccountsUserDirectory.java",
+          "sha256": "9b68702f62797d1ec07e69f871f7a68bfa801f471028a875684fe37e2e9f5be2"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/ApiException.java",
+          "sha256": "5701a0b5df2d489c6aca450ab7815aa0422f9b6bf0638e51772832b8e0e7a4d2"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/ApiHandler.java",
+          "sha256": "c54fc768e1f73f227d1df6ff303f9f036ef45eed96b1b1183cbd0a10012fc969"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/ApiResponse.java",
+          "sha256": "296fda69b1cda821524d3d62e6fd974b98bed1725302c8ae83ed42583e1c15f7"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/BookingsHandler.java",
+          "sha256": "40e21bd4ebc2bdbd83fe1d83e05f9e6a9e8b70c2f0e117ee47bf3ecea79317bd"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/CampusReservePlatform.java",
+          "sha256": "17edf62c70d489b403273984f967f7458ac2e49be7052555118be3fae84492e9"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/CampusReserveServer.java",
+          "sha256": "6bcce87c31ab4bca09f339b2e7d37b60d594d41121911ed920cc1fa3002db3d9"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/ErrorMapping.java",
+          "sha256": "95eba65b8216b57a3038dbb309a0cf7c5f977db99c64c3fde96dd42b9672e0f2"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/FormValues.java",
+          "sha256": "9524272c8611ae5454d58b53c5aa6d971a1a01cfb35b3a44f2ce7793c12451a6"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/HttpApiServer.java",
+          "sha256": "fe7cec86d0690d4a2886d14742b0597f3a11740d014224d94900410e728587ab"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/JsonArray.java",
+          "sha256": "3ff3a88894e22ce7ac6e37e609b84728feb423d0db4d02b85e8624d816f284c7"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/JsonObject.java",
+          "sha256": "fab8bb3b71ce7262c4856a780d7764da9d7953c5f3a6516bafe4c0fc148cefdc"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/JsonViews.java",
+          "sha256": "dad2f0ffc0fdd9caa0395e8a2a23a01b41a98b0f49235886e3e4279104860dec"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/RequestAuth.java",
+          "sha256": "80cb4c190028405191bf36a1e3bcc36cebd491d172669a03416eb465c04100a3"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/RequestContext.java",
+          "sha256": "704c119e0e722bbbbcd0030ef1ad88e518eeafc4981bf4981ad6fdd6363c7175"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/RoomsHandler.java",
+          "sha256": "20b8881acddb5b46607c580caa0c495d2c2d5fb2427f472bcd56c4d8691e5807"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/Router.java",
+          "sha256": "a324e9e4974ccede4f0feecceb3749c7c2bfb0991402fa5b20a1ddb94175ce7e"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/Status.java",
+          "sha256": "ef889e8cac9e4eb826fd709367955b0a970ef5d16ff24ced82158618c8391564"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/WaitlistHandler.java",
+          "sha256": "241efe12a59116d936aa8718bf8965d6516587296afd7791a97efb64bc670bfb"
+        },
+        {
+          "path": "http-api/src/test/java/edu/cmu/cs214/campusreserve/http/ApiTestServer.java",
+          "sha256": "f7401f67fc622fa5f04c15d9186cf489873864cd6827c38ee053b5e87d26db74"
+        },
+        {
+          "path": "http-api/src/test/java/edu/cmu/cs214/campusreserve/http/EndpointTest.java",
+          "sha256": "66b74707ccfec19f6042d1524681e3bf9e486fe0f76c17f48aa9cfce88662d1e"
+        },
+        {
+          "path": "http-api/src/test/java/edu/cmu/cs214/campusreserve/http/RequestPlumbingTest.java",
+          "sha256": "62355d2d897828053319406f254c6307a18680fd19ff42c34c6cc61a90087177"
+        },
+        {
+          "path": "notifications/pom.xml",
+          "sha256": "8d04ac6ed4930b79a741f12f11ba12cba26b67b9535359ea7de4a12903a679a8"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/Channel.java",
+          "sha256": "1793fbf4f81dbbaec55fb7439417d66e9fddcef9be6bb71268fca17e092f5423"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/InMemoryOutbox.java",
+          "sha256": "6b84a3e5648d98eeda3eae67663b9ade81331318abc414c8058505c2b5f6b196"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/InMemoryUserDirectory.java",
+          "sha256": "6c30b8ceeebdcc38edbbf85f2e2231f65690e1fcee292c2bc7c33905268aede1"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/IntervalText.java",
+          "sha256": "8d9324661910aa8b3948f892d352888a593ebd026d21fb81090d6820bd33851d"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/Notification.java",
+          "sha256": "40078dd2e1b8eea652fbd29db337a573bc70235608f317836674dd5f2c12b1ca"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/NotificationKind.java",
+          "sha256": "ff3e355e6cf67822a2cbae560ecb9d003143a355e7685e3e5fdd39eaa0e7ddc4"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/NotificationService.java",
+          "sha256": "457942edc1e98d847b48b32e2e46f475feef2208546858b92e6c42a875aaf340"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/Outbox.java",
+          "sha256": "9a4b731ef6f4e7ed25ec48cccd242ecff081dca8108a8a24010229627a97489c"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/Recipient.java",
+          "sha256": "321c72b8ec46f71ac524a68857194d1edbbbd28188b7707dbc8415f1bc863cec"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/UserDirectory.java",
+          "sha256": "0b0452c8874d700c0af33f3029c9439bf6c95faa4bc5eb5d5f6446be05bce379"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/delivery/DeliveryFailure.java",
+          "sha256": "9908bf239e874aede3b39d5a0d09d1b31210e0c602ef0814d923f3770f9f32ea"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/delivery/DispatchReport.java",
+          "sha256": "7de8f59d8a2e0e19c472a8732098aa221004f9f10f1be37757c9a5fc3fbb4eeb"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/delivery/Dispatcher.java",
+          "sha256": "9b8b10aaa69613e4602e1b868c2e2050bc7a07652002366d7152f3aa85cebe49"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/delivery/RecordingTransport.java",
+          "sha256": "b5afe31085361c1d6434140b3886e2a1373a2ef8c45bc9682be5a6a3e1ae2a6d"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/delivery/RetryPolicy.java",
+          "sha256": "ca90f95a07f95f4e286c4fddadb3f0ddca737a744addbbf5bdd920ec674f7805"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/delivery/Transport.java",
+          "sha256": "5e7f9ff8bc49d6827f640df8478248306f4cdc2b25709982e43ce7a62aa0d9c8"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/delivery/TransportException.java",
+          "sha256": "2c8f1b50ddd04bdc1c941796feb598cf89326231bf5147500e2e63dd03f98127"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/templates/BookingCancelledTemplate.java",
+          "sha256": "2c4a569f885466e4fad95533545156e461dda457de488a0cf83ac0c5ddaa6527"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/templates/BookingConfirmedTemplate.java",
+          "sha256": "c4f274a4f0e6037f176e84452010827572b27190f211bf02d0de0245de70409d"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/templates/MessageTemplate.java",
+          "sha256": "0a16c3eb9c9e1a8aa5f70ee4c75c98778e0c5b7a32f59d4276a09dbbb8113f74"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/templates/Placeholders.java",
+          "sha256": "461f271322d216e63462e0714fb635777672cb4554a7b3e0cb67a24cb270f764"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/templates/TemplateException.java",
+          "sha256": "e5283e2a26946175a751df7a24c6b4c6dc81aa7d1ecc49e7b0a76c443f975f08"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/templates/TemplateRegistry.java",
+          "sha256": "f08099f5204f87c8d3a4ac514a62a7eb3f989d3786645cf3ac20ef1cb50453f9"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/templates/Templates.java",
+          "sha256": "29f86a84813cd8e5d69a4b16f1224c54419b30dc1eb98a39138e986efd0c0a28"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/templates/TextMessageTemplate.java",
+          "sha256": "8f05ebba0dd54b855101074cd0a5780a222a16623723463696fbad09340732d2"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/templates/WaitlistPromotedTemplate.java",
+          "sha256": "b300648fae1171d39bdb17ca99a454dba0a7714eaced7514731d42bb0e7e206e"
+        },
+        {
+          "path": "notifications/src/test/java/edu/cmu/cs214/campusreserve/notifications/InMemoryOutboxTest.java",
+          "sha256": "75bcb09fbca8a058223a6078c81d934d6cd70d2a251f902b23ddd0b81c396f09"
+        },
+        {
+          "path": "notifications/src/test/java/edu/cmu/cs214/campusreserve/notifications/NotificationServiceTest.java",
+          "sha256": "5662c46aaffbbd4900969d230b4f8e3a8ea83a277e805c6e35439c4458ba215e"
+        },
+        {
+          "path": "notifications/src/test/java/edu/cmu/cs214/campusreserve/notifications/ValueTypesTest.java",
+          "sha256": "49f744bbeaa347000111fc5ff88364070d885d9ee05dd0f18a25557a24568bea"
+        },
+        {
+          "path": "notifications/src/test/java/edu/cmu/cs214/campusreserve/notifications/delivery/DeliveryTest.java",
+          "sha256": "9c1c81432edcafed3da513c0e4fa4f232574d616c9678fb30d797704483d37ec"
+        },
+        {
+          "path": "notifications/src/test/java/edu/cmu/cs214/campusreserve/notifications/support/FailingTransport.java",
+          "sha256": "feff28e74e3d08af468ea890aad9e238659cb5adab7ed7cc3f8b109379115980"
+        },
+        {
+          "path": "notifications/src/test/java/edu/cmu/cs214/campusreserve/notifications/support/Fixtures.java",
+          "sha256": "d36a4e2e95c77936fe2e0bfc4d048a5754c33a7abafd208727c2b7eeb9908b51"
+        },
+        {
+          "path": "notifications/src/test/java/edu/cmu/cs214/campusreserve/notifications/support/TestClock.java",
+          "sha256": "80e648536cb15233fb3c819fada60edac141977bf65af201d91ced3a9efaa3a6"
+        },
+        {
+          "path": "notifications/src/test/java/edu/cmu/cs214/campusreserve/notifications/templates/TemplateTest.java",
+          "sha256": "263e4b9d408a9d316ab94095f81e373f6ad45521ae9899a792bda12c2db593e2"
+        },
+        {
+          "path": "pom.xml",
+          "sha256": "e0cc5faabaf356b04b116f10a22aceee14f94f17fa63942bf57942b19c7516c8"
+        },
+        {
+          "path": "storage/pom.xml",
+          "sha256": "a4d8cfb86e605e114191d9ca63dafd26c2cc66b43320b0169077d068cea9ec40"
+        },
+        {
+          "path": "storage/src/main/java/edu/cmu/cs214/campusreserve/storage/EventLogFormat.java",
+          "sha256": "731c9727834f17930101aec053768cdc936bfa67a71dddec7b8aa5fe3aa73e55"
+        },
+        {
+          "path": "storage/src/main/java/edu/cmu/cs214/campusreserve/storage/EventLogPublisher.java",
+          "sha256": "bcbd319c631b91a67535f2eee035ad92ebe7e1190a89496594c3dc700901f456"
+        },
+        {
+          "path": "storage/src/main/java/edu/cmu/cs214/campusreserve/storage/EventLogWriter.java",
+          "sha256": "7c53114ba0e81b51fc7d210164a743fd99f86b8d24058a5ea55b4357b9a03251"
+        },
+        {
+          "path": "storage/src/main/java/edu/cmu/cs214/campusreserve/storage/InMemoryBookingStore.java",
+          "sha256": "b346ef96b86f1d5a6a502e24d6c01cd651f04c7b4e5f8f5b98b1bfa08b28d8db"
+        },
+        {
+          "path": "storage/src/main/java/edu/cmu/cs214/campusreserve/storage/InMemoryEventLog.java",
+          "sha256": "29e6aca9650ead07f07196fac2351155b5c40b6eac817a8089a9b085824cdaf0"
+        },
+        {
+          "path": "storage/src/main/java/edu/cmu/cs214/campusreserve/storage/InMemoryRecordStore.java",
+          "sha256": "2ed68a0eabc84fd495497ba886fefda9c59c31e230a034ca364e5c161896d511"
+        },
+        {
+          "path": "storage/src/main/java/edu/cmu/cs214/campusreserve/storage/InMemoryRoomStore.java",
+          "sha256": "895ae355d3e5f1e8046cec0761d935b79e9acca2ebb2fb416e25cd65bd308812"
+        },
+        {
+          "path": "storage/src/main/java/edu/cmu/cs214/campusreserve/storage/InMemoryUserStore.java",
+          "sha256": "6a77837c1345b472f543841cc7d1127d20bd75760ba4a1da560cd19ce8ec3e27"
+        },
+        {
+          "path": "storage/src/main/java/edu/cmu/cs214/campusreserve/storage/InMemoryWaitlistStore.java",
+          "sha256": "9b2fb9fe8b1315b397e6c01aa89d5341c7ad89ec62c306ffd6712949240d0467"
+        },
+        {
+          "path": "storage/src/main/java/edu/cmu/cs214/campusreserve/storage/JsonLine.java",
+          "sha256": "edb3a552bea1fccb2232f711a51e3b06bddda2a57b069fcf3ebe3acb5260483e"
+        },
+        {
+          "path": "storage/src/main/java/edu/cmu/cs214/campusreserve/storage/JsonlFileEventLogWriter.java",
+          "sha256": "a9551d9598e57547e888037e182400e9ba612230e5ae08da94aede6778f516fd"
+        },
+        {
+          "path": "storage/src/main/java/edu/cmu/cs214/campusreserve/storage/StoreRegistry.java",
+          "sha256": "465119eabfc665f6572d61efd3cab22426a3b81ea780972c7d672261f5912240"
+        },
+        {
+          "path": "storage/src/test/java/edu/cmu/cs214/campusreserve/storage/BookingFlowStorageTest.java",
+          "sha256": "7288d20c09cc4f920250de6aa867e0b803cea5e7648730efc521cd8b082d4a52"
+        },
+        {
+          "path": "storage/src/test/java/edu/cmu/cs214/campusreserve/storage/EventLogTest.java",
+          "sha256": "89aff51d5700978085384b956259e70f584ed34166f06050be0e23709b6b9ad6"
+        },
+        {
+          "path": "storage/src/test/java/edu/cmu/cs214/campusreserve/storage/InMemoryStoreTest.java",
+          "sha256": "c9e8c8eb6cb3e3dfa7ecceb681cbba9b6b1d97adc06f59b0e2242888e742edf7"
+        },
+        {
+          "path": "storage/src/test/java/edu/cmu/cs214/campusreserve/storage/StorageFixtures.java",
+          "sha256": "b55d5fcc28c2c46273b46aed207063a060fbaa62d192b0970d6ecbc65f8555af"
+        },
+        {
+          "path": "storage/src/test/java/edu/cmu/cs214/campusreserve/storage/StoreRegistryTest.java",
+          "sha256": "2944d5f75fcc0d8e561f73eac16e1d94a02dd55a1e599fee0aaaa8261635b640"
+        }
+      ]
+    },
+    {
+      "path": "course-materials/starters/f26-lab09",
+      "origin": "https://github.com/CMU-17-214/f26-lab09.git",
+      "commit": "70698c4e96463433f9e08f4f5f5980f726adc0f5",
+      "files": [
+        {
+          "path": ".dockerignore",
+          "sha256": "b160d05b40b11e766a414b354ab545f817c110b6ae831382ca1c4d86afdbfdb9"
+        },
+        {
+          "path": ".github/workflows/ci.yml",
+          "sha256": "06cae55153b2cab832d5bc4d8c8ce99fbbf946cf99829161e9a9251a7856dc72"
+        },
+        {
+          "path": ".gitignore",
+          "sha256": "d2f6676cba09c05c436f0c6dc4e9c94774b9175600ef1d5c44b86e2b7b5b12df"
+        },
+        {
+          "path": "AGENTS.md",
+          "sha256": "4716e19a4efb679791c281fc6ffc9d439caf7664ecbc8ff4fdae2a360439dd33"
+        },
+        {
+          "path": "ARCHITECTURE.md",
+          "sha256": "159bff7fbc077cff99986074b498e10f62e96de555867961b61e4aaebe01f7f3"
+        },
+        {
+          "path": "BOUNDARIES.md",
+          "sha256": "4c028ef832cda4d48b604ba910360b6132723cfdd4d965be05ca88a4d22a55f1"
+        },
+        {
+          "path": "CLAUDE.md",
+          "sha256": "d631d88045f74623d568adfb4783b72e3d1b732330d749bc6c72e6648d4581d3"
+        },
+        {
+          "path": "Dockerfile",
+          "sha256": "764d9c495ba9db23f409b844f8541c98c87a45e4b2b78af731d6206e0d4873ed"
+        },
+        {
+          "path": "README.md",
+          "sha256": "de3f21ec91b717d836210b0a3379628a0ce102cc71408ba64f949bc01b58a129"
+        },
+        {
+          "path": "SETUP.md",
+          "sha256": "47533c72495c64b11cbe4863ea003437a5e2e191afc4db316aa81580391d4e84"
+        },
+        {
+          "path": "accounts/pom.xml",
+          "sha256": "1ec4e948b3322a26b53764cbf14fc2157d6ad3401ebb6ebd98ecc600152fcdd3"
+        },
+        {
+          "path": "accounts/src/main/java/edu/cmu/cs214/campusreserve/accounts/AccessDeniedException.java",
+          "sha256": "b5f5b4792814ebcc1ed85738a5343fab857c38aef27446f8367f4933dc7bd398"
+        },
+        {
+          "path": "accounts/src/main/java/edu/cmu/cs214/campusreserve/accounts/Account.java",
+          "sha256": "edf73396e8654489bbb5d60f152f7d952ad249ae543532b00c8304805b203a23"
+        },
+        {
+          "path": "accounts/src/main/java/edu/cmu/cs214/campusreserve/accounts/AccountDirectory.java",
+          "sha256": "03e50fba9949d5a5c83693edfce2e1736e1b90d1d0af8ba528726ecd258ae67e"
+        },
+        {
+          "path": "accounts/src/main/java/edu/cmu/cs214/campusreserve/accounts/AccountRules.java",
+          "sha256": "fbd76a794014f4270d0cf4a346bedcce4242d5232742312357f12c850d9f5c72"
+        },
+        {
+          "path": "accounts/src/main/java/edu/cmu/cs214/campusreserve/accounts/AuthResult.java",
+          "sha256": "66086bfb34203f6e61f815e6313671c1f5600ad1de35207119e02f5df662c47c"
+        },
+        {
+          "path": "accounts/src/main/java/edu/cmu/cs214/campusreserve/accounts/AuthorizationService.java",
+          "sha256": "b3917db24911947bbba3600782befe73185ed169087b20e1810cf402ccbc833a"
+        },
+        {
+          "path": "accounts/src/main/java/edu/cmu/cs214/campusreserve/accounts/DenialReason.java",
+          "sha256": "164ae9f26d55af851480db6a7de4d20471e0cb6a16f84c4273a22552869aaa2a"
+        },
+        {
+          "path": "accounts/src/main/java/edu/cmu/cs214/campusreserve/accounts/Role.java",
+          "sha256": "0db721b478653ef7384451c2ee23e38b75e9d42bd1f78fc871c330264a85249b"
+        },
+        {
+          "path": "accounts/src/main/java/edu/cmu/cs214/campusreserve/accounts/SessionSummary.java",
+          "sha256": "fd88885d7c89c6886be0873fdf02d14b07fa838aec61b3642e59880abb02c5db"
+        },
+        {
+          "path": "accounts/src/main/java/edu/cmu/cs214/campusreserve/accounts/Token.java",
+          "sha256": "9ad4984ba6deb49d84036754fd3af6090ee8686c0d696cb569b6764b0b03d326"
+        },
+        {
+          "path": "accounts/src/main/java/edu/cmu/cs214/campusreserve/accounts/TokenMinter.java",
+          "sha256": "9bf68755f5cf3ccb1278204ed7a329a98f43bbe7819d5d0a5b1503fa7e479d58"
+        },
+        {
+          "path": "accounts/src/main/java/edu/cmu/cs214/campusreserve/accounts/TokenService.java",
+          "sha256": "f762b0dcd1495954b19e4605bef31795f435a367aa4a8df5a35dc162f726d251"
+        },
+        {
+          "path": "accounts/src/main/java/edu/cmu/cs214/campusreserve/accounts/package-info.java",
+          "sha256": "0b30e2ea14f62ffc084e807d13ad5a80e7f0102646b5254ccdbe40af69cae2bd"
+        },
+        {
+          "path": "accounts/src/test/java/edu/cmu/cs214/campusreserve/accounts/ServicesTest.java",
+          "sha256": "60e57a85ad44fca5a0b9500d1aaa297baf3ac0b3f5a6456b8f3e8319806162d6"
+        },
+        {
+          "path": "accounts/src/test/java/edu/cmu/cs214/campusreserve/accounts/ValueTypesTest.java",
+          "sha256": "cfc08e3165d1a8a51abc90f4c32cef306569e63d578ed56e5c199f54d7eadec4"
+        },
+        {
+          "path": "accounts/src/test/java/edu/cmu/cs214/campusreserve/accounts/support/RecordingUserStore.java",
+          "sha256": "2f92c5ea79ea3028a6f43e845baa84194c2170ff89412a4880af8d8b827bfa3b"
+        },
+        {
+          "path": "accounts/src/test/java/edu/cmu/cs214/campusreserve/accounts/support/TestClock.java",
+          "sha256": "f1ea27feaab76c550ff745d550a5c3b0208ce16835cb1939a120dc590ec69c7f"
+        },
+        {
+          "path": "analytics/campusreserve_analytics/__init__.py",
+          "sha256": "bed90c8501fb497cabeec40d820aeaa311adf1ef1cb634fe753b1f0b619fefe0"
+        },
+        {
+          "path": "analytics/campusreserve_analytics/__main__.py",
+          "sha256": "330355e5c864653c3e1624e4dcc0014ca50e7780d75bd60360d3807701cde5c1"
+        },
+        {
+          "path": "analytics/campusreserve_analytics/cli.py",
+          "sha256": "c78157839f11c69e11c382e630dae5efdee1db5969f26836caaabb50e8538875"
+        },
+        {
+          "path": "analytics/campusreserve_analytics/events.py",
+          "sha256": "8bf4ca64761037716e163b148428baf7b0cb37ea37ed0a70c5e1dee034bda54f"
+        },
+        {
+          "path": "analytics/campusreserve_analytics/render.py",
+          "sha256": "dc80144a88b6072b8117c3627b3c6d97176bc8c1f6b198412125616e91c861ec"
+        },
+        {
+          "path": "analytics/campusreserve_analytics/revenue.py",
+          "sha256": "3e97a61bb67c8caa3f0c6890508c247b053ea32fd070168cc3f284852ba2ed50"
+        },
+        {
+          "path": "analytics/campusreserve_analytics/utilization.py",
+          "sha256": "2f3b746b07c10358bea1d037392f16b13803c7ca61697a764181cf60ea27585d"
+        },
+        {
+          "path": "analytics/campusreserve_analytics/windows.py",
+          "sha256": "7a8582e8693454693f27341c8f9ef2da29f7e913afce723579fea7c7903bc274"
+        },
+        {
+          "path": "analytics/pyproject.toml",
+          "sha256": "52b0fd757f0f3e2cc450c8395c973337b56c6d2e433a0d5bb5a2b5198bf64f2c"
+        },
+        {
+          "path": "analytics/tests/__init__.py",
+          "sha256": "9dbc4bf992a7f17dbc9fc1f2c64d62823557f923593658c7682655c9a3b35d91"
+        },
+        {
+          "path": "analytics/tests/conftest.py",
+          "sha256": "31e4c79f337c6b0f8e1fa3f8967b9f5e223bdf470440db282e813ef03516a562"
+        },
+        {
+          "path": "analytics/tests/fixtures/events-empty.jsonl",
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "path": "analytics/tests/fixtures/events-malformed.jsonl",
+          "sha256": "c50aa201feed66ce52ccd1ff1e14768c616754edc910c8a8504423c961516b60"
+        },
+        {
+          "path": "analytics/tests/fixtures/events-small.jsonl",
+          "sha256": "7ac868e191922d351577aa237beb2e9614ad3c2dfc6964b53ea801d64bf45517"
+        },
+        {
+          "path": "analytics/tests/fixtures/events-week.jsonl",
+          "sha256": "58cf6417a335a2cc16ffe4ad4eedf9064b75ad4d5bb6e72f941fc4c6fa7aa59b"
+        },
+        {
+          "path": "analytics/tests/test_cli.py",
+          "sha256": "edd461e1e25cc669718cc0a017c962fbf785f4ed6fdd6b982304a06c9b89ed4a"
+        },
+        {
+          "path": "analytics/tests/test_events.py",
+          "sha256": "03c4cf1eeef131480566d275ecc0c4335fd18e089067144ccb644f54d7929dc6"
+        },
+        {
+          "path": "analytics/tests/test_modifications.py",
+          "sha256": "adad9e3eb95d72bff82d9ea08657a551a7830305b5803d773c3163ea4c6ed1ac"
+        },
+        {
+          "path": "analytics/tests/test_render.py",
+          "sha256": "34660a2e2e111b888ba0c065519135a8100a8784384b2d9d5dbc0e4f4fadc546"
+        },
+        {
+          "path": "analytics/tests/test_revenue.py",
+          "sha256": "2915100db4283fd5c72e1454771de7164ebe1df1bb7a9d79ca504c7e6fdf4d1d"
+        },
+        {
+          "path": "analytics/tests/test_utilization.py",
+          "sha256": "c6092ceaa9049d031857b8f23015688a397b6ed1fd99bac1600c3ba8d5e4703c"
+        },
+        {
+          "path": "analytics/tests/test_windows.py",
+          "sha256": "56faef4689d510d10194d158271aef56783e9eb66de18e96789b1676b8b9dbd7"
+        },
+        {
+          "path": "billing/pom.xml",
+          "sha256": "6521e2fea6c5fd4f16d43c50806fb2271dc90537c6c6c69a86b82bf1a3c868f1"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/BillingFailure.java",
+          "sha256": "d115075aaf450e6189f537e1a7b82fd7882b77ebc332a2c6ae6d02ca0620f7d4"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/InMemoryInvoiceStore.java",
+          "sha256": "e9ba302e780c442df2bc3ebef882f6b0498f65576a25e378f834ea61af7ecdc9"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/Invoice.java",
+          "sha256": "6a25e925a466302236a596ac14294e1a722376673fc30e584b5cb478c58663dc"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/InvoiceOutcome.java",
+          "sha256": "f729c56fc5df3b6f017aed7cb31b251ab7701dd4f8342ce7b773752c89f674fb"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/InvoiceService.java",
+          "sha256": "07c8a1d5efe18aecfd9e34fc27d382b4979912eceebca427a0aad7b6dc0837fa"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/InvoiceStatus.java",
+          "sha256": "9788dbbd38d4d8bb8528ebd4c8695cd7006107120602095c99b88116a8c9b539"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/LineItem.java",
+          "sha256": "306ac779955bd55cdb8ec21c7846fff5ae348b9067706b2a8f3e0b5ed2433550"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/Money.java",
+          "sha256": "1979c5ec82aa3f87e3980a5e681d83a11189886c6b1bd03c2f97f87669adde6c"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/PriceCalculator.java",
+          "sha256": "53d95c86c2fa91d5d09dff3913f463cf4d4743a6c0234367e1989a38b7df9219"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/PriceContext.java",
+          "sha256": "cb599320d68411ea7cec3045a69ac8cacf359433aa04fb4dfdc6602e562dbc94"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/PriceQuote.java",
+          "sha256": "815a15f34b66b116df854a9dd74092557519014604c8c43de6d6e9896315cb06"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/PriceRule.java",
+          "sha256": "ddfcf27b848caebebd8e44560b7387126f1f5aa7847cf7361325a25022abc404"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/RateCard.java",
+          "sha256": "a0f30ada94cd3d002c29369b088c6475ae53b965a605424777ef85bbb65d0a8e"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/rules/BaseChargeRule.java",
+          "sha256": "3ceb091feefade60b899e8a191fbb6c7a70b7826d4c586c5107f82b690914015"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/rules/LargeGroupSurchargeRule.java",
+          "sha256": "8f8679622e1bb58d25fa0147ac7f2d57871cf2268227733744d48f291046deee"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/rules/LongBookingDiscountRule.java",
+          "sha256": "908cde98b0fab56bc6c2639f74bcf00f2af396bc715b36f0149d17d6f3d2618b"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/rules/MinimumChargeRule.java",
+          "sha256": "7c97a8e98b0115a191fbace90c5b163c6e53e98779b0f3cb3a63b1af20b89b25"
+        },
+        {
+          "path": "billing/src/main/java/edu/cmu/cs214/campusreserve/billing/rules/PeakHourSurchargeRule.java",
+          "sha256": "3179736439a78012d1a6923e252892b8ffd9262013ea6b5867f8680802af941f"
+        },
+        {
+          "path": "billing/src/test/java/edu/cmu/cs214/campusreserve/billing/InvoiceServiceTest.java",
+          "sha256": "1c7814707e0862220ffbe18d9189e5b00e961d552b488f28ed771445bd9e62fc"
+        },
+        {
+          "path": "billing/src/test/java/edu/cmu/cs214/campusreserve/billing/PricingTest.java",
+          "sha256": "f027042092982ce37f93bf194978187c88033f1227b5bde539c3aafc15783df5"
+        },
+        {
+          "path": "billing/src/test/java/edu/cmu/cs214/campusreserve/billing/support/BillingFixtures.java",
+          "sha256": "4321450b022ad3ca93aceb0992b70653ee927557c23b8a9ec5d884d1b36a0b2f"
+        },
+        {
+          "path": "billing/src/test/java/edu/cmu/cs214/campusreserve/billing/support/TestClock.java",
+          "sha256": "4eb99227e8046ae58a72b7e190e0ffa366a8220ab14464f3ccafd54ed1f09c8c"
+        },
+        {
+          "path": "cli/pom.xml",
+          "sha256": "45c081d712df48fe84f579d9a53fe31b1fb8f1268cbcae6528ccd5d8d791e2d3"
+        },
+        {
+          "path": "cli/src/main/java/edu/cmu/cs214/campusreserve/cli/Arguments.java",
+          "sha256": "e9477f5e6085f9599c945c8e9335f3e9934b7e15d430f1839493229557527536"
+        },
+        {
+          "path": "cli/src/main/java/edu/cmu/cs214/campusreserve/cli/CampusReserveCli.java",
+          "sha256": "e645706483d1b6b4d67ec9aa706fd196be36d712c48d6c5e5fbba5bf5febc596"
+        },
+        {
+          "path": "cli/src/main/java/edu/cmu/cs214/campusreserve/cli/CliContext.java",
+          "sha256": "f8e8c82a4f6536f29e2ebe65d3cdb4156ed6f09d0520c723b05e91002037246e"
+        },
+        {
+          "path": "cli/src/main/java/edu/cmu/cs214/campusreserve/cli/Command.java",
+          "sha256": "2a48dbd8019faa3fe0e3f6260e331f277d7764d1cddc378038ef17110ba9d5c2"
+        },
+        {
+          "path": "cli/src/main/java/edu/cmu/cs214/campusreserve/cli/CommandRegistry.java",
+          "sha256": "2d2414d57340a587e1d0526e51cfec433019144f571a554bb65e53fa57cdfe5e"
+        },
+        {
+          "path": "cli/src/main/java/edu/cmu/cs214/campusreserve/cli/Console.java",
+          "sha256": "2ac6fcfd0198e71bcb0ae23c400a923ecd0915533d6ba25975157abae110a163"
+        },
+        {
+          "path": "cli/src/main/java/edu/cmu/cs214/campusreserve/cli/DemoData.java",
+          "sha256": "bc28118fc3663934c91395b7629cbc583b8ac9337daff17426eb0da521604c06"
+        },
+        {
+          "path": "cli/src/main/java/edu/cmu/cs214/campusreserve/cli/Format.java",
+          "sha256": "1930cbbefa26671e1966af0b2e8ef17f10c916f520d1f43a848fb650f97aa395"
+        },
+        {
+          "path": "cli/src/main/java/edu/cmu/cs214/campusreserve/cli/TableFormatter.java",
+          "sha256": "670a25c5a8f3bff9891dce2b48c49e4c27ef2be80073ecead8c397b01310872a"
+        },
+        {
+          "path": "cli/src/main/java/edu/cmu/cs214/campusreserve/cli/UsageException.java",
+          "sha256": "58c4e21eae25a8a4e32962296fd004e4cfaaebd6743fa832f8c854a8f096d51c"
+        },
+        {
+          "path": "cli/src/main/java/edu/cmu/cs214/campusreserve/cli/commands/BaseCommand.java",
+          "sha256": "e7b188d296249841598f2f586e0ec7f90a3451baba25875a394e82373ac6a29b"
+        },
+        {
+          "path": "cli/src/main/java/edu/cmu/cs214/campusreserve/cli/commands/BillingCommands.java",
+          "sha256": "5b3facff2dc681ff7b606441cdcb3586129b980a584e51a261c90f3fecd953bb"
+        },
+        {
+          "path": "cli/src/main/java/edu/cmu/cs214/campusreserve/cli/commands/BookingCommands.java",
+          "sha256": "7fed3edcf67ad00be36249f8e299ae52779ad664edc4fdff3fa342c4cb2be403"
+        },
+        {
+          "path": "cli/src/main/java/edu/cmu/cs214/campusreserve/cli/commands/CatalogCommands.java",
+          "sha256": "b79148cc9a5b776d32a14a4fc298f52acb81d04eb472525d69a8a5cfc4709c17"
+        },
+        {
+          "path": "cli/src/main/java/edu/cmu/cs214/campusreserve/cli/commands/ExportEventsCommand.java",
+          "sha256": "e139cfa7acb2262e780e52a4d01975bda64582afaeca5ef96a8b9dc5b14ae95f"
+        },
+        {
+          "path": "cli/src/test/java/edu/cmu/cs214/campusreserve/cli/ArgumentsTest.java",
+          "sha256": "41ae00a38f4ce10ef8dd3bfb512745fb2f34fa0f4e33fcae756ca77ae5eda7aa"
+        },
+        {
+          "path": "cli/src/test/java/edu/cmu/cs214/campusreserve/cli/CommandsTest.java",
+          "sha256": "754ec04edc44990eb2f2899336a764f42bfe218a1085b5f363db9e41e057921e"
+        },
+        {
+          "path": "cli/src/test/java/edu/cmu/cs214/campusreserve/cli/ExportEventsCommandTest.java",
+          "sha256": "5e952fe7bcdee1c77a27557d377958d25137e6ef0bf3862f1a91796d3944d010"
+        },
+        {
+          "path": "cli/src/test/java/edu/cmu/cs214/campusreserve/cli/support/CliHarness.java",
+          "sha256": "35b4863fa795854b13aa978d8905ad8188e729d4615599d61c801e3e25b4149e"
+        },
+        {
+          "path": "cli/src/test/java/edu/cmu/cs214/campusreserve/cli/support/TestClock.java",
+          "sha256": "a001e912f45e9b31886ec690b4c288e4ebbeef16b8ac4e41a0b1c8793ffdb74b"
+        },
+        {
+          "path": "core-domain/pom.xml",
+          "sha256": "39fe334558b4c0c9436269048ef3013438c93bd759aa7cfc0fd5e39a2dbe161c"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/domain/Booking.java",
+          "sha256": "ad5e7032ad9a2429473c4b1b8bc2c8321c97d7dcaccc62d7bf6dc16b48085806"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/domain/BookingModification.java",
+          "sha256": "2966301bffb6c2a05a8cbb19886290c81cf5573247902bc6294a6a00f4001cd2"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/domain/BookingOutcome.java",
+          "sha256": "363cd1070377d762f02596a4c036d029eb4a5b02602b0b613f7afb8479498e3b"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/domain/BookingRequest.java",
+          "sha256": "0c97efbf90a5d45516816f535d35ed018a18ffa42072b774851ba0871b691c78"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/domain/BookingStatus.java",
+          "sha256": "25237262aefa1d8f4fd9215eabd86458b56330f5f61d11b0671f3fa5417e5a40"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/domain/CancellationResult.java",
+          "sha256": "1f7c09deb7c8cb4856e763957d280371581bea1206341caf10445617ab84e3bb"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/domain/Identifiers.java",
+          "sha256": "a972c0167fa88a3e39aad5b6e7ee6eba4231b2bcdff47e0fc6bb49ab27dd1940"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/domain/ModificationResult.java",
+          "sha256": "99006a610479b282d1ca75404266d9a472fc0364c976935e310e4b045ee7abd2"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/domain/RejectionReason.java",
+          "sha256": "f4d8076d227fd1ff8f95604d3ba838111278858025c6883b44080f2ecd5daf13"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/domain/Room.java",
+          "sha256": "230d79777cb10ef3e8ba180b37ca4d93364d30428f862898e1852152e554ae8c"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/domain/RoomKind.java",
+          "sha256": "5af0d662f65bb5a9642fee151e206d7ba68564e98f4f33a1d3421f0bba50052a"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/domain/TimeInterval.java",
+          "sha256": "918224145985b8366f45d0e788d600c9a0ef03466fad40a6a8e1ac11ea04799e"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/domain/User.java",
+          "sha256": "36b33d216656c18fda97ea869b9fba67e6362a0a97945f3121a7d691bf1eac73"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/domain/WaitlistEntry.java",
+          "sha256": "bf3e04bb9af940b8bf1f107849c58f263aac772c8eaa6960c1edb012a8a128e9"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/events/BookingCancelledEvent.java",
+          "sha256": "aac071ac981b0d00125ac47d9fc79d870af91981431532e320b5d8b175a0b56e"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/events/BookingCreatedEvent.java",
+          "sha256": "ebb11dfcc8c754678612d19123cb5796ce7b39dae9c178132821b53e9267c79b"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/events/BookingModifiedEvent.java",
+          "sha256": "f970a808af40f6fc2abccb82ec536114bbe10339591a17e0b2f8a96a0267c0ab"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/events/DomainEvent.java",
+          "sha256": "803ebbd1e534dd376c0b4a7914987f5b85bddc7fe14faac2a06f83e8eacf16f2"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/events/WaitlistPromotedEvent.java",
+          "sha256": "835850341094cc1b9ec91c9dcc573e92bd2c127ed77fbcd7cfb977696c67e3ba"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/policy/BookingPolicy.java",
+          "sha256": "4cf4a4edcaa53703b8698aad94695415c877bd33185c1c4e088c23af9d171c40"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/policy/BookingRules.java",
+          "sha256": "03a5f9f0ee4399258121dd25a59f89cf7d4c318a607d42038b75f77546693e08"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/policy/ConflictChecker.java",
+          "sha256": "b226dde1bc51099c2955949a1e63d3bca7123bf760af79b745a5a78e7228479f"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/ports/BookingStore.java",
+          "sha256": "f1c159adeb52f57f2f579a2993bab9989299ce81845b1274e10eba921d3dc691"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/ports/EventPublisher.java",
+          "sha256": "4caadb141af1f6c55a0c4d7466234fe78f3361a00b442f9ea9960ece2385c258"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/ports/IdGenerator.java",
+          "sha256": "eabd8d9881141143ccfaeadc40c64a11e43c9d1aa127764e3ee205c9b2b4a93d"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/ports/RoomStore.java",
+          "sha256": "c83ea0c47149c7295ecf17594a6522016c3a5f7be449c339a0fc0c3da22fac4f"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/ports/UserStore.java",
+          "sha256": "e573e6cf14483b13d2422bccc9cd81ffb6c9a2d14a6fa403fd0fa73883ca07fe"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/ports/WaitlistStore.java",
+          "sha256": "232637f8fdd34bb16b217b7d4f54eea0f46fd686df9829fd86fe5bbc419cb7ba"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/service/AvailabilityService.java",
+          "sha256": "df722d11722c2b2b478e668f0c95bcdaa4ef9fcf52d82563a026be6a2a4d2305"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/service/BookingService.java",
+          "sha256": "fe05782ba648ded9310eec245470287efd41c3ba044c17e85f9b1dd93f7cfb38"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/service/RoomCatalog.java",
+          "sha256": "7e63ad01b6cc0355969d8d8656040661212fe41d5322bbb324247adabd3eb181"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/service/RoomSearchCriteria.java",
+          "sha256": "65fe95c5614a1dd38682864d96ec7bc8da37b872e3c7631c181fa0bad8ab3d08"
+        },
+        {
+          "path": "core-domain/src/main/java/edu/cmu/cs214/campusreserve/core/service/UserRegistry.java",
+          "sha256": "dca6a5ee876e2e9b2ed2e9f89a74baa850f37f881545d399205b25114a3b134e"
+        },
+        {
+          "path": "core-domain/src/test/java/edu/cmu/cs214/campusreserve/core/domain/BookingModificationTest.java",
+          "sha256": "dd870c0e2213885139c12f0601d7801db5d666787aa1be488fd7c61b8b60fe17"
+        },
+        {
+          "path": "core-domain/src/test/java/edu/cmu/cs214/campusreserve/core/domain/EntityTest.java",
+          "sha256": "4d77dba50a53c3760ee5f59ec4d54838469a4e52747d7517f07b9508151adca6"
+        },
+        {
+          "path": "core-domain/src/test/java/edu/cmu/cs214/campusreserve/core/domain/TimeIntervalTest.java",
+          "sha256": "00c8951c16637806f033bd996c4c47dbc416011c37143981a1f4f6cb13117c04"
+        },
+        {
+          "path": "core-domain/src/test/java/edu/cmu/cs214/campusreserve/core/policy/BookingPolicyTest.java",
+          "sha256": "90b1b15bdefcf132bfa372402f9c21ee8ab57774ccf8fae3b361654b32e342e3"
+        },
+        {
+          "path": "core-domain/src/test/java/edu/cmu/cs214/campusreserve/core/policy/BookingRulesTest.java",
+          "sha256": "813902fd2aefff033c3e00748c5cfd11cea17c76fa57e252b803aca6634d575a"
+        },
+        {
+          "path": "core-domain/src/test/java/edu/cmu/cs214/campusreserve/core/policy/ConflictCheckerTest.java",
+          "sha256": "8be136794f2c112f295cfed4a9e9a50d3fdf93aeb28ccf0181b1e99f06c9671c"
+        },
+        {
+          "path": "core-domain/src/test/java/edu/cmu/cs214/campusreserve/core/service/AvailabilityServiceTest.java",
+          "sha256": "b8af8a865c602c6f07e1db3528eab01ec016a3a1c3ea8a26f378ef2a4a339921"
+        },
+        {
+          "path": "core-domain/src/test/java/edu/cmu/cs214/campusreserve/core/service/BookingServiceCancelTest.java",
+          "sha256": "246a7bc77f5b807d7f9966841e5b3b23a4314f8cc23550a270a640487056ec47"
+        },
+        {
+          "path": "core-domain/src/test/java/edu/cmu/cs214/campusreserve/core/service/BookingServiceCreateTest.java",
+          "sha256": "53f76aa4c9dc712e464e0680f26121a2351c844e1ba0eeda734b1942f1afb3f5"
+        },
+        {
+          "path": "core-domain/src/test/java/edu/cmu/cs214/campusreserve/core/service/BookingServiceModifyTest.java",
+          "sha256": "4da78c3765c124921e7ccbabd0c9806d41597da1f0fcd1354a26e062e80d5111"
+        },
+        {
+          "path": "core-domain/src/test/java/edu/cmu/cs214/campusreserve/core/service/BookingServiceTestBase.java",
+          "sha256": "22d6c1d6675ad8fd9faaa56d18cd7b16c304adfd39e277643dd94d8950bad4ee"
+        },
+        {
+          "path": "core-domain/src/test/java/edu/cmu/cs214/campusreserve/core/service/BookingServiceWaitlistTest.java",
+          "sha256": "ba6535c28755acc883305f5cf9df53f1426c0be16ec07660ec0961b76c799cf3"
+        },
+        {
+          "path": "core-domain/src/test/java/edu/cmu/cs214/campusreserve/core/service/CatalogAndRegistryTest.java",
+          "sha256": "5ace14df1a9bcc3af13c213a88a544d38145371911ee625bda5b886711dffab8"
+        },
+        {
+          "path": "core-domain/src/test/java/edu/cmu/cs214/campusreserve/core/support/Fixtures.java",
+          "sha256": "ca662469cb41e6924cfec8a153939e24e77323fdcd774b74288a73928c80a688"
+        },
+        {
+          "path": "core-domain/src/test/java/edu/cmu/cs214/campusreserve/core/support/InMemoryStores.java",
+          "sha256": "2a46f35e85728f2193e05555df645d8aeb63bc6efc29b6d49acfdd4189c4144e"
+        },
+        {
+          "path": "core-domain/src/test/java/edu/cmu/cs214/campusreserve/core/support/RecordingPublisher.java",
+          "sha256": "0e171e6f54cd2b5f69330082e87fd0c6be8b65b2de631b699b84231e329639dc"
+        },
+        {
+          "path": "core-domain/src/test/java/edu/cmu/cs214/campusreserve/core/support/TestClock.java",
+          "sha256": "7f20ba18117a553bf9274ce758391b647d14dc54e7a7ec2c6f63570476068bf5"
+        },
+        {
+          "path": "http-api/pom.xml",
+          "sha256": "940d83a5c96de2c80d319049d4d3a12d9db0c1fd549998d0eee9269b6be0c365"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/AccountsUserDirectory.java",
+          "sha256": "9b68702f62797d1ec07e69f871f7a68bfa801f471028a875684fe37e2e9f5be2"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/ApiException.java",
+          "sha256": "5701a0b5df2d489c6aca450ab7815aa0422f9b6bf0638e51772832b8e0e7a4d2"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/ApiHandler.java",
+          "sha256": "c54fc768e1f73f227d1df6ff303f9f036ef45eed96b1b1183cbd0a10012fc969"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/ApiResponse.java",
+          "sha256": "296fda69b1cda821524d3d62e6fd974b98bed1725302c8ae83ed42583e1c15f7"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/BookingsHandler.java",
+          "sha256": "b8dabd6b43c7aa5eb5b90072f873a849b08576a479eab866eb4593ca7283e3bf"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/CampusReservePlatform.java",
+          "sha256": "17edf62c70d489b403273984f967f7458ac2e49be7052555118be3fae84492e9"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/CampusReserveServer.java",
+          "sha256": "6bcce87c31ab4bca09f339b2e7d37b60d594d41121911ed920cc1fa3002db3d9"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/ErrorMapping.java",
+          "sha256": "95eba65b8216b57a3038dbb309a0cf7c5f977db99c64c3fde96dd42b9672e0f2"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/FormValues.java",
+          "sha256": "9524272c8611ae5454d58b53c5aa6d971a1a01cfb35b3a44f2ce7793c12451a6"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/HttpApiServer.java",
+          "sha256": "fe7cec86d0690d4a2886d14742b0597f3a11740d014224d94900410e728587ab"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/JsonArray.java",
+          "sha256": "3ff3a88894e22ce7ac6e37e609b84728feb423d0db4d02b85e8624d816f284c7"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/JsonObject.java",
+          "sha256": "fab8bb3b71ce7262c4856a780d7764da9d7953c5f3a6516bafe4c0fc148cefdc"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/JsonViews.java",
+          "sha256": "f78bba423efa6f407d131198493c86852fcd5c6ca1ebd54549ce43862bd06ef9"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/RequestAuth.java",
+          "sha256": "80cb4c190028405191bf36a1e3bcc36cebd491d172669a03416eb465c04100a3"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/RequestContext.java",
+          "sha256": "704c119e0e722bbbbcd0030ef1ad88e518eeafc4981bf4981ad6fdd6363c7175"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/RoomsHandler.java",
+          "sha256": "20b8881acddb5b46607c580caa0c495d2c2d5fb2427f472bcd56c4d8691e5807"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/Router.java",
+          "sha256": "a324e9e4974ccede4f0feecceb3749c7c2bfb0991402fa5b20a1ddb94175ce7e"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/Status.java",
+          "sha256": "ef889e8cac9e4eb826fd709367955b0a970ef5d16ff24ced82158618c8391564"
+        },
+        {
+          "path": "http-api/src/main/java/edu/cmu/cs214/campusreserve/http/WaitlistHandler.java",
+          "sha256": "241efe12a59116d936aa8718bf8965d6516587296afd7791a97efb64bc670bfb"
+        },
+        {
+          "path": "http-api/src/test/java/edu/cmu/cs214/campusreserve/http/ApiTestServer.java",
+          "sha256": "f7401f67fc622fa5f04c15d9186cf489873864cd6827c38ee053b5e87d26db74"
+        },
+        {
+          "path": "http-api/src/test/java/edu/cmu/cs214/campusreserve/http/EndpointTest.java",
+          "sha256": "66b74707ccfec19f6042d1524681e3bf9e486fe0f76c17f48aa9cfce88662d1e"
+        },
+        {
+          "path": "http-api/src/test/java/edu/cmu/cs214/campusreserve/http/ModifyBookingEndpointTest.java",
+          "sha256": "7ae381e3544c1e76768871544319476077c42da1831722c76731087e05227196"
+        },
+        {
+          "path": "http-api/src/test/java/edu/cmu/cs214/campusreserve/http/RequestPlumbingTest.java",
+          "sha256": "62355d2d897828053319406f254c6307a18680fd19ff42c34c6cc61a90087177"
+        },
+        {
+          "path": "notifications/pom.xml",
+          "sha256": "8d04ac6ed4930b79a741f12f11ba12cba26b67b9535359ea7de4a12903a679a8"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/Channel.java",
+          "sha256": "1793fbf4f81dbbaec55fb7439417d66e9fddcef9be6bb71268fca17e092f5423"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/InMemoryOutbox.java",
+          "sha256": "6b84a3e5648d98eeda3eae67663b9ade81331318abc414c8058505c2b5f6b196"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/InMemoryUserDirectory.java",
+          "sha256": "6c30b8ceeebdcc38edbbf85f2e2231f65690e1fcee292c2bc7c33905268aede1"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/IntervalText.java",
+          "sha256": "8d9324661910aa8b3948f892d352888a593ebd026d21fb81090d6820bd33851d"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/Notification.java",
+          "sha256": "40078dd2e1b8eea652fbd29db337a573bc70235608f317836674dd5f2c12b1ca"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/NotificationKind.java",
+          "sha256": "6d1310444668e5fa321672e1277bb225e292af3905fb4cec15fb440086dd203b"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/NotificationService.java",
+          "sha256": "b781ba030a80c89a7b1bcc99b32a8fbdceff415ddae067bad2d4b3e0cc6ff170"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/Outbox.java",
+          "sha256": "9a4b731ef6f4e7ed25ec48cccd242ecff081dca8108a8a24010229627a97489c"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/Recipient.java",
+          "sha256": "321c72b8ec46f71ac524a68857194d1edbbbd28188b7707dbc8415f1bc863cec"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/UserDirectory.java",
+          "sha256": "0b0452c8874d700c0af33f3029c9439bf6c95faa4bc5eb5d5f6446be05bce379"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/delivery/DeliveryFailure.java",
+          "sha256": "9908bf239e874aede3b39d5a0d09d1b31210e0c602ef0814d923f3770f9f32ea"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/delivery/DispatchReport.java",
+          "sha256": "7de8f59d8a2e0e19c472a8732098aa221004f9f10f1be37757c9a5fc3fbb4eeb"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/delivery/Dispatcher.java",
+          "sha256": "9b8b10aaa69613e4602e1b868c2e2050bc7a07652002366d7152f3aa85cebe49"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/delivery/RecordingTransport.java",
+          "sha256": "b5afe31085361c1d6434140b3886e2a1373a2ef8c45bc9682be5a6a3e1ae2a6d"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/delivery/RetryPolicy.java",
+          "sha256": "ca90f95a07f95f4e286c4fddadb3f0ddca737a744addbbf5bdd920ec674f7805"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/delivery/Transport.java",
+          "sha256": "5e7f9ff8bc49d6827f640df8478248306f4cdc2b25709982e43ce7a62aa0d9c8"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/delivery/TransportException.java",
+          "sha256": "2c8f1b50ddd04bdc1c941796feb598cf89326231bf5147500e2e63dd03f98127"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/templates/BookingCancelledTemplate.java",
+          "sha256": "2c4a569f885466e4fad95533545156e461dda457de488a0cf83ac0c5ddaa6527"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/templates/BookingConfirmedTemplate.java",
+          "sha256": "c4f274a4f0e6037f176e84452010827572b27190f211bf02d0de0245de70409d"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/templates/BookingModifiedTemplate.java",
+          "sha256": "bd8f92e516f551b7ceb1967b16a2bdd2b067b6c9b73b7933e02a5fb35697d42a"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/templates/MessageTemplate.java",
+          "sha256": "0a16c3eb9c9e1a8aa5f70ee4c75c98778e0c5b7a32f59d4276a09dbbb8113f74"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/templates/Placeholders.java",
+          "sha256": "8b4877e67525758d697bd197bd67604a2084db912644ea113abcb418e27c2589"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/templates/TemplateException.java",
+          "sha256": "e5283e2a26946175a751df7a24c6b4c6dc81aa7d1ecc49e7b0a76c443f975f08"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/templates/TemplateRegistry.java",
+          "sha256": "aa23489e9f7b416df0296fb302fea8a3182ffd0e888235d0b3b508b914654133"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/templates/Templates.java",
+          "sha256": "29f86a84813cd8e5d69a4b16f1224c54419b30dc1eb98a39138e986efd0c0a28"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/templates/TextMessageTemplate.java",
+          "sha256": "8f05ebba0dd54b855101074cd0a5780a222a16623723463696fbad09340732d2"
+        },
+        {
+          "path": "notifications/src/main/java/edu/cmu/cs214/campusreserve/notifications/templates/WaitlistPromotedTemplate.java",
+          "sha256": "b300648fae1171d39bdb17ca99a454dba0a7714eaced7514731d42bb0e7e206e"
+        },
+        {
+          "path": "notifications/src/test/java/edu/cmu/cs214/campusreserve/notifications/BookingModifiedNoticeTest.java",
+          "sha256": "14bfcac5c761db8538d9974b036c9ec5e6fbb0e663173b10d557887e5b26ea9d"
+        },
+        {
+          "path": "notifications/src/test/java/edu/cmu/cs214/campusreserve/notifications/InMemoryOutboxTest.java",
+          "sha256": "75bcb09fbca8a058223a6078c81d934d6cd70d2a251f902b23ddd0b81c396f09"
+        },
+        {
+          "path": "notifications/src/test/java/edu/cmu/cs214/campusreserve/notifications/NotificationServiceTest.java",
+          "sha256": "5662c46aaffbbd4900969d230b4f8e3a8ea83a277e805c6e35439c4458ba215e"
+        },
+        {
+          "path": "notifications/src/test/java/edu/cmu/cs214/campusreserve/notifications/ValueTypesTest.java",
+          "sha256": "49f744bbeaa347000111fc5ff88364070d885d9ee05dd0f18a25557a24568bea"
+        },
+        {
+          "path": "notifications/src/test/java/edu/cmu/cs214/campusreserve/notifications/delivery/DeliveryTest.java",
+          "sha256": "9c1c81432edcafed3da513c0e4fa4f232574d616c9678fb30d797704483d37ec"
+        },
+        {
+          "path": "notifications/src/test/java/edu/cmu/cs214/campusreserve/notifications/support/FailingTransport.java",
+          "sha256": "feff28e74e3d08af468ea890aad9e238659cb5adab7ed7cc3f8b109379115980"
+        },
+        {
+          "path": "notifications/src/test/java/edu/cmu/cs214/campusreserve/notifications/support/Fixtures.java",
+          "sha256": "d36a4e2e95c77936fe2e0bfc4d048a5754c33a7abafd208727c2b7eeb9908b51"
+        },
+        {
+          "path": "notifications/src/test/java/edu/cmu/cs214/campusreserve/notifications/support/TestClock.java",
+          "sha256": "80e648536cb15233fb3c819fada60edac141977bf65af201d91ced3a9efaa3a6"
+        },
+        {
+          "path": "notifications/src/test/java/edu/cmu/cs214/campusreserve/notifications/templates/TemplateTest.java",
+          "sha256": "263e4b9d408a9d316ab94095f81e373f6ad45521ae9899a792bda12c2db593e2"
+        },
+        {
+          "path": "pom.xml",
+          "sha256": "e0cc5faabaf356b04b116f10a22aceee14f94f17fa63942bf57942b19c7516c8"
+        },
+        {
+          "path": "proxy/nginx.conf",
+          "sha256": "7fbfe5e240d2666cc4af6d2bc37a0814856ad89b82b3d4db3f77a41f1f788856"
+        },
+        {
+          "path": "storage/pom.xml",
+          "sha256": "a4d8cfb86e605e114191d9ca63dafd26c2cc66b43320b0169077d068cea9ec40"
+        },
+        {
+          "path": "storage/src/main/java/edu/cmu/cs214/campusreserve/storage/EventLogFormat.java",
+          "sha256": "c22e8968bd026ddace19aa7e737c78c70a02fe3d5ff664399fe9efe0051e233a"
+        },
+        {
+          "path": "storage/src/main/java/edu/cmu/cs214/campusreserve/storage/EventLogPublisher.java",
+          "sha256": "bcbd319c631b91a67535f2eee035ad92ebe7e1190a89496594c3dc700901f456"
+        },
+        {
+          "path": "storage/src/main/java/edu/cmu/cs214/campusreserve/storage/EventLogWriter.java",
+          "sha256": "7c53114ba0e81b51fc7d210164a743fd99f86b8d24058a5ea55b4357b9a03251"
+        },
+        {
+          "path": "storage/src/main/java/edu/cmu/cs214/campusreserve/storage/InMemoryBookingStore.java",
+          "sha256": "0868f298f3da8335511ae112111d7c00a5e96deb2b48fbbb393cfcbd8df34013"
+        },
+        {
+          "path": "storage/src/main/java/edu/cmu/cs214/campusreserve/storage/InMemoryEventLog.java",
+          "sha256": "29e6aca9650ead07f07196fac2351155b5c40b6eac817a8089a9b085824cdaf0"
+        },
+        {
+          "path": "storage/src/main/java/edu/cmu/cs214/campusreserve/storage/InMemoryRecordStore.java",
+          "sha256": "2ed68a0eabc84fd495497ba886fefda9c59c31e230a034ca364e5c161896d511"
+        },
+        {
+          "path": "storage/src/main/java/edu/cmu/cs214/campusreserve/storage/InMemoryRoomStore.java",
+          "sha256": "895ae355d3e5f1e8046cec0761d935b79e9acca2ebb2fb416e25cd65bd308812"
+        },
+        {
+          "path": "storage/src/main/java/edu/cmu/cs214/campusreserve/storage/InMemoryUserStore.java",
+          "sha256": "6a77837c1345b472f543841cc7d1127d20bd75760ba4a1da560cd19ce8ec3e27"
+        },
+        {
+          "path": "storage/src/main/java/edu/cmu/cs214/campusreserve/storage/InMemoryWaitlistStore.java",
+          "sha256": "9b2fb9fe8b1315b397e6c01aa89d5341c7ad89ec62c306ffd6712949240d0467"
+        },
+        {
+          "path": "storage/src/main/java/edu/cmu/cs214/campusreserve/storage/JsonLine.java",
+          "sha256": "edb3a552bea1fccb2232f711a51e3b06bddda2a57b069fcf3ebe3acb5260483e"
+        },
+        {
+          "path": "storage/src/main/java/edu/cmu/cs214/campusreserve/storage/JsonlFileEventLogWriter.java",
+          "sha256": "a9551d9598e57547e888037e182400e9ba612230e5ae08da94aede6778f516fd"
+        },
+        {
+          "path": "storage/src/main/java/edu/cmu/cs214/campusreserve/storage/StoreRegistry.java",
+          "sha256": "465119eabfc665f6572d61efd3cab22426a3b81ea780972c7d672261f5912240"
+        },
+        {
+          "path": "storage/src/test/java/edu/cmu/cs214/campusreserve/storage/BookingFlowStorageTest.java",
+          "sha256": "7288d20c09cc4f920250de6aa867e0b803cea5e7648730efc521cd8b082d4a52"
+        },
+        {
+          "path": "storage/src/test/java/edu/cmu/cs214/campusreserve/storage/EventLogTest.java",
+          "sha256": "89aff51d5700978085384b956259e70f584ed34166f06050be0e23709b6b9ad6"
+        },
+        {
+          "path": "storage/src/test/java/edu/cmu/cs214/campusreserve/storage/FindConflictsTest.java",
+          "sha256": "494d80ae38bd6e9c843a895131ff87c3b6855e9102819224df1d8ab076defcbe"
+        },
+        {
+          "path": "storage/src/test/java/edu/cmu/cs214/campusreserve/storage/InMemoryStoreTest.java",
+          "sha256": "c9e8c8eb6cb3e3dfa7ecceb681cbba9b6b1d97adc06f59b0e2242888e742edf7"
+        },
+        {
+          "path": "storage/src/test/java/edu/cmu/cs214/campusreserve/storage/ModificationStorageTest.java",
+          "sha256": "ed8a7c96100c10458fde8fb10e212531acbe4888a34f05e090d96d3cab46bf7a"
+        },
+        {
+          "path": "storage/src/test/java/edu/cmu/cs214/campusreserve/storage/StorageFixtures.java",
+          "sha256": "b55d5fcc28c2c46273b46aed207063a060fbaa62d192b0970d6ecbc65f8555af"
+        },
+        {
+          "path": "storage/src/test/java/edu/cmu/cs214/campusreserve/storage/StoreRegistryTest.java",
+          "sha256": "2944d5f75fcc0d8e561f73eac16e1d94a02dd55a1e599fee0aaaa8261635b640"
+        }
+      ]
+    },
+    {
+      "path": "course-materials/starters/f26-lab10",
+      "origin": "https://github.com/CMU-17-214/f26-lab10.git",
+      "commit": "a8dc8f574f0a5c8e154aee5a87b351277497d4a5",
+      "files": [
+        {
+          "path": ".github/workflows/ci.yml",
+          "sha256": "27c0108cce78c84989c7b8b42ed9406cd9133986fb08bd1a1bdf241c4e68fd3e"
+        },
+        {
+          "path": ".gitignore",
+          "sha256": "3bd22ed1ae5796cccb16cfaf8b0bd3d85a5203556f7e5b73191a8e20cc1fdd08"
+        },
+        {
+          "path": "RACE.md",
+          "sha256": "e16acc7953e87b56d62ee5edd190b5d10868c91eb97bfb3c85a9d6b9e42b8754"
+        },
+        {
+          "path": "README.md",
+          "sha256": "5545430c87b4a08af1b0ee897d9bbd1bfcc18de982c03846163b7efa4f7e313d"
+        },
+        {
+          "path": "SETUP.md",
+          "sha256": "1a9d12f0d605d5742abd8f307422e49c6b78fff436da943e391c7364e6f4220c"
+        },
+        {
+          "path": "TICKET.md",
+          "sha256": "128dd904d8be35a76c5f39f20a8401a8ef58ab40ff2e8bc4f31d96b6ed5c94db"
+        },
+        {
+          "path": "pom.xml",
+          "sha256": "92bd6f5ff17f90dfed4303820e61538ae6ca4704ec6e37c40e35ecdec10c0ab3"
+        },
+        {
+          "path": "proposed-fix.diff",
+          "sha256": "766eabf4ccafca9e9002a5a2690e3d063ed531d618ed566c67530cb01d59b30d"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/lab10/domain/Booking.java",
+          "sha256": "82d28d2d0143510c80b7a559b7bdce7d94b4af9af6e47e63305fc1713b1b07c4"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/lab10/domain/BookingResult.java",
+          "sha256": "34afee6e498efaaa6bfc8780eb660ea932ff82bf2a92ad57d7bf345d23ae6c71"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/lab10/domain/BookingStatus.java",
+          "sha256": "e1c6fdc91b320bd62fff29d7efb406fa87b7089d8427eb3df796fcd5fee71bb6"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/lab10/domain/Room.java",
+          "sha256": "eb6d4b0c636cd4a8516bfb36a4206840b822de3e1a9f683e435e7f1b282de824"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/lab10/harness/PausingStore.java",
+          "sha256": "5722c6845edb713810ee494b3abf95613e86393a82b54a5c3814300fbf08c790"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/lab10/harness/StressRunner.java",
+          "sha256": "588b5c7916ebae88d6f4fd3e4c13041e4e1901a6f8235373fcd22e074afb3db1"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/lab10/service/BookingLog.java",
+          "sha256": "25a7bbc0d46e33d61ac734a6d94375cf7e0311532cce7e276d2ad2878980ded0"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/lab10/service/BookingService.java",
+          "sha256": "7bcac8e42956a079649772b69d61be17b328c2851ba1bedbd1a9def589aa87bb"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/lab10/service/BookingStats.java",
+          "sha256": "c615f0222ad4274c827345affa60599ed32971cdd392275ba931b0d76530ee49"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/lab10/store/BookingStore.java",
+          "sha256": "875940d3e60f0b8dd103e0c0de9ecb59a651f83a37d538df2dae886878df2fbb"
+        },
+        {
+          "path": "src/main/java/edu/cmu/cs214/lab10/store/InMemoryBookingStore.java",
+          "sha256": "b00e108924a1da52c852145db2903ea53e35622dcf715977eb37bc86f08f3b2f"
+        },
+        {
+          "path": "src/test/java/edu/cmu/cs214/lab10/domain/BookingTest.java",
+          "sha256": "381feb95f2998c60b281b2b57d4c8a20d213d2c846b1939dd48c35d5cf5a15ee"
+        },
+        {
+          "path": "src/test/java/edu/cmu/cs214/lab10/harness/RaceTest.java",
+          "sha256": "0c3c280d1a7a01048491ebf991536e4b48168a2cbda7b84e8eeecbd3d95c198a"
+        },
+        {
+          "path": "src/test/java/edu/cmu/cs214/lab10/service/BookingServiceTest.java",
+          "sha256": "ee2dcc81c60db8862161ffc25ed84d0dbc69d9ab6864e585ce5554ee14865f97"
+        }
+      ]
+    },
+    {
+      "path": "course-materials/starters/f26-lab11",
+      "origin": "https://github.com/CMU-17-214/f26-lab11.git",
+      "commit": "8e4cd2b15a1ac932218e3d658f20dbf387c7013c",
+      "files": [
+        {
+          "path": ".github/workflows/ci.yml",
+          "sha256": "6c9f74ef74b60fba1ea96723dd8eb592f5d56053d37d2ede40211f7bacb45d83"
+        },
+        {
+          "path": ".gitignore",
+          "sha256": "57aa075d495bfa421f1507ab9cc4d95a28ad96b6ebb9bc104161ec951f77dc2d"
+        },
+        {
+          "path": "EVENTS.md",
+          "sha256": "0cc37806e73bd4e587865a119d7271af2e9273839972c3a1b2dc3393ebadf69f"
+        },
+        {
+          "path": "README.md",
+          "sha256": "d29087de7571af408ed6abeb3c6226457d5e27c57ad987c7d760009ff1458952"
+        },
+        {
+          "path": "SETUP.md",
+          "sha256": "21447d44618a375150408746648dd4236e9643e4c04bdf3e1ee8925709b64b76"
+        },
+        {
+          "path": "TICKET.md",
+          "sha256": "59f14bf52122e1edb09c0af1ba483c72e4290d6178ba32705b6f27cc1692c627"
+        },
+        {
+          "path": "package-lock.json",
+          "sha256": "22df1798d71dbb536c9eac3de3843fe4262cfcd4366d540011101fdd9998290d"
+        },
+        {
+          "path": "package.json",
+          "sha256": "fa3a2635358e5e87a1841f0383042dfc4277fd6c6e5d4f49d6654cc199fb6ba4"
+        },
+        {
+          "path": "src/app.ts",
+          "sha256": "b695a42c12feeb8ea24a1ae9b92b09f9211cc9ed827f0ed90e086fbb343ee263"
+        },
+        {
+          "path": "src/audit/auditTrail.ts",
+          "sha256": "7143086793b22e86b92c0cf9133cc70982660f8da31b7000091eb15c11f8c7e0"
+        },
+        {
+          "path": "src/bus/events.ts",
+          "sha256": "d5b00dcf9d55f4ffd875a33a8a00fb6255b45688a56430a506f1c020c39e1594"
+        },
+        {
+          "path": "src/bus/inMemoryBus.ts",
+          "sha256": "2f787e6bd71d94c7f01bc5a00b8fcfba3f82e38c096ff9f6815005c934142216"
+        },
+        {
+          "path": "src/demos/failureDemo.ts",
+          "sha256": "7bfd7beb0470496d06a8ef316f4fe470f31c01c373db7ba0693908f3628a20bd"
+        },
+        {
+          "path": "src/demos/replayDemo.ts",
+          "sha256": "75e083de8585f6826ad3de8a43aaa8c794a55574ab6c0c9bb23aea67d6a922a7"
+        },
+        {
+          "path": "src/demos/state.ts",
+          "sha256": "981f7a6a4df4869bd0accc3c2419daa84fcba29fd73d965fd56c9d36a0d856f7"
+        },
+        {
+          "path": "src/domain/booking.ts",
+          "sha256": "04c3ceca923c217b9c10ce149e61d55cc5834e9c62f35abb7382984f2d270a39"
+        },
+        {
+          "path": "src/domain/types.ts",
+          "sha256": "c4eae511a06c5d84d60ecaf2d92f401e63894587812cb23e403a731777f20f2b"
+        },
+        {
+          "path": "src/domain/validation.ts",
+          "sha256": "a64657e64835ccb4020a00a2af42645497921ab16356123d00f8567920cf59c1"
+        },
+        {
+          "path": "src/handlers/emailConfirmationHandler.ts",
+          "sha256": "5e3043758fb4210f8e0db7d6b35e7ba0a2072bc76a3be57cad2ac5267faca60c"
+        },
+        {
+          "path": "src/handlers/receiptGenerator.ts",
+          "sha256": "2e006665b08ec154f1bd9dd85ad6abfd9afe1483d77783880b8a1c9b62421a63"
+        },
+        {
+          "path": "src/handlers/refundLedger.ts",
+          "sha256": "b65128b72be878b828bb4ceffb3db1c3368c77db40b7fbcfcfbe4ca9a6cc35ba"
+        },
+        {
+          "path": "src/handlers/reminderScheduler.ts",
+          "sha256": "f4746c6951cfbe6553d6c78a89cc7fe5ffe79990ad3b233d58f615a637dae741"
+        },
+        {
+          "path": "src/handlers/statsUpdater.ts",
+          "sha256": "8c8bb4835fa3c70b31f5ba4504e1e23052246bc1dd9ec2b388142f981af9a021"
+        },
+        {
+          "path": "src/integrations/mailer.ts",
+          "sha256": "e44275bab8a35689f24184e9f457ddf5ac4522adf87aa1649dd190eed85313da"
+        },
+        {
+          "path": "src/integrations/paymentGateway.ts",
+          "sha256": "1ee206b28227a247ad29479f1bacf4a2d7ff9a416fd5ad120527546df9bc5d6e"
+        },
+        {
+          "path": "src/integrations/searchIndexClient.ts",
+          "sha256": "df13bbad7f478eda9e85ba66cb19daf212b156e192d50e20918ca97334065d1e"
+        },
+        {
+          "path": "src/integrations/templates.ts",
+          "sha256": "9072005ace776e4becb24c6bb17cb61bae51610d1e388e05c4f94bdd7943d7cb"
+        },
+        {
+          "path": "src/ops/cleanupSweep.ts",
+          "sha256": "ff99da47c4b2004a7d902b5e74006d29e04bd8c639cabe9feb382d8ccd588915"
+        },
+        {
+          "path": "src/reports/usageReport.ts",
+          "sha256": "7cfa02d57c912f802264a01433616f15a96fc97b25a486c316cc320cb1d9ab9c"
+        },
+        {
+          "path": "src/service/availability.ts",
+          "sha256": "4bc939d50007b0f116ccc0e784f7bf792663f841a26c705db4e3e0a02e1ddc90"
+        },
+        {
+          "path": "src/service/bookingService.ts",
+          "sha256": "3eb77cc5a9f8bc380327c88d069e98e782e109a193f0621ffbf16a87ae1cd443"
+        },
+        {
+          "path": "src/service/pricing.ts",
+          "sha256": "05a26dbb9df9b02db13f3a886fb2ef95bbf70673fdc9dd2a69d366b57b68189f"
+        },
+        {
+          "path": "src/store/bookingStore.ts",
+          "sha256": "7fb447a8402f630e94190ce90354e3b121a712618301f64a860aa359bc6cd8da"
+        },
+        {
+          "path": "src/store/inMemoryBookingStore.ts",
+          "sha256": "8c427440654470029cce2bcb71520ba67fb16f81b20d1bcf61d7d9ddfdf08783"
+        },
+        {
+          "path": "src/store/roomRegistry.ts",
+          "sha256": "ed0eb0914504c8e94e0413797bf7b434e7da6560255b69c6213ee131a068db25"
+        },
+        {
+          "path": "src/support/clock.ts",
+          "sha256": "b141441614cefff225e0d15028c7ec88b5d9c4b4446051006ccd8df5a99eb015"
+        },
+        {
+          "path": "src/support/sampleData.ts",
+          "sha256": "443cac30d872b8ae98f93d4d271dc8ba810a256f63f0ebbe7d64a7577a9a9956"
+        },
+        {
+          "path": "tests/bookingService.test.ts",
+          "sha256": "5da598f116b8c6f38bc662311138eabe8f5f7c849db9233088277d34521e8392"
+        },
+        {
+          "path": "tests/bus.test.ts",
+          "sha256": "5d8f5c76319ecff4b4854535e48bf6364a5d0533a1549691591488c23bc8e2e7"
+        },
+        {
+          "path": "tests/domain.test.ts",
+          "sha256": "b2f430ecb4e036c806b0d94f7dccc551bef31a7c6a75ca2aa18f9f807cf1431e"
+        },
+        {
+          "path": "tests/fixtures.ts",
+          "sha256": "85a7a8a1a732779eceafce0e1b70280a5739aa908a90169ee5b9ba9ef6056189"
+        },
+        {
+          "path": "tests/handlers.test.ts",
+          "sha256": "e491f0bff2fbd160ce0d3de4b5aab426d3fb0bda12a2a9ac681e131e68e0866e"
+        },
+        {
+          "path": "tests/opsAndReports.test.ts",
+          "sha256": "9cab161843bca1568541e8ff3ce7bb4f4fa0328cef8d43bb65bd4ea8c3f77ba0"
+        },
+        {
+          "path": "tests/optionalProperty.test.ts",
+          "sha256": "6cd15afd76b78c42764dd91cea89eb70922e839a42364a6d1e5537f17bb8afdc"
+        },
+        {
+          "path": "tsconfig.json",
+          "sha256": "1ac671247dc9a123f8e67d36c20c3a38529c02da9960864ed6e22cd86132acf5"
+        }
+      ]
+    },
+    {
+      "path": "course-materials/starters/f26-lab12",
+      "origin": "https://github.com/CMU-17-214/f26-lab12.git",
+      "commit": "11515036cf660d6335b6c6b258ebb39830b9a4a8",
+      "files": [
+        {
+          "path": ".gitignore",
+          "sha256": "69bea2494fc0af620537ff762fe7dd3084c729300b4f62b36f5e2692a32ab8f6"
+        },
+        {
+          "path": "README.md",
+          "sha256": "87861da81aa3812cbcafc813cfae4e10aecb8c6aa21fa8eb5119ba116c5a632f"
+        },
+        {
+          "path": "SETUP.md",
+          "sha256": "afe101edea28f1a09a19894ef07b8629578e37e805b3f0532421588154e3885b"
+        },
+        {
+          "path": "changes/bad-change.patch",
+          "sha256": "5fa6a0b3f10217022d71bdd35d1f47ba4129d0ae033e56f1bbf1d8e1a39b98b5"
+        },
+        {
+          "path": "pyproject.toml",
+          "sha256": "ec8091a11cb702954fd74853deb653963471e6453e065379db116f1657419f7d"
+        },
+        {
+          "path": "refunds/__init__.py",
+          "sha256": "b883d757de14de5d182894f77ee69a627263289627cadc0877edfbc39362be48"
+        },
+        {
+          "path": "refunds/models.py",
+          "sha256": "99ac6454991280b34a14aceb153d32ea7b1e85f1c8c440a9ed397a63cd46ea35"
+        },
+        {
+          "path": "refunds/policy.py",
+          "sha256": "822847d802889e984ffae6d99057401dfc641b9a78891dc85fe8226c91770b1c"
+        },
+        {
+          "path": "refunds/service.py",
+          "sha256": "88b4981c312f1f523e1984a8f53f1da15e2bdcf7a637c9d9e6eb4339db7ac08c"
+        },
+        {
+          "path": "requirements-dev.txt",
+          "sha256": "3473f73cb807427a9b8451e82da3894aa440acf7d257af8c6216e05247db777d"
+        },
+        {
+          "path": "requirements.txt",
+          "sha256": "cf362256bd79e714e551da5a81d1917dd06725d1ef22eda117e80f48d7aa8802"
+        },
+        {
+          "path": "tests/conftest.py",
+          "sha256": "b23bf6c859d2ecde637be3da56daccc6653a88d9131fb177e6f9e3d497646b95"
+        },
+        {
+          "path": "tests/test_models.py",
+          "sha256": "4976ca1dcd5f63471d40ae5b35e87375b958c05ac79bc91b5cb0bbabc1d69692"
+        },
+        {
+          "path": "tests/test_policy.py",
+          "sha256": "9e345c3405729190ed6b4c240baf9ed8b5c17172b1a20d889aa6ef4506dda687"
+        },
+        {
+          "path": "tests/test_service.py",
+          "sha256": "9d970d2916e0a1c3db8228b67590cc62386ec5aa3bc5580796a76ab21198c88c"
+        }
+      ]
+    }
+  ]
+}
